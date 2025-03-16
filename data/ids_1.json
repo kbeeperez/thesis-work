@@ -1,0 +1,2480 @@
+[
+  {
+    "title": "Snapchat",
+    "url": "http://www.snapchat.com/privacy",
+    "id": 109,
+    "content_access_date": "2025-02-19T11:27:32.678162"
+  },
+  {
+    "title": "Instagram",
+    "url": "http://instagram.com/legal/privacy/",
+    "id": 110,
+    "content_access_date": "2025-02-19T11:29:03.930304"
+  },
+  {
+    "title": "X",
+    "url": "http://twitter.com/privacy",
+    "id": 111,
+    "content_access_date": "2025-02-19T11:30:34.993793"
+  },
+  {
+    "title": "Discord - Talk, Play, Hang Out",
+    "url": "https://discordapp.com/privacy/",
+    "id": 112,
+    "content_access_date": "2025-02-19T11:32:07.394367"
+  },
+  {
+    "title": "TikTok",
+    "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en",
+    "id": 113,
+    "content_access_date": "2025-02-19T11:33:40.114750"
+  },
+  {
+    "title": "Bluesky",
+    "url": "https://bsky.social/about/support/privacy-policy",
+    "id": 117,
+    "content_access_date": "2025-02-19T12:16:37.231035"
+  },
+  {
+    "title": "LinkedIn: Jobs & Business News",
+    "url": "https://www.linkedin.com/legal/privacy-policy",
+    "id": 118,
+    "content_access_date": "2025-02-19T12:18:10.535427"
+  },
+  {
+    "title": "Twitch: Live Streaming",
+    "url": "https://www.twitch.tv/p/en/legal/privacy-notice/",
+    "id": 121,
+    "content_access_date": "2025-02-19T12:24:22.390038"
+  },
+  {
+    "title": "Clapper: Video, Live, Chat",
+    "url": "https://clapperapp.com/privacy",
+    "id": 124,
+    "content_access_date": "2025-02-19T12:33:41.621520"
+  },
+  {
+    "title": "Offline Games - No Wifi Games",
+    "url": "https://www.iubenda.com/privacy-policy/64629328",
+    "id": 127,
+    "content_access_date": "2025-02-19T13:06:54.214337"
+  },
+  {
+    "title": "Magic Tiles 3",
+    "url": "https://www.amanotes.com/privacy-policy",
+    "id": 129,
+    "content_access_date": "2025-02-19T13:10:00.525209"
+  },
+  {
+    "title": "Subway Surfers",
+    "url": "https://sybogames.com/privacy-policy/",
+    "id": 132,
+    "content_access_date": "2025-02-19T13:14:40.021611"
+  },
+  {
+    "title": "Call of Duty: Mobile Season 1",
+    "url": "https://www.activision.com/legal/privacy-policy",
+    "id": 133,
+    "content_access_date": "2025-02-19T13:16:13.873572"
+  },
+  {
+    "title": "Geometry Dash Lite",
+    "url": "http://www.robtopgames.com/privacy",
+    "id": 134,
+    "content_access_date": "2025-02-19T13:17:47.365446"
+  },
+  {
+    "title": "Fruit Ninja®",
+    "url": "https://www.halfbrick.com/pp",
+    "id": 136,
+    "content_access_date": "2025-02-19T13:20:57.456772"
+  },
+  {
+    "title": "Mob Control",
+    "url": "https://www.voodoo.io/privacy",
+    "id": 137,
+    "content_access_date": "2025-02-19T13:22:31.676662"
+  },
+  {
+    "title": "Word Search Explorer",
+    "url": "https://playsimple.in/privacy",
+    "id": 138,
+    "content_access_date": "2025-02-19T13:24:05.953209"
+  },
+  {
+    "title": "Toca Boca World",
+    "url": "http://tocaboca.com/privacy",
+    "id": 139,
+    "content_access_date": "2025-02-19T13:25:41.025962"
+  },
+  {
+    "title": "8 Ball Pool",
+    "url": "https://www.miniclip.com/privacy-policy",
+    "id": 140,
+    "content_access_date": "2025-02-19T13:27:14.042884"
+  },
+  {
+    "title": "Angry Birds 2",
+    "url": "https://www.rovio.com/privacy",
+    "id": 142,
+    "content_access_date": "2025-02-19T13:30:23.025401"
+  },
+  {
+    "title": "Asphalt 8 - Car Racing Game",
+    "url": "http://www.gameloft.com/privacy-notice/",
+    "id": 144,
+    "content_access_date": "2025-02-19T16:49:22.934882"
+  },
+  {
+    "title": "Hungry Shark Evolution",
+    "url": "https://legal.ubi.com/privacypolicy",
+    "id": 146,
+    "content_access_date": "2025-02-19T16:53:11.887674"
+  },
+  {
+    "title": "EA SPORTS FC™ Mobile Soccer",
+    "url": "http://privacy.ea.com/en",
+    "id": 147,
+    "content_access_date": "2025-02-19T16:55:05.211855"
+  },
+  {
+    "title": "Crossy Road",
+    "url": "http://www.crossyroad.com/privacy.html",
+    "id": 149,
+    "content_access_date": "2025-02-19T16:58:56.578298"
+  },
+  {
+    "title": "Home Workout - No Equipment",
+    "url": "https://leap.app/privacypolicy.html?pkg=homeworkout.homeworkouts.noequipment",
+    "id": 153,
+    "content_access_date": "2025-02-19T17:06:42.202001"
+  },
+  {
+    "title": "MyFitnessPal: Calorie Counter",
+    "url": "https://www.myfitnesspal.com/privacy-policy",
+    "id": 157,
+    "content_access_date": "2025-02-19T17:14:32.196957"
+  },
+  {
+    "title": "Fitness App: Gym Workout Plan",
+    "url": "https://fitnessonline.app/privacypolicy.html",
+    "id": 158,
+    "content_access_date": "2025-02-19T17:16:29.480785"
+  },
+  {
+    "title": "Six Pack in 30 Days",
+    "url": "https://leap.app/privacypolicy.html?pkg=sixpack.sixpackabs.absworkout",
+    "id": 160,
+    "content_access_date": "2025-02-19T17:20:29.583387"
+  },
+  {
+    "title": "Fitness & Bodybuilding",
+    "url": "http://vgfit.com/privacy",
+    "id": 161,
+    "content_access_date": "2025-02-19T17:22:26.222923"
+  },
+  {
+    "title": "Fitbit",
+    "url": "http://www.fitbit.com/privacy",
+    "id": 162,
+    "content_access_date": "2025-02-19T17:24:21.702051"
+  },
+  {
+    "title": "Lose Weight App for Women",
+    "url": "https://leap.app/privacypolicy.html?pkg=loseweightapp.loseweightappforwomen.womenworkoutathome",
+    "id": 163,
+    "content_access_date": "2025-02-19T17:26:23.147172"
+  },
+  {
+    "title": "Hevy - Gym Log Workout Tracker",
+    "url": "https://www.iubenda.com/privacy-policy/75379905",
+    "id": 164,
+    "content_access_date": "2025-02-19T17:28:22.020133"
+  },
+  {
+    "title": "Strava: Run, Bike, Hike",
+    "url": "https://www.strava.com/privacy",
+    "id": 165,
+    "content_access_date": "2025-02-19T17:30:20.087959"
+  },
+  {
+    "title": "FitOn Workouts & Fitness Plans",
+    "url": "https://fitonapp.com/privacy",
+    "id": 166,
+    "content_access_date": "2025-02-19T17:32:17.349578"
+  },
+  {
+    "title": "Gymshark Training: Fitness App",
+    "url": "https://gymshark.com/pages/gymshark-app-privacy-policy",
+    "id": 169,
+    "content_access_date": "2025-02-19T17:38:19.301036"
+  },
+  {
+    "title": "30 Day Fitness Challenge",
+    "url": "https://leap.app/privacypolicy.html?pkg=com.popularapp.thirtydayfitnesschallenge",
+    "id": 171,
+    "content_access_date": "2025-02-19T17:42:20.663555"
+  },
+  {
+    "title": "Step Tracker - Pedometer",
+    "url": "https://leap.app/privacypolicy.html?pkg=steptracker.healthandfitness.walkingtracker.pedometer",
+    "id": 172,
+    "content_access_date": "2025-02-19T17:44:24.305829"
+  },
+  {
+    "title": "Prime Video",
+    "url": "http://www.amazon.com/gp/help/customer/display.html?nodeId=468496",
+    "id": 176,
+    "content_access_date": "2025-02-19T17:52:22.290463"
+  },
+  {
+    "title": "Disney+",
+    "url": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
+    "id": 177,
+    "content_access_date": "2025-02-19T17:54:23.673555"
+  },
+  {
+    "title": "PBS KIDS Video",
+    "url": "https://pbskids.org/privacy/",
+    "id": 184,
+    "content_access_date": "2025-02-19T18:08:17.803161"
+  },
+  {
+    "title": "Crunchyroll",
+    "url": "https://www.crunchyroll.com/privacy",
+    "id": 188,
+    "content_access_date": "2025-02-19T18:16:16.180732"
+  },
+  {
+    "title": "Peacock TV: Stream TV & Movies",
+    "url": "https://www.peacocktv.com/privacy",
+    "id": 189,
+    "content_access_date": "2025-02-19T18:18:17.351595"
+  },
+  {
+    "title": "Plex: Stream Movies & TV",
+    "url": "https://plex.tv/legal",
+    "id": 192,
+    "content_access_date": "2025-02-19T18:24:13.769480"
+  },
+  {
+    "title": "ZEE5: Movies, TV Shows, Series",
+    "url": "https://www.zee5.com/privacypolicy",
+    "id": 193,
+    "content_access_date": "2025-02-19T18:26:15.452691"
+  },
+  {
+    "title": "ReelShort - Short Movies & TV",
+    "url": "https://crazymaplestudios.com/v/privacy-agreement.html",
+    "id": 195,
+    "content_access_date": "2025-02-25T08:01:12.442224"
+  },
+  {
+    "title": "PlayStation App",
+    "url": "https://www.playstation.com/legal/privacy-policy/",
+    "id": 196,
+    "content_access_date": "2025-02-25T08:03:09.806533"
+  },
+  {
+    "title": "Signal Private Messenger",
+    "url": "https://signal.org/privacy",
+    "id": 200,
+    "content_access_date": "2025-02-25T08:10:58.237663"
+  },
+  {
+    "title": "Messenger Kids – The Messaging",
+    "url": "https://www.facebook.com/legal/messengerkids/privacypolicy?version=2020",
+    "id": 202,
+    "content_access_date": "2025-02-25T08:14:56.356104"
+  },
+  {
+    "title": "Textra SMS",
+    "url": "https://textra.me/privacyapp",
+    "id": 203,
+    "content_access_date": "2025-02-25T08:16:52.310595"
+  },
+  {
+    "title": "Messages - SMS Texting App",
+    "url": "https://repairbatterylife.com/messages/privacy",
+    "id": 204,
+    "content_access_date": "2025-02-25T10:02:12.242306"
+  },
+  {
+    "title": "WhatsApp Messenger",
+    "url": "https://www.whatsapp.com/legal/privacy-policy",
+    "id": 205,
+    "content_access_date": "2025-02-25T10:04:08.050216"
+  },
+  {
+    "title": "Telegram",
+    "url": "https://telegram.org/privacy",
+    "id": 206,
+    "content_access_date": "2025-02-25T10:06:03.024474"
+  },
+  {
+    "title": "Smart Messages",
+    "url": "https://smartmessages.app/privacy-policy",
+    "id": 207,
+    "content_access_date": "2025-02-25T10:07:58.776595"
+  },
+  {
+    "title": "WhatsApp Business",
+    "url": "https://www.whatsapp.com/legal/business-data-processing-terms/",
+    "id": 208,
+    "content_access_date": "2025-02-25T10:09:54.718238"
+  },
+  {
+    "title": "Rakuten Viber Messenger",
+    "url": "https://www.viber.com/privacy",
+    "id": 211,
+    "content_access_date": "2025-02-25T10:15:44.306807"
+  },
+  {
+    "title": "KakaoTalk : Messenger",
+    "url": "http://www.kakao.com/policy/privacy",
+    "id": 213,
+    "content_access_date": "2025-02-25T10:19:39.636649"
+  },
+  {
+    "title": "Chomp SMS",
+    "url": "https://chompsms.com/privacyapp",
+    "id": 214,
+    "content_access_date": "2025-02-25T10:21:34.079288"
+  },
+  {
+    "title": "Zalo",
+    "url": "https://zalo.me/zalo/policy?src=store",
+    "id": 217,
+    "content_access_date": "2025-02-25T10:27:22.296845"
+  },
+  {
+    "title": "Amazon Shopping",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496",
+    "id": 220,
+    "content_access_date": "2025-02-25T13:33:46.580581"
+  },
+  {
+    "title": "SHEIN-Shopping Online",
+    "url": "https://www.shein.com/Privacy-Security-Policy-a-282.html",
+    "id": 223,
+    "content_access_date": "2025-02-25T13:41:35.945036"
+  },
+  {
+    "title": "Target",
+    "url": "http://www.target.com/c/target-privacy-policy/-/N-4sr7p",
+    "id": 225,
+    "content_access_date": "2025-02-25T13:46:48.382230"
+  },
+  {
+    "title": "eBay online shopping & selling",
+    "url": "https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260",
+    "id": 227,
+    "content_access_date": "2025-02-25T13:52:20.400515"
+  },
+  {
+    "title": "Wayfair - Shop All Things Home",
+    "url": "https://www.wayfair.ca/customerservice/general_info.php#privacy",
+    "id": 228,
+    "content_access_date": "2025-02-25T13:55:02.726437"
+  },
+  {
+    "title": "Best Buy: Shop tech deals",
+    "url": "http://www.bestbuy.com/privacy",
+    "id": 229,
+    "content_access_date": "2025-02-25T13:57:39.669227"
+  },
+  {
+    "title": "Walmart: Shopping & Savings",
+    "url": "https://corporate.walmart.com/privacy-security/walmart-privacy-notice",
+    "id": 233,
+    "content_access_date": "2025-02-25T17:30:17.279275"
+  },
+  {
+    "title": "Nike: Shoes, Apparel & Stories",
+    "url": "https://agreementservice.svs.nike.com/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.commerce.nikedotcom.web&country=US&language=en&requestType=redirect",
+    "id": 235,
+    "content_access_date": "2025-02-25T17:36:22.622598"
+  },
+  {
+    "title": "Flipkart Online Shopping App",
+    "url": "https://www.flipkart.com/pages/privacypolicy",
+    "id": 237,
+    "content_access_date": "2025-02-25T21:00:40.151488"
+  },
+  {
+    "title": "Shop: All your favorite brands",
+    "url": "https://tryarrive.com/privacy-policy",
+    "id": 241,
+    "content_access_date": "2025-02-25T21:08:29.546474"
+  },
+  {
+    "title": "Spotify: Music and Podcasts",
+    "url": "https://www.spotify.com/legal/privacy-policy/",
+    "id": 248,
+    "content_access_date": "2025-02-25T21:29:55.216261"
+  },
+  {
+    "title": "Pandora - Music & Podcasts",
+    "url": "http://www.pandora.com/privacy",
+    "id": 251,
+    "content_access_date": "2025-02-25T21:37:48.285240"
+  },
+  {
+    "title": "SoundCloud: Play Music & Songs",
+    "url": "http://soundcloud.com/pages/privacy",
+    "id": 252,
+    "content_access_date": "2025-02-25T21:39:50.849718"
+  },
+  {
+    "title": "Music Player & MP3 Player",
+    "url": "https://inshot.dev/privacypolicy.html?pkg=musicplayer.musicapps.music.mp3player",
+    "id": 253,
+    "content_access_date": "2025-02-25T21:41:56.977585"
+  },
+  {
+    "title": "TREBEL: Music, MP3 & Podcasts",
+    "url": "https://trebel.io/web/privacy",
+    "id": 255,
+    "content_access_date": "2025-02-25T21:45:59.857975"
+  },
+  {
+    "title": "Music Maker JAM: Beatmaker app",
+    "url": "https://www.iubenda.com/privacy-policy/94072064/full-legal",
+    "id": 260,
+    "content_access_date": "2025-02-25T21:56:13.396103"
+  },
+  {
+    "title": "Deezer: Music & Podcast Player",
+    "url": "https://www.deezer.com/legal/personal-datas",
+    "id": 261,
+    "content_access_date": "2025-02-25T21:58:17.734743"
+  },
+  {
+    "title": "Napster Music",
+    "url": "https://www.napster.com/privacypolicy",
+    "id": 262,
+    "content_access_date": "2025-02-25T22:00:19.173668"
+  },
+  {
+    "title": "Boomplay: Music & Live Stream",
+    "url": "https://www.boomplay.com/privacyPolicy",
+    "id": 263,
+    "content_access_date": "2025-02-25T22:04:23.951066"
+  },
+  {
+    "title": "Remixlive - Make Music & Beats",
+    "url": "https://www.mixvibes.com/privacy",
+    "id": 264,
+    "content_access_date": "2025-02-25T22:06:26.552026"
+  },
+  {
+    "title": "Pi Music Player: Offline Music",
+    "url": "http://100pilabs.com/privacypolicy.html",
+    "id": 265,
+    "content_access_date": "2025-02-25T22:08:30.175459"
+  },
+  {
+    "title": "DramaShorts: Watch TV & Shows",
+    "url": "https://dramashorts.io/privacy-policy",
+    "id": 272,
+    "content_access_date": "2025-02-25T22:23:03.247223"
+  },
+  {
+    "title": "IMDb: Movies & TV Shows",
+    "url": "http://www.imdb.com/privacy",
+    "id": 273,
+    "content_access_date": "2025-02-25T22:25:04.504995"
+  },
+  {
+    "title": "JustWatch - Streaming Guide",
+    "url": "https://support.justwatch.com/hc/en-us/articles/6549675973149-Privacy-Policy",
+    "id": 274,
+    "content_access_date": "2025-02-25T22:27:15.689015"
+  },
+  {
+    "title": "Fandango at Home",
+    "url": "https://www.fandango.com/policies/privacy-policy",
+    "id": 275,
+    "content_access_date": "2025-02-25T22:29:19.917409"
+  },
+  {
+    "title": "Amazon Freevee: Free Movies/TV",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010&pop-up=1",
+    "id": 277,
+    "content_access_date": "2025-02-25T22:33:34.685068"
+  },
+  {
+    "title": "Philo: Shows, Movies, Live TV.",
+    "url": "https://philo.com/privacy",
+    "id": 279,
+    "content_access_date": "2025-02-25T22:37:44.778236"
+  },
+  {
+    "title": "VIZIO | WatchFree+",
+    "url": "https://www.vizio.com/en/terms/privacy-policy",
+    "id": 281,
+    "content_access_date": "2025-02-25T22:41:47.993924"
+  },
+  {
+    "title": "ViX: TV, Deportes y Noticias",
+    "url": "https://vix.com/es-es/legal/politica-de-privacidad",
+    "id": 283,
+    "content_access_date": "2025-02-25T22:46:05.219680"
+  },
+  {
+    "title": "Member Tools",
+    "url": "https://www.churchofjesuschrist.org/services/platform/v4/resources/privacy-policy",
+    "id": 286,
+    "content_access_date": "2025-02-25T22:52:32.440968"
+  },
+  {
+    "title": "Samsung Internet Browser",
+    "url": "http://www.samsung.com/us/common/privacy.html",
+    "id": 287,
+    "content_access_date": "2025-02-25T22:54:39.135703"
+  },
+  {
+    "title": "Fing - Network Tools",
+    "url": "https://www.fing.com/fing-privacy-policy",
+    "id": 295,
+    "content_access_date": "2025-02-26T00:17:14.950677"
+  },
+  {
+    "title": "DuckDuckGo Browser, Search, AI",
+    "url": "https://duckduckgo.com/privacy.html",
+    "id": 306,
+    "content_access_date": "2025-02-26T00:45:07.855353"
+  },
+  {
+    "title": "SHAREit: Transfer, Share Files",
+    "url": "https://web.wshareit.com/cdn/shareit/w/privacy/pr_en.html",
+    "id": 308,
+    "content_access_date": "2025-02-26T00:49:25.003102"
+  },
+  {
+    "title": "Uber Eats: Food Delivery",
+    "url": "https://www.uber.com/privacy",
+    "id": 310,
+    "content_access_date": "2025-02-26T00:53:28.246323"
+  },
+  {
+    "title": "Samsung Food: Meal Planning",
+    "url": "https://whisk.com/privacy/",
+    "id": 311,
+    "content_access_date": "2025-02-26T00:55:27.521944"
+  },
+  {
+    "title": "Chipotle - Fresh Food Fast",
+    "url": "http://www.chipotle.com/privacy-policy",
+    "id": 316,
+    "content_access_date": "2025-02-26T01:05:42.851301"
+  },
+  {
+    "title": "Food Stylist - Design Game",
+    "url": "https://www.zestegames.com/privacypolicy.html",
+    "id": 318,
+    "content_access_date": "2025-02-26T01:12:06.362412"
+  },
+  {
+    "title": "Yelp: Food, Delivery & Reviews",
+    "url": "http://www.yelp.com/static?p=privacy",
+    "id": 321,
+    "content_access_date": "2025-02-26T01:18:35.622988"
+  },
+  {
+    "title": "Food Fantasy",
+    "url": "https://foodzm-eater.oss-us-west-1.aliyuncs.com/fullpolicy.html",
+    "id": 324,
+    "content_access_date": "2025-02-26T01:24:57.610590"
+  },
+  {
+    "title": "HelloFresh: Meal Kit Delivery",
+    "url": "https://www.hellofresh.com/privacy/",
+    "id": 330,
+    "content_access_date": "2025-02-26T01:37:22.721472"
+  },
+  {
+    "title": "Business Empire: RichMan",
+    "url": "https://pages.flycricket.io/business-empire-ric-1/privacy.html",
+    "id": 332,
+    "content_access_date": "2025-02-26T01:41:45.781146"
+  },
+  {
+    "title": "Tycoon - Business Empires Game",
+    "url": "https://sites.google.com/view/business-tycoon/home",
+    "id": 335,
+    "content_access_date": "2025-02-26T01:47:53.638655"
+  },
+  {
+    "title": "Novo - Small Business Checking",
+    "url": "https://www.novo.co/legal/privacy",
+    "id": 341,
+    "content_access_date": "2025-02-26T02:00:28.821512"
+  },
+  {
+    "title": "Business Tour",
+    "url": "http://8floor.net/pp/",
+    "id": 342,
+    "content_access_date": "2025-02-26T02:02:31.585491"
+  },
+  {
+    "title": "Udemy Business",
+    "url": "https://www.udemy.com/terms/ufb-privacy/",
+    "id": 343,
+    "content_access_date": "2025-02-26T02:04:42.367386"
+  },
+  {
+    "title": "SmartBusiness -Bookkeeping App",
+    "url": "https://swahilibuy.com/sb/privacy",
+    "id": 344,
+    "content_access_date": "2025-02-26T02:06:52.711358"
+  },
+  {
+    "title": "Big Business Deluxe",
+    "url": "http://www.game-insight.com/site/privacypolicy",
+    "id": 346,
+    "content_access_date": "2025-02-26T02:11:28.692567"
+  },
+  {
+    "title": "HiHello: Digital Business Card",
+    "url": "https://www.hihello.me/legal/privacy",
+    "id": 347,
+    "content_access_date": "2025-02-26T02:13:44.126281"
+  },
+  {
+    "title": "HoneyBook - Small Business CRM",
+    "url": "https://www.honeybook.com/terms/privacy",
+    "id": 348,
+    "content_access_date": "2025-02-26T02:15:58.829840"
+  },
+  {
+    "title": "Found: Business Banking",
+    "url": "https://indie.app/legal/privacy",
+    "id": 349,
+    "content_access_date": "2025-02-26T02:18:08.222871"
+  },
+  {
+    "title": "Booksy Biz: For Businesses",
+    "url": "https://booksy.com/pro/privacy/us.html",
+    "id": 350,
+    "content_access_date": "2025-02-26T02:20:20.991996"
+  },
+  {
+    "title": "Retail POS Billing & Inventory",
+    "url": "https://pos.zobaze.com/privacypolicy",
+    "id": 351,
+    "content_access_date": "2025-02-26T02:22:33.712499"
+  },
+  {
+    "title": "Kuda Business Banking App",
+    "url": "https://kuda.com/legal/ng-privacy",
+    "id": 355,
+    "content_access_date": "2025-02-26T02:31:29.647912"
+  },
+  {
+    "title": "Collage Maker | Photo Editor",
+    "url": "https://photoeditorapps.com/website/policy2.html",
+    "id": 362,
+    "content_access_date": "2025-02-26T02:47:35.701112"
+  },
+  {
+    "title": "McDonald's",
+    "url": "https://www.mcdonalds.com/us/en-us/privacy.html",
+    "id": 363,
+    "content_access_date": "2025-02-26T03:29:56.309609"
+  },
+  {
+    "title": "PayPal Business",
+    "url": "https://www.paypal.com/us/legalhub/paypal/privacy-full?locale.x=en_US",
+    "id": 364,
+    "content_access_date": "2025-02-26T03:42:16.380373"
+  },
+  {
+    "title": "Remini - AI Photo Enhancer",
+    "url": "https://bendingspoons.com/privacy.html?app=1470373330",
+    "id": 365,
+    "content_access_date": "2025-02-26T04:10:00.910520"
+  },
+  {
+    "title": "Gallery- Photo Gallery & Album",
+    "url": "https://mobv5privacy.ijoysoftconnect.com/gallery/AppPrivacy.html",
+    "id": 367,
+    "content_access_date": "2025-02-26T04:17:12.772755"
+  },
+  {
+    "title": "Photo Lab Picture Editor & Art",
+    "url": "http://pho.to/policy.php",
+    "id": 368,
+    "content_access_date": "2025-02-26T04:19:11.084974"
+  },
+  {
+    "title": "FreePrints",
+    "url": "http://www.freeprintsapp.com/privacy",
+    "id": 370,
+    "content_access_date": "2025-02-26T04:23:09.848719"
+  },
+  {
+    "title": "Video Editor & Maker - InShot",
+    "url": "http://inshotapp.com/website/InShotAndroid/privacypolicy.html",
+    "id": 371,
+    "content_access_date": "2025-02-26T04:25:13.077038"
+  },
+  {
+    "title": "Photo Editor - Lumii",
+    "url": "http://inshotapp.com/lumii/website/privacypolicy.html",
+    "id": 373,
+    "content_access_date": "2025-02-26T04:29:22.851094"
+  },
+  {
+    "title": "YouCam Perfect - Photo Editor",
+    "url": "https://www.perfectcorp.com/stat/BeautyCircle/enu/privacy.html?utm_source=ycp&utm_medium=android&utm_campaign=policypage",
+    "id": 375,
+    "content_access_date": "2025-02-26T04:34:07.220054"
+  },
+  {
+    "title": "Private Photo Vault - Keepsafe",
+    "url": "https://www.getkeepsafe.com/privacy.html#privacy-policy",
+    "id": 377,
+    "content_access_date": "2025-02-26T04:38:36.141999"
+  },
+  {
+    "title": "PicCollage: Photo Grid Editor",
+    "url": "http://cardinalblue.com/privacy",
+    "id": 378,
+    "content_access_date": "2025-02-26T04:40:44.147425"
+  },
+  {
+    "title": "Photo Scan App by Photomyne",
+    "url": "https://photomyne.com/privacy-policy-store",
+    "id": 380,
+    "content_access_date": "2025-02-26T04:45:09.794699"
+  },
+  {
+    "title": "FaceApp: Perfect Face Editor",
+    "url": "http://www.faceapp.com/privacy",
+    "id": 381,
+    "content_access_date": "2025-02-26T04:47:19.265306"
+  },
+  {
+    "title": "Video Downloader",
+    "url": "https://inshot.dev/privacypolicy.html?pkg=video.downloader.videodownloader",
+    "id": 382,
+    "content_access_date": "2025-02-26T04:49:40.361961"
+  },
+  {
+    "title": "Scoopz: Real Life, Real Video",
+    "url": "https://scoopzapp.com/privacy",
+    "id": 384,
+    "content_access_date": "2025-02-26T04:54:22.158251"
+  },
+  {
+    "title": "Screen Recorder - XRecorder",
+    "url": "http://inshotapp.com/website/policy.html",
+    "id": 385,
+    "content_access_date": "2025-02-26T04:56:34.751875"
+  },
+  {
+    "title": "YouCut - Video Editor & Maker",
+    "url": "http://inshotapp.com/YouCut/privacypolicy.html",
+    "id": 387,
+    "content_access_date": "2025-02-26T05:01:00.656620"
+  },
+  {
+    "title": "Video Maker",
+    "url": "http://inshotapp.com/VideoGuru/website/privacypolicy.html",
+    "id": 388,
+    "content_access_date": "2025-02-26T05:03:15.085684"
+  },
+  {
+    "title": "PowerDirector - Video Editor",
+    "url": "https://www.cyberlink.com/stat/policy/enu/app/privacy.html",
+    "id": 389,
+    "content_access_date": "2025-02-26T05:07:40.031345"
+  },
+  {
+    "title": "Visha-Video Player All Formats",
+    "url": "https://visha-cdn.shalltry.com/language/en/privacy-policy.html",
+    "id": 390,
+    "content_access_date": "2025-02-26T05:10:04.687009"
+  },
+  {
+    "title": "VivaVideo - Video Cut & Editor",
+    "url": "https://rc.veresource.com/web/h5template/53fe22d0-604e-476a-b20e-c4b3bcbcbaf7-language=en/dist/index.html",
+    "id": 392,
+    "content_access_date": "2025-02-26T05:14:50.083476"
+  },
+  {
+    "title": "Truecaller: Caller ID Blocker",
+    "url": "https://www.truecaller.com/privacy-policy",
+    "id": 396,
+    "content_access_date": "2025-02-26T05:22:52.964415"
+  },
+  {
+    "title": "Zoom Workplace",
+    "url": "http://zoom.us/privacy/",
+    "id": 401,
+    "content_access_date": "2025-02-26T05:32:58.855514"
+  },
+  {
+    "title": "JusTalk Kids - Safe Messenger",
+    "url": "https://kids.justalk.com/privacy.html",
+    "id": 402,
+    "content_access_date": "2025-02-26T05:35:02.254195"
+  },
+  {
+    "title": "Todoist: Planner & Calendar",
+    "url": "https://todoist.com/privacy",
+    "id": 406,
+    "content_access_date": "2025-02-26T05:43:21.414415"
+  },
+  {
+    "title": "Boosted Time Tracker",
+    "url": "https://www.boostedproductivity.com/#privacy-policy",
+    "id": 407,
+    "content_access_date": "2025-02-26T06:36:59.856291"
+  },
+  {
+    "title": "Focus To-Do: Pomodoro & Tasks",
+    "url": "https://www.focustodo.cn/privacy-policy",
+    "id": 417,
+    "content_access_date": "2025-02-26T07:00:44.358077"
+  },
+  {
+    "title": "Dropbox: Secure Cloud Storage",
+    "url": "https://www.dropbox.com/privacy?mobile=1",
+    "id": 418,
+    "content_access_date": "2025-02-26T07:02:57.857183"
+  },
+  {
+    "title": "ColorNote Notepad Notes",
+    "url": "http://www.colornote.com/privacy-policy.html",
+    "id": 423,
+    "content_access_date": "2025-02-26T07:13:56.474713"
+  },
+  {
+    "title": "HabitNow Daily Routine Planner",
+    "url": "https://www.habitnow.app/privacy-policy",
+    "id": 425,
+    "content_access_date": "2025-02-26T07:18:07.518590"
+  },
+  {
+    "title": "Kahoot! Play & Create Quizzes",
+    "url": "https://trust.kahoot.com/privacy-policy/",
+    "id": 427,
+    "content_access_date": "2025-02-26T07:48:13.464474"
+  },
+  {
+    "title": "ReadEra – book reader pdf epub",
+    "url": "https://readera.org/en/book-reader/privacy",
+    "id": 428,
+    "content_access_date": "2025-02-26T07:48:57.143396"
+  },
+  {
+    "title": "NewsBreak: Local News & Alerts",
+    "url": "https://www.newsbreak.com/privacy",
+    "id": 431,
+    "content_access_date": "2025-02-26T07:55:00.542828"
+  },
+  {
+    "title": "Ground News",
+    "url": "https://ground.news/privacy-policy",
+    "id": 434,
+    "content_access_date": "2025-02-26T08:01:26.659364"
+  },
+  {
+    "title": "BBC: World News & Stories",
+    "url": "http://www.bbc.com/privacy/",
+    "id": 435,
+    "content_access_date": "2025-02-26T08:03:34.863973"
+  },
+  {
+    "title": "Opera News: breaking & local",
+    "url": "https://legal.apexnews.com/privacy",
+    "id": 436,
+    "content_access_date": "2025-02-26T08:05:49.061417"
+  },
+  {
+    "title": "SmartNews: News That Matters",
+    "url": "https://www.smartnews.com/privacy",
+    "id": 437,
+    "content_access_date": "2025-02-26T08:08:00.543261"
+  },
+  {
+    "title": "Flipboard:Your Social Magazine",
+    "url": "https://about.flipboard.com/privacy-policy/",
+    "id": 438,
+    "content_access_date": "2025-02-26T08:12:24.927171"
+  },
+  {
+    "title": "The Guardian - News & Sport",
+    "url": "http://www.theguardian.com/help/privacy-policy",
+    "id": 439,
+    "content_access_date": "2025-02-26T08:14:41.538891"
+  },
+  {
+    "title": "Haystack News: Local TV News",
+    "url": "https://www.haystack.tv/tos.html",
+    "id": 440,
+    "content_access_date": "2025-02-26T08:16:43.743894"
+  },
+  {
+    "title": "The Wall Street Journal.",
+    "url": "https://www.dowjones.com/privacy-notice/?mod=appstore",
+    "id": 441,
+    "content_access_date": "2025-02-26T08:20:57.523562"
+  },
+  {
+    "title": "NPR",
+    "url": "http://www.npr.org/about-npr/179878450/privacy-policy",
+    "id": 443,
+    "content_access_date": "2025-02-26T08:25:06.010531"
+  },
+  {
+    "title": "The Epoch Times: Breaking News",
+    "url": "https://www.theepochtimes.com/privacy-notice",
+    "id": 444,
+    "content_access_date": "2025-02-26T08:27:10.495433"
+  },
+  {
+    "title": "Financial Times: Business News",
+    "url": "http://help.ft.com/tools-services/financial-times-privacy-policy/",
+    "id": 445,
+    "content_access_date": "2025-02-26T08:29:20.364784"
+  },
+  {
+    "title": "TripIt: Travel Planner",
+    "url": "http://www.tripit.com/uhp/privacyPolicy",
+    "id": 451,
+    "content_access_date": "2025-02-26T08:41:50.838891"
+  },
+  {
+    "title": "Skyscanner Flights Hotels Cars",
+    "url": "https://www.skyscanner.net/privacypolicy.aspx",
+    "id": 453,
+    "content_access_date": "2025-02-26T08:46:13.191782"
+  },
+  {
+    "title": "Wanderlog - Trip Planner App",
+    "url": "https://wanderlog.com/privacy",
+    "id": 455,
+    "content_access_date": "2025-02-26T08:50:36.058514"
+  },
+  {
+    "title": "World Travel Stories - Airport",
+    "url": "https://subara.com/terms",
+    "id": 456,
+    "content_access_date": "2025-02-26T08:52:49.059832"
+  },
+  {
+    "title": "OneTravel: Flights Hotels Cars",
+    "url": "https://www.onetravel.com/info/privacy-policy/",
+    "id": 460,
+    "content_access_date": "2025-02-26T09:02:13.959672"
+  },
+  {
+    "title": "Travel Match",
+    "url": "https://www.mounthorse.online/privacy-policy",
+    "id": 463,
+    "content_access_date": "2025-02-26T09:09:10.582638"
+  },
+  {
+    "title": "Airbnb",
+    "url": "https://www.airbnb.com/help/article/3175",
+    "id": 469,
+    "content_access_date": "2025-02-26T09:30:31.306562"
+  },
+  {
+    "title": "Flightradar24 Flight Tracker",
+    "url": "http://www.flightradar24.com/privacy-policy",
+    "id": 470,
+    "content_access_date": "2025-02-26T09:55:12.031672"
+  },
+  {
+    "title": "Lyft",
+    "url": "https://www.lyft.com/privacy",
+    "id": 472,
+    "content_access_date": "2025-02-26T09:57:28.253690"
+  },
+  {
+    "title": "Waze Navigation & Live Traffic",
+    "url": "https://support.google.com/waze/answer/12075406?hl=en",
+    "id": 474,
+    "content_access_date": "2025-02-26T10:02:08.897218"
+  },
+  {
+    "title": "MAPS.ME: Offline maps GPS Nav",
+    "url": "https://maps.me/policy/",
+    "id": 475,
+    "content_access_date": "2025-02-26T10:02:31.958075"
+  },
+  {
+    "title": "Yandex Maps and Navigator",
+    "url": "https://yandex.ru/legal/confidential/?lang=en",
+    "id": 476,
+    "content_access_date": "2025-02-26T10:03:15.790702"
+  },
+  {
+    "title": "Sygic GPS Navigation & Maps",
+    "url": "https://www.sygic.com/company/privacy-policy",
+    "id": 477,
+    "content_access_date": "2025-02-26T10:03:55.585021"
+  },
+  {
+    "title": "Avenza Maps: Offline Mapping",
+    "url": "https://store.avenza.com/pages/privacy-policy",
+    "id": 478,
+    "content_access_date": "2025-02-26T10:04:17.386975"
+  },
+  {
+    "title": "OsmAnd — Maps & GPS Offline",
+    "url": "https://osmand.net/docs/legal/privacy-policy/",
+    "id": 479,
+    "content_access_date": "2025-02-26T10:05:58.667700"
+  },
+  {
+    "title": "HERE WeGo: Maps & Navigation",
+    "url": "https://legal.here.com/en-gb/privacy",
+    "id": 480,
+    "content_access_date": "2025-02-26T10:06:36.784975"
+  },
+  {
+    "title": "Citymapper",
+    "url": "https://global-api.citymapper.com/resourceproxy/privacy-policy.html",
+    "id": 482,
+    "content_access_date": "2025-02-26T10:08:21.251662"
+  },
+  {
+    "title": "Guru Maps — GPS Route Planner",
+    "url": "https://gurumaps.app/privacy_policy/",
+    "id": 483,
+    "content_access_date": "2025-02-26T10:39:06.867933"
+  },
+  {
+    "title": "Spendee: Budget App & Tracker",
+    "url": "https://help.spendee.com/article/247-privacy-policy",
+    "id": 487,
+    "content_access_date": "2025-02-26T10:41:31.110266"
+  },
+  {
+    "title": "Symptom & Mood Tracker",
+    "url": "https://bearable.app/privacy-policy/",
+    "id": 488,
+    "content_access_date": "2025-02-26T10:42:47.622474"
+  },
+  {
+    "title": "ProCCD - Digital Film Camera",
+    "url": "https://www.tribiecommunity.com/privacy.html",
+    "id": 489,
+    "content_access_date": "2025-02-26T10:45:05.289000"
+  },
+  {
+    "title": "TomTom AmiGO - GPS Navigation",
+    "url": "https://www.tomtom.com/nl_nl/navigation/mobile-apps/amigo-app/privacy-policy/",
+    "id": 490,
+    "content_access_date": "2025-02-26T12:02:41.189041"
+  },
+  {
+    "title": "ConfirmTkt: Train Booking App",
+    "url": "https://www.iubenda.com/privacy-policy/15218362",
+    "id": 491,
+    "content_access_date": "2025-02-26T12:03:09.363791"
+  },
+  {
+    "title": "TfL Go: Plan, Pay, Travel",
+    "url": "https://tfl.gov.uk/corporate/privacy-and-cookies/tfl-go#on-this-page-0",
+    "id": 492,
+    "content_access_date": "2025-02-26T12:03:56.566783"
+  },
+  {
+    "title": "Business Calendar 2 Planner",
+    "url": "http://files.appgenix-software.com/PrivacyPolicyBusinessCalendar2.html",
+    "id": 494,
+    "content_access_date": "2025-02-26T12:05:35.171879"
+  },
+  {
+    "title": "TheFor: Habit Tracker",
+    "url": "https://thefor.xyz/privacy-policy",
+    "id": 495,
+    "content_access_date": "2025-02-26T12:06:21.653064"
+  },
+  {
+    "title": "Hammer: Truck GPS & Maps",
+    "url": "https://www.hammerapp.com/legal/privacy",
+    "id": 496,
+    "content_access_date": "2025-02-26T12:06:53.266339"
+  },
+  {
+    "title": "LINE Camera - Photo editor",
+    "url": "https://terms.snow.me/linecamera/privacy",
+    "id": 497,
+    "content_access_date": "2025-02-26T12:07:02.104383"
+  },
+  {
+    "title": "Karta GPS Offline Maps Nav",
+    "url": "https://ndrive.com/privacy-policy/",
+    "id": 499,
+    "content_access_date": "2025-02-26T12:08:57.595972"
+  },
+  {
+    "title": "FlipaClip: Create 2D Animation",
+    "url": "https://flipaclip.com/privacy-policy/",
+    "id": 500,
+    "content_access_date": "2025-02-26T12:09:32.272088"
+  },
+  {
+    "title": "KakaoMap - Map / Navigation",
+    "url": "http://www.kakao.com/policy/privacy",
+    "id": 501,
+    "content_access_date": "2025-02-26T12:11:03.071581"
+  },
+  {
+    "title": "Nextcloud Talk",
+    "url": "https://nextcloud.com/privacy/",
+    "id": 502,
+    "content_access_date": "2025-02-26T12:12:24.179731"
+  },
+  {
+    "title": "HOW TO TALK: Parenting Tips",
+    "url": "https://www.mythicowl.com/privacy-policy/",
+    "id": 503,
+    "content_access_date": "2025-02-26T12:12:46.360244"
+  },
+  {
+    "title": "TruckMap - Truck GPS Routes",
+    "url": "https://truckmap.com/legal/privacy-policy",
+    "id": 504,
+    "content_access_date": "2025-02-26T12:13:09.492658"
+  },
+  {
+    "title": "Yubo: Make new friends",
+    "url": "https://www.yubo.live/legal/privacy-policy",
+    "id": 505,
+    "content_access_date": "2025-02-26T12:13:25.564727"
+  },
+  {
+    "title": "Day One Journal: Private Diary",
+    "url": "https://dayoneapp.com/privacy",
+    "id": 506,
+    "content_access_date": "2025-02-26T12:13:53.930100"
+  },
+  {
+    "title": "Circuit Route Planner",
+    "url": "https://www.getcircuit.com/privacy.html",
+    "id": 511,
+    "content_access_date": "2025-02-26T12:25:44.543327"
+  },
+  {
+    "title": "MyMoney—Track Expense & Budget",
+    "url": "https://anantaraha.github.io/mymoney/privacy.html",
+    "id": 513,
+    "content_access_date": "2025-02-26T13:36:13.919948"
+  },
+  {
+    "title": "YNAB",
+    "url": "https://www.youneedabudget.com/privacy-policy/",
+    "id": 515,
+    "content_access_date": "2025-02-26T13:36:58.992235"
+  },
+  {
+    "title": "Money Manager Expense & Budget",
+    "url": "https://realbyteapps.com/policy/privacy.html",
+    "id": 516,
+    "content_access_date": "2025-02-26T13:37:23.977513"
+  },
+  {
+    "title": "Wallet: Budget Expense Tracker",
+    "url": "http://budgetbakers.com/privacy",
+    "id": 517,
+    "content_access_date": "2025-02-26T13:37:41.814842"
+  },
+  {
+    "title": "Budgeting App - Spend Tracker",
+    "url": "https://thebudgeting.app/privacy-policy",
+    "id": 518,
+    "content_access_date": "2025-02-26T13:38:57.099331"
+  },
+  {
+    "title": "Dollar General-Digital Coupons",
+    "url": "https://www.dollargeneral.com/privacy-policy",
+    "id": 519,
+    "content_access_date": "2025-02-26T13:40:59.557871"
+  },
+  {
+    "title": "GetRide",
+    "url": "https://www.getservice.ca/privacy-policy.html",
+    "id": 522,
+    "content_access_date": "2025-02-26T14:03:48.389732"
+  },
+  {
+    "title": "Ride Circuit",
+    "url": "http://ridecircuit.com/terms",
+    "id": 523,
+    "content_access_date": "2025-02-26T14:10:04.812953"
+  },
+  {
+    "title": "Ride with GPS: Bike Navigation",
+    "url": "https://ridewithgps.com/privacy",
+    "id": 527,
+    "content_access_date": "2025-03-11T23:43:57.891704"
+  },
+  {
+    "title": "RIDE: Ethiopia & Djibouti",
+    "url": "https://ride8294.com/privacy-policy-2/",
+    "id": 528,
+    "content_access_date": "2025-03-11T23:45:14.090862"
+  },
+  {
+    "title": "RYDE - Ride Hailing & More",
+    "url": "http://www.rydesharing.com/sg/privacy-policy/",
+    "id": 532,
+    "content_access_date": "2025-03-11T23:50:22.885036"
+  },
+  {
+    "title": "Empower - Your ride, your way",
+    "url": "https://rideempower.com/privacy/",
+    "id": 533,
+    "content_access_date": "2025-03-11T23:51:37.930019"
+  },
+  {
+    "title": "Social Ride - Bike tracker",
+    "url": "https://www.socialride.bike/social-ride-privacy-policy",
+    "id": 534,
+    "content_access_date": "2025-03-11T23:52:57.728837"
+  },
+  {
+    "title": "Ride Bounce",
+    "url": "https://theroutingcompany.com/privacypolicy/",
+    "id": 535,
+    "content_access_date": "2025-03-11T23:54:13.090731"
+  },
+  {
+    "title": "maxim â€” order a taxi & food",
+    "url": "https://legal.taximaxim.com/client-privacy/",
+    "id": 536,
+    "content_access_date": "2025-03-11T23:55:32.333465"
+  },
+  {
+    "title": "My Ride K-12",
+    "url": "https://www.tylertech.com/privacy",
+    "id": 537,
+    "content_access_date": "2025-03-11T23:56:43.914546"
+  },
+  {
+    "title": "k.ride - taxi, cab, korea trip",
+    "url": "https://kride.kakaomobility.com/webview/terms/22",
+    "id": 538,
+    "content_access_date": "2025-03-11T23:58:05.101819"
+  },
+  {
+    "title": "Grab - Taxi & Food Delivery",
+    "url": "https://www.grab.com/privacy",
+    "id": 539,
+    "content_access_date": "2025-03-11T23:59:22.172048"
+  },
+  {
+    "title": "RIDE Driver ET",
+    "url": "https://ride8294.com/privacy-policy-2/",
+    "id": 541,
+    "content_access_date": "2025-03-12T00:01:54.971275"
+  },
+  {
+    "title": "Rapido: Bike-Taxi, Auto & Cabs",
+    "url": "https://rapido.bike/privacy.html",
+    "id": 542,
+    "content_access_date": "2025-03-12T00:03:12.141394"
+  },
+  {
+    "title": "Uber - Driver: Drive & Deliver",
+    "url": "http://www.uber.com/privacy",
+    "id": 543,
+    "content_access_date": "2025-03-12T00:04:28.437821"
+  },
+  {
+    "title": "REVER - Motorcycle GPS & Rides",
+    "url": "http://rever.co/privacy-policy",
+    "id": 544,
+    "content_access_date": "2025-03-12T00:05:45.165938"
+  },
+  {
+    "title": "Poparide - Carpool in Canada",
+    "url": "https://www.poparide.com/privacy",
+    "id": 545,
+    "content_access_date": "2025-03-12T00:07:02.613696"
+  },
+  {
+    "title": "Trulia Rent Apartments & Homes",
+    "url": "https://www.zillowgroup.com/zg-privacy-policy/",
+    "id": 546,
+    "content_access_date": "2025-03-12T00:08:23.166265"
+  },
+  {
+    "title": "Rent. Apartments & Homes",
+    "url": "https://www.rentpath.com/privacy-policy",
+    "id": 547,
+    "content_access_date": "2025-03-12T00:41:54.555800"
+  },
+  {
+    "title": "Apartments & Rentals - Zillow",
+    "url": "https://www.zillowgroup.com/zg-privacy-policy/",
+    "id": 548,
+    "content_access_date": "2025-03-12T00:42:42.059190"
+  },
+  {
+    "title": "Realtor.com Real Estate & Rent",
+    "url": "https://www.realtor.com/privacy-policy/",
+    "id": 549,
+    "content_access_date": "2025-03-12T00:43:26.474130"
+  },
+  {
+    "title": "HotPads Rent Apartments",
+    "url": "https://www.zillowgroup.com/zg-privacy-policy/",
+    "id": 550,
+    "content_access_date": "2025-03-12T00:44:11.739886"
+  },
+  {
+    "title": "Zumper - Apartment Finder",
+    "url": "https://www.zumper.com/privacy-policy",
+    "id": 552,
+    "content_access_date": "2025-03-12T00:45:40.664218"
+  },
+  {
+    "title": "Badi â€“ Rooms & Flats for rent",
+    "url": "https://badi.com/legal/en/privacy-policy/",
+    "id": 556,
+    "content_access_date": "2025-03-12T00:48:32.242941"
+  },
+  {
+    "title": "Transit â€¢ Subway & Bus Times",
+    "url": "https://transit.app/privacy",
+    "id": 557,
+    "content_access_date": "2025-03-12T00:49:16.169071"
+  },
+  {
+    "title": "Moovit: Your Transit Tracker",
+    "url": "https://moovit.com/legal/privacy-policy-en-oct-2021",
+    "id": 558,
+    "content_access_date": "2025-03-12T00:50:03.480746"
+  },
+  {
+    "title": "MyTransit NYC Subway & Bus MTA",
+    "url": "http://mytrans.it/privacy.htm",
+    "id": 559,
+    "content_access_date": "2025-03-12T00:50:45.136792"
+  },
+  {
+    "title": "Amtrak ",
+    "url": "http://www.amtrak.com/privacy-policy",
+    "id": 562,
+    "content_access_date": "2025-03-12T01:01:19.101094"
+  },
+  {
+    "title": "FlixBus: Book Bus Tickets",
+    "url": "https://global.flixbus.com/privacy-policy/app",
+    "id": 563,
+    "content_access_date": "2025-03-12T01:02:38.821977"
+  },
+  {
+    "title": "ixigo Trains: Ticket Booking",
+    "url": "https://www.iubenda.com/privacy-policy/696667",
+    "id": 564,
+    "content_access_date": "2025-03-12T01:03:25.284836"
+  },
+  {
+    "title": "Eurostar Trains",
+    "url": "https://www.eurostar.com/uk-en/privacy-policy",
+    "id": 565,
+    "content_access_date": "2025-03-12T01:04:10.517821"
+  },
+  {
+    "title": "Trainline: Train travel Europe",
+    "url": "https://www.thetrainline.com/terms/privacy",
+    "id": 567,
+    "content_access_date": "2025-03-12T01:05:46.633188"
+  },
+  {
+    "title": "Goibibo: Hotel, Flight & Train",
+    "url": "https://www.goibibo.com/info/privacy",
+    "id": 568,
+    "content_access_date": "2025-03-12T01:06:36.041752"
+  },
+  {
+    "title": "NJ TRANSIT Mobile App",
+    "url": "https://www.njtransit.com/privacy-and-terms#privacy-policy",
+    "id": 569,
+    "content_access_date": "2025-03-12T01:07:22.552628"
+  },
+  {
+    "title": "Access by KAI",
+    "url": "https://apps.kereta-api.co.id/termcondition/privacypolicy/ID",
+    "id": 571,
+    "content_access_date": "2025-03-12T01:09:01.808226"
+  },
+  {
+    "title": "SUBE",
+    "url": "https://www.nacionservicios.com.ar/terminosycondiciones.aspx#anchorPDP",
+    "id": 572,
+    "content_access_date": "2025-03-12T01:09:49.356065"
+  },
+  {
+    "title": "AbhiBus Bus Ticket Booking App",
+    "url": "https://www.abhibus.com/privacy",
+    "id": 574,
+    "content_access_date": "2025-03-12T01:11:17.765006"
+  },
+  {
+    "title": "Japan Transit Planner",
+    "url": "https://www.jorudan.co.jp/company/privacy.html",
+    "id": 575,
+    "content_access_date": "2025-03-12T01:12:03.846288"
+  },
+  {
+    "title": "Flights, railways, hotels",
+    "url": "https://www.tutu.ru/2read/legal_information/legal_personal/",
+    "id": 576,
+    "content_access_date": "2025-03-12T01:13:12.794292"
+  },
+  {
+    "title": "GoPass Â®",
+    "url": "https://pass.dart.org/privacy-policy",
+    "id": 577,
+    "content_access_date": "2025-03-12T01:13:37.263505"
+  },
+  {
+    "title": "9292 public transport & ticket",
+    "url": "https://9292.nl/disclaimer-en-privacy",
+    "id": 578,
+    "content_access_date": "2025-03-12T01:14:24.389688"
+  },
+  {
+    "title": "Simple Calendar - easy planner",
+    "url": "https://komorebi-studio.com/policyredirect.html",
+    "id": 579,
+    "content_access_date": "2025-03-12T01:15:13.571940"
+  },
+  {
+    "title": "Calendar Planner - Agenda App",
+    "url": "https://www.betterapptech.com/about-us/privacy-policy/",
+    "id": 580,
+    "content_access_date": "2025-03-12T01:16:06.189510"
+  },
+  {
+    "title": "Period Calendar Period Tracker",
+    "url": "https://simpledesign.ltd/privacy/my_calendar.html",
+    "id": 581,
+    "content_access_date": "2025-03-12T01:16:53.240417"
+  },
+  {
+    "title": "DigiCal Calendar Agenda",
+    "url": "http://digibites.nl/digical/privacy",
+    "id": 582,
+    "content_access_date": "2025-03-12T01:17:35.816925"
+  },
+  {
+    "title": "Simple Calendar",
+    "url": "https://simplemobiletools.com/simplecalendar/privacy",
+    "id": 583,
+    "content_access_date": "2025-03-12T01:18:24.727408"
+  },
+  {
+    "title": "TimeTree - Shared Calendar",
+    "url": "https://timetreeapp.com/intl/terms/privacy",
+    "id": 584,
+    "content_access_date": "2025-03-12T01:19:12.017109"
+  },
+  {
+    "title": "Any.do - To do list & Calendar",
+    "url": "https://www.any.do/legal/privacy-policy",
+    "id": 585,
+    "content_access_date": "2025-03-12T01:19:58.597520"
+  },
+  {
+    "title": "Work Shift Calendar",
+    "url": "https://www.lrhsoft.com/wscPrivacyPolicy.html",
+    "id": 586,
+    "content_access_date": "2025-03-12T01:20:44.205237"
+  },
+  {
+    "title": "Proton Calendar: Secure Events",
+    "url": "https://proton.me/legal/privacy",
+    "id": 587,
+    "content_access_date": "2025-03-12T01:21:30.420995"
+  },
+  {
+    "title": "Jorte Calendar & Organizer",
+    "url": "https://www.jorte.com/privacy/",
+    "id": 588,
+    "content_access_date": "2025-03-12T01:22:14.256383"
+  },
+  {
+    "title": "Cozi Family Organizer",
+    "url": "https://www.cozi.com/privacy-policy/",
+    "id": 589,
+    "content_access_date": "2025-03-12T01:22:58.233761"
+  },
+  {
+    "title": "GroupCal - Shared Calendar",
+    "url": "https://www.groupcal.app/privacy-policy/",
+    "id": 590,
+    "content_access_date": "2025-03-12T01:23:45.810021"
+  },
+  {
+    "title": "TickTick:To Do List & Calendar",
+    "url": "https://ticktick.com/about/privacy",
+    "id": 591,
+    "content_access_date": "2025-03-12T01:24:31.544579"
+  },
+  {
+    "title": "To-Do List - Schedule Planner",
+    "url": "https://to-do-list-66540.web.app/",
+    "id": 592,
+    "content_access_date": "2025-03-12T01:25:18.212612"
+  },
+  {
+    "title": "N Calendar: Planner, Schedule",
+    "url": "https://komorebi-studio.com/policyredirect.html",
+    "id": 593,
+    "content_access_date": "2025-03-12T01:26:08.025143"
+  },
+  {
+    "title": "Artful Agenda - Plan in Style!",
+    "url": "https://www.artfulagenda.com/privacy-policy/",
+    "id": 595,
+    "content_access_date": "2025-03-12T01:27:42.131418"
+  },
+  {
+    "title": "Family Shared Calendar: FamCal",
+    "url": "https://www.iubenda.com/privacy-policy/67047593",
+    "id": 596,
+    "content_access_date": "2025-03-12T01:28:31.532088"
+  },
+  {
+    "title": "My Shift Planner - Calendar",
+    "url": "https://www.myshiftplanner.co.uk/privacy-policy/",
+    "id": 597,
+    "content_access_date": "2025-03-12T01:29:24.069965"
+  },
+  {
+    "title": "School Planner",
+    "url": "https://raw.githubusercontent.com/andreadalcin/School-Planner/master/privacy-policy.md",
+    "id": 598,
+    "content_access_date": "2025-03-12T01:30:18.473962"
+  },
+  {
+    "title": "Life Organizer - Journal it!",
+    "url": "https://guide.journalit.app/terms",
+    "id": 599,
+    "content_access_date": "2025-03-12T01:31:05.575012"
+  },
+  {
+    "title": "Sortifyd: Life Organizer",
+    "url": "https://sortifyd.com/privacy-policy",
+    "id": 601,
+    "content_access_date": "2025-03-12T01:32:44.936266"
+  },
+  {
+    "title": "Ovulation & Period Tracker",
+    "url": "https://leap.app/privacypolicy.html?pkg=periodtracker.pregnancy.ovulationtracker",
+    "id": 602,
+    "content_access_date": "2025-03-12T01:33:44.480212"
+  },
+  {
+    "title": "Tracker Network Stats",
+    "url": "https://tracker.network/home/privacypolicy",
+    "id": 603,
+    "content_access_date": "2025-03-12T01:34:31.362765"
+  },
+  {
+    "title": "Geo Tracker - GPS tracker",
+    "url": "https://geo-tracker.org/privacy-policy-app",
+    "id": 604,
+    "content_access_date": "2025-03-12T01:35:18.933619"
+  },
+  {
+    "title": "Habit Tracker - HabitKit",
+    "url": "https://www.habitkit.app/privacy/",
+    "id": 605,
+    "content_access_date": "2025-03-12T01:36:05.549398"
+  },
+  {
+    "title": "iSharing: GPS Location Tracker",
+    "url": "https://isharingsoft.com/privacy_policy",
+    "id": 606,
+    "content_access_date": "2025-03-12T01:36:56.283079"
+  },
+  {
+    "title": "Flo Period & Pregnancy Tracker",
+    "url": "https://flo.health/privacy-policy",
+    "id": 607,
+    "content_access_date": "2025-03-12T01:37:42.287013"
+  },
+  {
+    "title": "Family360 - GPS Live Locator",
+    "url": "https://sites.google.com/site/privacypolicyforfamily360/",
+    "id": 608,
+    "content_access_date": "2025-03-12T01:38:36.884745"
+  },
+  {
+    "title": "Case Tracker US Immigration",
+    "url": "https://usciscasetracker.com/privacy-policy.html",
+    "id": 609,
+    "content_access_date": "2025-03-12T01:39:28.760094"
+  },
+  {
+    "title": "Sports Tracker Running Cycling",
+    "url": "https://community.sports-tracker.com/en/privacy-policy",
+    "id": 610,
+    "content_access_date": "2025-03-12T01:40:24.195290"
+  },
+  {
+    "title": "GPS Tracker: Geolocation App",
+    "url": "https://kidstracker.pro/docs/privacy-policy",
+    "id": 613,
+    "content_access_date": "2025-03-12T01:42:57.510203"
+  },
+  {
+    "title": "Daylio Journal - Mood Tracker",
+    "url": "https://faq.daylio.net/article/15-privacy-policy",
+    "id": 614,
+    "content_access_date": "2025-03-12T01:43:49.847526"
+  },
+  {
+    "title": "Friend Tracker: Find Anyone",
+    "url": "https://friend-tracker.com/conditions",
+    "id": 615,
+    "content_access_date": "2025-03-12T01:44:37.304094"
+  },
+  {
+    "title": "AfterShip Package Tracker - Tr",
+    "url": "https://www.aftership.com/legal/privacy",
+    "id": 616,
+    "content_access_date": "2025-03-12T01:45:27.666862"
+  },
+  {
+    "title": "Camera for Android",
+    "url": "https://lpprivacy.ijoysoftconnect.com/camera/AppPrivacy.html",
+    "id": 617,
+    "content_access_date": "2025-03-12T01:46:21.286733"
+  },
+  {
+    "title": "HD Camera for Android: XCamera",
+    "url": "https://simpledesign.ltd/privacypolicy.html?pkg=xprocamera.hd.camera",
+    "id": 619,
+    "content_access_date": "2025-03-12T01:48:14.956651"
+  },
+  {
+    "title": "B612 AI Photo&Video Editor",
+    "url": "https://terms.snow.me/b612/PrivacyPolicy",
+    "id": 620,
+    "content_access_date": "2025-03-12T01:49:07.002961"
+  },
+  {
+    "title": "VicoHome: Smart Home Camera",
+    "url": "https://www.vicohome.io/html/vicohome/privacy-policy/en/",
+    "id": 622,
+    "content_access_date": "2025-03-12T01:50:50.437540"
+  },
+  {
+    "title": "Cool S20 Camera Galaxy S20 cam",
+    "url": "https://aiphotos.top/service/privacy_cam_video.html",
+    "id": 623,
+    "content_access_date": "2025-03-12T01:51:45.416183"
+  },
+  {
+    "title": "Camera FV-5 Lite",
+    "url": "http://www.camerafv5.com/privacy/lite.php",
+    "id": 624,
+    "content_access_date": "2025-03-12T01:52:32.230531"
+  },
+  {
+    "title": "HD Camera for Android",
+    "url": "https://mobv5privacy.ijoysoftconnect.com/camera/AppPrivacy.html",
+    "id": 625,
+    "content_access_date": "2025-03-12T01:53:26.378051"
+  },
+  {
+    "title": "IP Camera Viewer",
+    "url": "https://kapron-ap.com/mobile-applications-policy-acv-tv.html",
+    "id": 626,
+    "content_access_date": "2025-03-12T01:54:23.668211"
+  },
+  {
+    "title": "Foodie - Filter & Film Camera",
+    "url": "https://terms.snow.me/FOODIE/privacy",
+    "id": 627,
+    "content_access_date": "2025-03-12T01:55:13.188884"
+  },
+  {
+    "title": "Camera360 :Photo Editor&Selfie",
+    "url": "http://www.camera360.com/privacy_en.html",
+    "id": 628,
+    "content_access_date": "2025-03-12T01:56:04.377753"
+  },
+  {
+    "title": "SODA - Natural Beauty Camera",
+    "url": "https://terms.snow.me/SODA/PrivacyPolicy",
+    "id": 629,
+    "content_access_date": "2025-03-12T01:56:54.237003"
+  },
+  {
+    "title": "YI IoT",
+    "url": "https://kamihome.prod.kamicloud.net/app-privacy",
+    "id": 630,
+    "content_access_date": "2025-03-12T01:57:40.049521"
+  },
+  {
+    "title": "Cymera - Photo Editor Collage",
+    "url": "http://www.cymera.com/privacy/en",
+    "id": 631,
+    "content_access_date": "2025-03-12T01:58:27.256953"
+  },
+  {
+    "title": "Beauty Camera: Sweet Camera",
+    "url": "https://mobv5privacy.ijoysoftconnect.com/camera/AppPrivacy.html",
+    "id": 632,
+    "content_access_date": "2025-03-12T01:59:24.161354"
+  },
+  {
+    "title": "ReLens Camera-Focus &DSLR Blur",
+    "url": "https://www.apptechmelodyst.com/privacy.html",
+    "id": 633,
+    "content_access_date": "2025-03-12T02:00:22.715591"
+  },
+  {
+    "title": "YouCam Makeup - Selfie Editor",
+    "url": "https://www.perfectcorp.com/stat/BeautyCircle/enu/privacy.html?utm_source=ymk&utm_medium=android&utm_campaign=policypage",
+    "id": 634,
+    "content_access_date": "2025-03-12T02:01:42.308969"
+  },
+  {
+    "title": "VN - Video Editor & Maker",
+    "url": "https://www.ui.com/legal/privacypolicy/",
+    "id": 635,
+    "content_access_date": "2025-03-12T02:02:31.653408"
+  },
+  {
+    "title": "Alight Motion",
+    "url": "https://www.alightcreative.com/privacy",
+    "id": 636,
+    "content_access_date": "2025-03-12T02:03:17.846944"
+  },
+  {
+    "title": "VITA - Video Editor & Maker",
+    "url": "https://terms.snow.me/VITA/PrivacyPolicy",
+    "id": 637,
+    "content_access_date": "2025-03-12T02:04:09.351028"
+  },
+  {
+    "title": "Splice - Video Editor & Maker",
+    "url": "https://support.bendingspoons.com/privacy.html?app=409838725&version=3.3.0",
+    "id": 638,
+    "content_access_date": "2025-03-12T02:05:11.262653"
+  },
+  {
+    "title": "Meitu",
+    "url": "https://pro.meitu.com/xiuxiu/agreements/gdpr.html?lang=en#en-policy",
+    "id": 639,
+    "content_access_date": "2025-03-12T02:06:05.360550"
+  },
+  {
+    "title": "ActionDirector - Video Editing",
+    "url": "http://www.cyberlink.com/stat/company/enu/privacy-policy.jsp",
+    "id": 640,
+    "content_access_date": "2025-03-12T02:07:06.638239"
+  },
+  {
+    "title": "FlipaClip: Create 2D Animation",
+    "url": "https://flipaclip.com/privacy-policy",
+    "id": 641,
+    "content_access_date": "2025-03-12T02:07:58.138327"
+  },
+  {
+    "title": "Stick Nodes - Animation",
+    "url": "http://sticknodes.com/tos-privacy-policy/#atospp-pp-sn",
+    "id": 642,
+    "content_access_date": "2025-03-12T02:08:54.266073"
+  },
+  {
+    "title": "Animation Throwdown: Epic CCG",
+    "url": "http://www.kongregate.com/pages/privacy",
+    "id": 643,
+    "content_access_date": "2025-03-12T02:09:46.764933"
+  },
+  {
+    "title": "Prisma3D - Animation, Modeling",
+    "url": "https://prisma3d.net/privacy-policy/",
+    "id": 644,
+    "content_access_date": "2025-03-12T02:10:37.199137"
+  },
+  {
+    "title": "Stickman: draw animation maker",
+    "url": "https://appache.games/policy",
+    "id": 645,
+    "content_access_date": "2025-03-12T02:11:25.556861"
+  },
+  {
+    "title": "Clip Studio Paint",
+    "url": "https://www.celsys.com/en/information/privacy/",
+    "id": 646,
+    "content_access_date": "2025-03-12T02:12:20.106505"
+  },
+  {
+    "title": "Pixel Studio: pixel art editor",
+    "url": "https://github.com/hippogamesunity/GameParams/wiki/Privacy-Policy",
+    "id": 650,
+    "content_access_date": "2025-03-12T02:16:12.621110"
+  },
+  {
+    "title": "Puppet Time",
+    "url": "https://itspuppettime.com/privacy-policy.html",
+    "id": 652,
+    "content_access_date": "2025-03-12T02:17:54.520885"
+  },
+  {
+    "title": "Mug Life - 3D Face Animator",
+    "url": "https://www.muglife.com/privacy",
+    "id": 653,
+    "content_access_date": "2025-03-12T02:18:45.984778"
+  },
+  {
+    "title": "Stick Nodes Pro - Animator",
+    "url": "http://sticknodes.com/tos-privacy-policy/#atospp-pp-snp",
+    "id": 654,
+    "content_access_date": "2025-03-12T02:19:44.168382"
+  },
+  {
+    "title": "Plotagon Studio",
+    "url": "https://www.plotagon.com/privacy-policy/",
+    "id": 655,
+    "content_access_date": "2025-03-12T02:20:33.518066"
+  },
+  {
+    "title": "Stop Motion Cartoon Maker",
+    "url": "https://doc.whisperarts.com/policy/stopmotion/android/",
+    "id": 656,
+    "content_access_date": "2025-03-12T02:21:30.872206"
+  },
+  {
+    "title": "Animated Stories",
+    "url": "https://animated-stories.flycricket.io/privacy.html",
+    "id": 658,
+    "content_access_date": "2025-03-12T02:23:34.890444"
+  },
+  {
+    "title": "ibis Paint X",
+    "url": "https://ibispaint.com/privacy.jsp#policy",
+    "id": 659,
+    "content_access_date": "2025-03-12T02:24:25.055715"
+  },
+  {
+    "title": "Infinite Painter",
+    "url": "http://www.infinitestudio.art/painter/privacy_policy.html",
+    "id": 660,
+    "content_access_date": "2025-03-12T02:25:22.132072"
+  },
+  {
+    "title": "Pixel Art - Color by Number",
+    "url": "https://easybrain.com/privacy",
+    "id": 661,
+    "content_access_date": "2025-03-12T02:26:12.839907"
+  },
+  {
+    "title": "DeviantArt",
+    "url": "http://about.deviantart.com/policy/privacy/",
+    "id": 662,
+    "content_access_date": "2025-03-12T02:27:02.864650"
+  },
+  {
+    "title": "AR Drawing: Sketch & Paint",
+    "url": "https://ar-drawing.com/privacy/",
+    "id": 663,
+    "content_access_date": "2025-03-12T02:27:53.306634"
+  },
+  {
+    "title": "Sketch Pro: Draw & Create Art",
+    "url": "https://4axis.com/privacy-policy",
+    "id": 664,
+    "content_access_date": "2025-03-12T02:28:44.278258"
+  },
+  {
+    "title": "DailyArt - Daily Dose of Art",
+    "url": "http://www.getdailyart.com/privacypolicy",
+    "id": 665,
+    "content_access_date": "2025-03-12T02:29:38.012471"
+  },
+  {
+    "title": "WOMBO Dream - AI Art Generator",
+    "url": "https://www.w.ai/privacy-policy",
+    "id": 666,
+    "content_access_date": "2025-03-12T02:30:29.604457"
+  },
+  {
+    "title": "Art Puzzle - Jigsaw Art Games",
+    "url": "https://easybrain.com/privacy",
+    "id": 667,
+    "content_access_date": "2025-03-12T02:31:20.584680"
+  },
+  {
+    "title": "Happy ColorÂ®: Coloring Book",
+    "url": "https://xflowgames.com/privacy-policy.html",
+    "id": 670,
+    "content_access_date": "2025-03-12T02:34:11.567858"
+  },
+  {
+    "title": "Cara: Art & Social",
+    "url": "https://blog.cara.app/privacy",
+    "id": 671,
+    "content_access_date": "2025-03-12T02:34:58.426806"
+  },
+  {
+    "title": "Concepts: Sketch, Note, Draw",
+    "url": "https://concepts.app/privacy",
+    "id": 672,
+    "content_access_date": "2025-03-12T02:35:49.177899"
+  },
+  {
+    "title": "Zen Color - Color By Number",
+    "url": "https://zencolor.app/PrivacyPolicy.html",
+    "id": 673,
+    "content_access_date": "2025-03-12T02:49:50.682288"
+  },
+  {
+    "title": "Pixel Tap: Color by Number",
+    "url": "http://www.inertiasoftware.com/privacy.php",
+    "id": 677,
+    "content_access_date": "2025-03-12T02:55:15.497313"
+  },
+  {
+    "title": "Talkatone: Texting & Calling",
+    "url": "https://www.talkatone.com/privacy/",
+    "id": 678,
+    "content_access_date": "2025-03-12T02:56:05.867535"
+  },
+  {
+    "title": "Open Talk | Buddy Talk",
+    "url": "https://sites.google.com/view/jeetproductions-opentalk/privacy-policy",
+    "id": 679,
+    "content_access_date": "2025-03-12T02:57:09.159995"
+  },
+  {
+    "title": "TalkLife: 24/7 Peer Support",
+    "url": "https://www.talklife.com/privacy",
+    "id": 680,
+    "content_access_date": "2025-03-12T02:57:59.637600"
+  },
+  {
+    "title": "JusTalk - Video Chat & Calls",
+    "url": "https://justalk.com/privacy.html",
+    "id": 681,
+    "content_access_date": "2025-03-12T02:58:52.470013"
+  },
+  {
+    "title": "Wakie Voice Chat: Make Friends",
+    "url": "https://wakie.com/docs/terms_en",
+    "id": 682,
+    "content_access_date": "2025-03-12T02:59:43.250405"
+  },
+  {
+    "title": "Voxer Walkie Talkie Messenger",
+    "url": "http://www.voxer.com/legal/consumer/privacy.html",
+    "id": 683,
+    "content_access_date": "2025-03-12T03:00:40.678879"
+  },
+  {
+    "title": "Talk to Myself",
+    "url": "https://talk-to-myself.flycricket.io/privacy.html",
+    "id": 684,
+    "content_access_date": "2025-03-12T03:01:34.675729"
+  },
+  {
+    "title": "textPlus: Text Message + Call",
+    "url": "http://www.textplus.com/textplus-privacy-policy/",
+    "id": 685,
+    "content_access_date": "2025-03-12T03:02:35.716472"
+  },
+  {
+    "title": "Zello PTT Walkie Talkie",
+    "url": "https://zello.com/legal/privacy-policy/",
+    "id": 686,
+    "content_access_date": "2025-03-12T03:03:28.672386"
+  },
+  {
+    "title": "Talk Home: Int'l Calling App",
+    "url": "http://app.talkhome.co.uk/privacy-policy",
+    "id": 687,
+    "content_access_date": "2025-03-12T03:04:24.504379"
+  },
+  {
+    "title": "My Talking Tom",
+    "url": "https://talkingtomandfriends.com/privacy-policy-games/en",
+    "id": 688,
+    "content_access_date": "2025-03-12T03:05:19.357357"
+  },
+  {
+    "title": "My Talking Angela 2",
+    "url": "https://talkingtomandfriends.com/privacy-policy-games/en",
+    "id": 689,
+    "content_access_date": "2025-03-12T03:06:17.112212"
+  },
+  {
+    "title": "My Talking Angela",
+    "url": "https://talkingtomandfriends.com/privacy-policy-games/en",
+    "id": 690,
+    "content_access_date": "2025-03-12T03:07:16.779216"
+  },
+  {
+    "title": "My Diary - Daily Diary Journal",
+    "url": "https://mydiary-eb51d.web.app",
+    "id": 691,
+    "content_access_date": "2025-03-12T03:08:11.171297"
+  },
+  {
+    "title": "Journey: Diary, Journal",
+    "url": "https://journey.cloud/policy",
+    "id": 693,
+    "content_access_date": "2025-03-12T03:10:21.089427"
+  },
+  {
+    "title": "5 Minute Journalãƒ»Self-care",
+    "url": "https://www.intelligentchange.com/pages/fmj-app-privacy-policy",
+    "id": 694,
+    "content_access_date": "2025-03-12T03:11:23.744858"
+  },
+  {
+    "title": "Diarium: Journal, Diary",
+    "url": "https://diariumapp.com/privacypolicy",
+    "id": 695,
+    "content_access_date": "2025-03-12T03:12:16.105023"
+  },
+  {
+    "title": "Diary with Lock: Diary Journal",
+    "url": "https://simpledesign.ltd/privacypolicy.html?pkg=diary.journal.lock.mood.daily",
+    "id": 696,
+    "content_access_date": "2025-03-12T03:13:28.292321"
+  },
+  {
+    "title": "Daily Diary: Journal with Lock",
+    "url": "https://www.simpleinnovation.us/diary/privacy-policy",
+    "id": 697,
+    "content_access_date": "2025-03-12T03:14:31.212485"
+  },
+  {
+    "title": "Daily Planner and Journal",
+    "url": "https://planwiz.app/privacy-policy.html",
+    "id": 698,
+    "content_access_date": "2025-03-12T03:15:26.763228"
+  },
+  {
+    "title": "DailyLife - My Diary, Journal",
+    "url": "https://cast0nate011.wixsite.com/privacyen",
+    "id": 701,
+    "content_access_date": "2025-03-12T03:18:40.077724"
+  },
+  {
+    "title": "May: Beautiful Bullet Journal",
+    "url": "https://maybujo.com/privacy/",
+    "id": 703,
+    "content_access_date": "2025-03-12T03:20:25.117790"
+  },
+  {
+    "title": "Diary & Journal with lock",
+    "url": "https://diarynew-22d80.web.app/privacy_policy.html",
+    "id": 704,
+    "content_access_date": "2025-03-12T03:21:25.391024"
+  },
+  {
+    "title": "Christian Journal -Bible& More",
+    "url": "https://bizchineseapp.com/xtian-journal-terms.php",
+    "id": 706,
+    "content_access_date": "2025-03-12T03:23:50.709730"
+  },
+  {
+    "title": "Your Diary: Mood Daily Journal",
+    "url": "https://sites.google.com/view/momentdiary/%E9%A6%96%E9%A1%B5",
+    "id": 707,
+    "content_access_date": "2025-03-12T03:24:57.376785"
+  },
+  {
+    "title": "UpNote - notes, diary, journal",
+    "url": "https://getupnote.com/privacy.html",
+    "id": 708,
+    "content_access_date": "2025-03-12T03:25:56.093621"
+  },
+  {
+    "title": "Rosebud: AI Journal & Diary",
+    "url": "https://help.rosebud.app/about-us/privacy-policy",
+    "id": 710,
+    "content_access_date": "2025-03-12T03:27:54.114690"
+  },
+  {
+    "title": "IKEA",
+    "url": "https://www.ikea.com/gb/en/customer-service/privacy-policy/",
+    "id": 711,
+    "content_access_date": "2025-03-12T03:28:50.377607"
+  },
+  {
+    "title": "Reliance Digital Online Shop",
+    "url": "https://www.relianceretail.com/privacy-policy.html",
+    "id": 713,
+    "content_access_date": "2025-03-12T03:30:57.365749"
+  },
+  {
+    "title": "Shop Samsung",
+    "url": "http://www.samsung.com/us/common/privacy.html",
+    "id": 714,
+    "content_access_date": "2025-03-12T03:31:50.078602"
+  },
+  {
+    "title": "Retail Master",
+    "url": "https://dfcdn.defacto.com.tr/cdnerp/retailmaster/RetailMasterApplicationPrivacyPolicy.html",
+    "id": 715,
+    "content_access_date": "2025-03-12T03:33:07.235158"
+  },
+  {
+    "title": "Sam’s Club: Shopping made easy",
+    "url": "https://corporate.walmart.com/about/samsclub/sams-club-privacy-notice",
+    "id": 718,
+    "content_access_date": "2025-03-12T03:43:51.203696"
+  },
+  {
+    "title": "Fashion Nova",
+    "url": "https://www.fashionnova.com/pages/privacy-policy",
+    "id": 723,
+    "content_access_date": "2025-03-12T06:56:19.334022"
+  },
+  {
+    "title": "Nykaa Fashion â€“ Shopping App",
+    "url": "https://www.nykaafashion.com/lp/privacy-policy",
+    "id": 724,
+    "content_access_date": "2025-03-12T06:57:22.275431"
+  },
+  {
+    "title": "Yahoo Finance: Stock News",
+    "url": "https://policies.yahoo.com/us/en/yahoo/privacy/index.htm",
+    "id": 725,
+    "content_access_date": "2025-03-12T06:58:25.987980"
+  },
+  {
+    "title": "Investing.com: Stock Market",
+    "url": "https://www.investing.com/about-us/privacy-policy",
+    "id": 726,
+    "content_access_date": "2025-03-12T06:59:26.579900"
+  },
+  {
+    "title": "Robinhood: Investing for All",
+    "url": "https://robinhood.com/l/privacy",
+    "id": 727,
+    "content_access_date": "2025-03-12T07:00:22.383650"
+  },
+  {
+    "title": "eToro: Trade. Invest. Connect.",
+    "url": "https://www.etoro.com/customer-service/privacy",
+    "id": 728,
+    "content_access_date": "2025-03-12T07:01:24.189211"
+  },
+  {
+    "title": "Webull: Investing & Trading",
+    "url": "https://www.webull.com/protocol/webull_privacy_policy?hl=en",
+    "id": 729,
+    "content_access_date": "2025-03-12T07:02:31.275515"
+  },
+  {
+    "title": "Fidelity Investments",
+    "url": "https://www.fidelity.com/privacy-policy",
+    "id": 731,
+    "content_access_date": "2025-03-12T07:04:32.289362"
+  },
+  {
+    "title": "TradingView: Track All Markets",
+    "url": "https://www.tradingview.com/privacy-policy/",
+    "id": 732,
+    "content_access_date": "2025-03-12T07:05:28.315310"
+  },
+  {
+    "title": "Schwab Mobile",
+    "url": "http://www.schwab.com/privacy",
+    "id": 733,
+    "content_access_date": "2025-03-12T07:06:21.958589"
+  },
+  {
+    "title": "Acorns: Invest For Your Future",
+    "url": "https://www.acorns.com/privacy/",
+    "id": 734,
+    "content_access_date": "2025-03-12T07:07:18.438588"
+  },
+  {
+    "title": "My Stocks Portfolio & Market",
+    "url": "https://peeksoft.co/Privacy",
+    "id": 736,
+    "content_access_date": "2025-03-12T07:09:16.025822"
+  },
+  {
+    "title": "Stocktwits - Stock Market Chat",
+    "url": "http://stocktwits.com/st/privacy",
+    "id": 737,
+    "content_access_date": "2025-03-12T07:10:14.820910"
+  },
+  {
+    "title": "Public â€“ Stocks and Options",
+    "url": "https://public.com/privacy-policy/",
+    "id": 739,
+    "content_access_date": "2025-03-12T07:12:39.384878"
+  },
+  {
+    "title": "Simply Wall St: Stock Analysis",
+    "url": "http://simplywall.st/privacypolicy",
+    "id": 741,
+    "content_access_date": "2025-03-12T07:14:40.311850"
+  },
+  {
+    "title": "Seeking Alpha: News & Analysis",
+    "url": "https://seekingalpha.com/page/privacy",
+    "id": 742,
+    "content_access_date": "2025-03-12T07:15:42.089146"
+  },
+  {
+    "title": "moomoo:Investing&Trading",
+    "url": "https://www.moomoo.com/privacy",
+    "id": 744,
+    "content_access_date": "2025-03-12T07:17:42.602553"
+  },
+  {
+    "title": "StockEdge: Stock Market App",
+    "url": "https://stockedge.com/privacypolicy",
+    "id": 745,
+    "content_access_date": "2025-03-12T07:18:45.486270"
+  },
+  {
+    "title": "Trading Game: Stock Market Sim",
+    "url": "https://tradinggame.com/privacy-policy-trading-game/",
+    "id": 747,
+    "content_access_date": "2025-03-12T07:21:01.503386"
+  },
+  {
+    "title": "5paisa: Stocks, IPO & SIP",
+    "url": "https://www.5paisa.com/privacy-policy",
+    "id": 748,
+    "content_access_date": "2025-03-12T07:22:01.267882"
+  },
+  {
+    "title": "FYERS: Stocks & Option Trading",
+    "url": "https://fyers.in/privacy-policy",
+    "id": 749,
+    "content_access_date": "2025-03-12T07:22:54.762456"
+  },
+  {
+    "title": "Stock Events Market Tracker",
+    "url": "https://stockevents.app/privacy",
+    "id": 750,
+    "content_access_date": "2025-03-12T07:23:55.762033"
+  },
+  {
+    "title": "Elevate - Brain Training Games",
+    "url": "https://elevateapp.com/privacy",
+    "id": 752,
+    "content_access_date": "2025-03-12T07:25:49.107559"
+  },
+  {
+    "title": "Educate - Online Classroom App",
+    "url": "https://pages.flycricket.io/educate-0/privacy.html",
+    "id": 754,
+    "content_access_date": "2025-03-12T07:27:51.523576"
+  },
+  {
+    "title": "ClassDojo",
+    "url": "http://www.classdojo.com/privacy",
+    "id": 755,
+    "content_access_date": "2025-03-12T07:28:42.539921"
+  },
+  {
+    "title": "Brilliant: Learn by doing",
+    "url": "https://brilliant.org/privacy/",
+    "id": 756,
+    "content_access_date": "2025-03-12T07:29:38.833748"
+  },
+  {
+    "title": "ABCmouse â€“ Kids Learning Games",
+    "url": "http://www.abcmouse.com/privacy",
+    "id": 757,
+    "content_access_date": "2025-03-12T07:30:44.264262"
+  },
+  {
+    "title": "Photomath",
+    "url": "https://photomath.com/privacypolicy",
+    "id": 758,
+    "content_access_date": "2025-03-12T07:31:34.269785"
+  },
+  {
+    "title": "Lumosity: Brain Training",
+    "url": "http://www.lumosity.com/legal/privacy_policy",
+    "id": 759,
+    "content_access_date": "2025-03-12T07:32:37.956240"
+  },
+  {
+    "title": "Stellarium Mobile - Star Map",
+    "url": "https://www.stellarium-labs.com/privacy-policy-for-stellarium-mobile-android",
+    "id": 763,
+    "content_access_date": "2025-03-12T07:37:03.409911"
+  },
+  {
+    "title": "Amoria",
+    "url": "https://www.privacypolicies.com/live/eef76459-0607-4c55-99ce-11a448f9917d",
+    "id": 765,
+    "content_access_date": "2025-03-12T07:39:16.821483"
+  },
+  {
+    "title": "Question.AI - Chatbot&Math AI",
+    "url": "https://www.questionai.com/privacy-policy",
+    "id": 766,
+    "content_access_date": "2025-03-12T07:40:21.802452"
+  },
+  {
+    "title": "Shopify - Your Ecommerce Store",
+    "url": "http://www.shopify.com/legal/privacy",
+    "id": 767,
+    "content_access_date": "2025-03-12T07:41:22.870398"
+  },
+  {
+    "title": "WooCommerce",
+    "url": "https://automattic.com/privacy/",
+    "id": 768,
+    "content_access_date": "2025-03-12T07:42:15.038888"
+  },
+  {
+    "title": "Ecwid Ecommerce",
+    "url": "https://www.lightspeedhq.com/legal/privacy-policy/",
+    "id": 769,
+    "content_access_date": "2025-03-12T07:43:17.983516"
+  },
+  {
+    "title": "Amazon Seller",
+    "url": "http://www.amazon.com/privacy",
+    "id": 770,
+    "content_access_date": "2025-03-12T07:44:10.222138"
+  },
+  {
+    "title": "FASHIONGO DROPSHIPPING",
+    "url": "https://www.fashiongo.net/CustomerService/PrivacyPolicy",
+    "id": 773,
+    "content_access_date": "2025-03-12T07:47:20.144398"
+  },
+  {
+    "title": "Shopify Point of Sale (POS)",
+    "url": "https://www.shopify.com/legal/privacy",
+    "id": 776,
+    "content_access_date": "2025-03-12T07:50:24.380829"
+  },
+  {
+    "title": "Wix - Website Builder",
+    "url": "http://www.wix.com/about/privacy",
+    "id": 778,
+    "content_access_date": "2025-03-12T10:14:54.730853"
+  },
+  {
+    "title": "QuickSell Catalogue Commerce",
+    "url": "http://quicksell.co/privacy.html",
+    "id": 779,
+    "content_access_date": "2025-03-12T10:15:55.459405"
+  },
+  {
+    "title": "Unizap : Ecommerce Business",
+    "url": "https://unizap.ai/privacy/",
+    "id": 780,
+    "content_access_date": "2025-03-12T10:16:55.049241"
+  },
+  {
+    "title": "Yourstore - Ecommerce app",
+    "url": "https://yourstore.io/privacy-policy.html",
+    "id": 781,
+    "content_access_date": "2025-03-12T10:17:56.576667"
+  },
+  {
+    "title": "Flipkart Seller : Sell Online",
+    "url": "http://goo.gl/JL2XLw",
+    "id": 782,
+    "content_access_date": "2025-03-12T10:18:51.851650"
+  },
+  {
+    "title": "CHARLOTTE TILBURY: EASY BEAUTY",
+    "url": "https://www.charlottetilbury.com/help/security-privacy",
+    "id": 788,
+    "content_access_date": "2025-03-12T10:25:21.960693"
+  },
+  {
+    "title": "Serenity's Spa: Beauty Salon",
+    "url": "https://lionstudios.cc/privacy/",
+    "id": 789,
+    "content_access_date": "2025-03-12T10:26:26.785869"
+  },
+  {
+    "title": "Wig Studio 1",
+    "url": "https://www.wigstudio1.com/policies/privacy-policy",
+    "id": 790,
+    "content_access_date": "2025-03-12T10:27:32.002468"
+  },
+  {
+    "title": "Boutique Skin Envie",
+    "url": "https://bskinenvie.ca/pages/privacy-policy",
+    "id": 791,
+    "content_access_date": "2025-03-12T10:28:34.615401"
+  },
+  {
+    "title": "Makeup Girls - Games for kids",
+    "url": "http://pazugames.com/privacy-policy",
+    "id": 792,
+    "content_access_date": "2025-03-12T10:29:36.913933"
+  },
+  {
+    "title": "BeautyCam-AI Photo Editor",
+    "url": "https://pro.meitu.com/meiyan/agreements/privacy_policy.html?lang=en",
+    "id": 793,
+    "content_access_date": "2025-03-12T10:30:55.186208"
+  },
+  {
+    "title": "Makeup Girls: Dress up games",
+    "url": "https://www.pazugames.com/privacy-policy/",
+    "id": 794,
+    "content_access_date": "2025-03-12T10:32:02.631449"
+  },
+  {
+    "title": "Beauty Salon Games for Girls",
+    "url": "https://brainytrainee.com/privacy.html",
+    "id": 795,
+    "content_access_date": "2025-03-12T10:33:10.257489"
+  },
+  {
+    "title": "Makeover Madness: Cook & Style",
+    "url": "https://funcoolstudios.com/privacy-policy",
+    "id": 796,
+    "content_access_date": "2025-03-12T10:34:18.784809"
+  },
+  {
+    "title": "Flip: Watch, Create, Shop",
+    "url": "https://flip.shop/privacy",
+    "id": 797,
+    "content_access_date": "2025-03-12T10:35:14.784069"
+  },
+  {
+    "title": "Nykaa - Beauty Shopping App",
+    "url": "https://www.nykaa.com/privacy-policy",
+    "id": 799,
+    "content_access_date": "2025-03-12T10:37:21.953506"
+  },
+  {
+    "title": "BELLEMINT - Fashion and Beauty",
+    "url": "https://bellemint.com/privacy-notice/",
+    "id": 800,
+    "content_access_date": "2025-03-12T10:38:30.548524"
+  },
+  {
+    "title": "Purplle Online Beauty Shopping",
+    "url": "https://www.purplle.com/pr/privacy-policy",
+    "id": 801,
+    "content_access_date": "2025-03-12T10:39:40.956939"
+  },
+  {
+    "title": "Face Massage, Skincare: forYou",
+    "url": "https://forYouDevelop.github.io/forYou/#privacy-policy",
+    "id": 803,
+    "content_access_date": "2025-03-12T10:41:55.670013"
+  }
+]
