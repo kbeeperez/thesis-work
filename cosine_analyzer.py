@@ -71,7 +71,7 @@ def compare_apps(ppaf, gplay):
         else:
             app_sim[app_id] = "Not yet in file."
     print(count)
-    functions.save_as_json(app_sim, 'data/policy_similarities.json')
+    functions.save_as_json(app_sim, 'data/policy_cosine_similarities.json')
 
 
 def heatmap(simfile):
@@ -99,10 +99,10 @@ def heatmap(simfile):
 
 def main():
     # create polciy_similarities to populate heat map
-    # compare_apps('ppaf_data.json', '1k_apps_data_safety.json')
+    # compare_apps('ppaf_data.json', 'google_dss.json')
 
     # create heatmap
-    heatmap('policy_similarities.json')
+    heatmap('policy_cosine_similarities.json')
 
 
 if __name__ == '__main__':
