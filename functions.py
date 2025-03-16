@@ -79,11 +79,15 @@ def collect_urls():
     pages = []
 
     # array of search queries for apps
-    queries = ["social", "games", "fitness", "entertainment", "messaging", "shopping", "music", "watch+tv", "tools",
+    queries = ["social", "games", "fitness", "entertainment", "messaging", "shopping", "music", "watch+tv", "tools", "gaming",
                "food", "business", "photos", "videos", "communication", "productivity", "news", "travel", "maps",
                "budgeting", "audio", "banking", "home", "nutrition", "meditation", "sleep", "learning", "languages",
                "sports", "deals", "ride", "rental", "public+transit", "calendar", "organizer", "tracker", "camera",
-               "editing", "animation", "art", "talk", "journal", "retail", "stocks", "education", "ecommerce", "beauty"]
+               "editing", "animation", "art", "talk", "journal", "retail", "stocks", "education", "ecommerce", "beauty",
+               "dating", "love", "community", "security", "healthcare", "therapy", "self-help", "outdoors", "bills", "Streaming",
+               "reading", "crypto", "workout", "events", "health", "charity", "parenting", "freelance", "fashion", "baking",
+               "hobbies", "wellness"]
+
     # collect app page urls
     for term in queries:
         response = requests.get(f"{base_url}/store/search?q={term}&c=apps")
@@ -104,12 +108,22 @@ def collect_urls():
     print(len(pages))
 
     # use app page urls to find the data safety page url for that app, write to file
-    for link in pages:
-        response2 = requests.get(link)
+    with open("data/googleplay_urls.txt", 'r') as file:
+        contents = file.read().splitlines()  # Read all lines into a list of links
 
-        if response2.status_code == 200:
-            soup2 = BeautifulSoup(response2.content, 'html.parser')
-            ds_link = soup2.find('a', class_="WpHeLc VfPpkd-mRLv6")
+    with open("data/take2_urls.txt", 'a') as f2:
+        for link in pages:
+            response2 = requests.get(link)
 
-            with open("googleplay_urls.txt", "a") as file: # move to top of pages link loop
-                file.write(f"{base_url}{ds_link.get('href')}\n")
+            if response2.status_code == 200:
+                soup2 = BeautifulSoup(response2.content, 'html.parser')
+                ds_link = soup2.find('a', class_="WpHeLc VfPpkd-mRLv6")
+
+                if ds_link:
+                    full_link = f"{base_url}{ds_link.get('href')}"
+                    if full_link in contents:
+                        print(f"Skipping already existing link: {full_link}")
+                        continue  # Skip if link already exists
+                    else:
+                        # Write the new link to take2_urls.txt
+                        f2.write(f"{full_link}\n")
