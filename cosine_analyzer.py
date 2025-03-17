@@ -96,13 +96,63 @@ def heatmap(simfile):
     plt.ylabel('Sections')
     plt.show()
 
+def plot_correlation_matrix(simfile):
+    with open(simfile, 'r') as f1:
+        data = json.load(f1)
+
+    cosine_data = []
+    for app_id, sections in data.items():
+        cosine_data.append([
+            sections.get("Data shared", 0.0),
+            sections.get("Data collected", 0.0),
+            sections.get("Security practices", 0.0)
+        ])
+
+    # Convert to DataFrame for correlation
+    df = pd.DataFrame(cosine_data, columns=["Data shared", "Data collected", "Security practices"])
+    correlation_matrix = df.corr()
+
+    plt.figure(figsize=(8, 6))
+    sea.heatmap(correlation_matrix, annot=True, cmap="coolwarm", center=0)
+    plt.title("Correlation Matrix of Sections")
+    plt.show()
+
+
+def plot_histogram(simfile):
+    with open(simfile, 'r') as f1:
+        data = json.load(f1)
+
+    shared_sim = []
+    collected_sim = []
+    security_sim = []
+    for app_id, sections in data.items():
+        shared_sim.append(sections.get("Data shared", 0))
+        collected_sim.append(sections.get("Data collected", 0))
+        security_sim.append(sections.get("Security practices", 0))
+
+    # Plot the histograms
+    plt.figure(figsize=(10, 6))
+    plt.hist(shared_sim, bins=20, alpha=0.5, label="Data shared")
+    plt.hist(collected_sim, bins=20, alpha=0.5, label="Data collected")
+    plt.hist(security_sim, bins=20, alpha=0.5, label="Security practices")
+    plt.legend()
+    plt.title("LLM Similarity Distribution for Different Sections")
+    plt.xlabel("LLM Similarity")
+    plt.ylabel("Frequency")
+    plt.show()
+
 
 def main():
     # create polciy_similarities to populate heat map
     # compare_apps('data/ppaf_data.json', 'data/google_dss.json')
 
     # create heatmap
-    heatmap('data/policy_cosine_similarities.json')
+    #heatmap('data/policy_cosine_similarities.json')
+    #plot_histogram('data/policy_cosine_similarities.json')
+    #plot_histogram('policy_llm_similarities.json')
+
+    plot_correlation_matrix('data/policy_cosine_similarities.json')
+
 
 
 if __name__ == '__main__':
