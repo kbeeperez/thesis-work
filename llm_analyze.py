@@ -17,7 +17,7 @@ class CompareRequest(BaseModel):
 
 
 # Use Langchain OpenAI (or LM Studio) setup
-llm = OpenAI(base_url="http://127.0.0.1:5000/v1", api_key="not-needed", temperature=0, max_tokens=700)
+llm = OpenAI(base_url="http://127.0.0.1:5000/v1", api_key="not-needed", temperature=0)
 
 
 # Helper functions
@@ -26,7 +26,7 @@ def compare_llm(ppaf_data, gp_data):
         return "0"  # Or another appropriate score like "No data provided"
 
     prompt = f"""
-       You are a helpful and honest assistant, given the following two pieces of text, provide a similarity score from 0 to 100 
+       Given the following two pieces of text, provide a similarity score from 0 to 100 
        based on their meaning and context. A score of 0 means the texts are not similar at all, and a score of 100 means 
        they are exactly the same in meaning. Provide the score in the format, "score:".
 
@@ -76,6 +76,7 @@ async def compare_app_data(compare_request: CompareRequest):
 
         for app_id in ppaf_data:
             if app_id in gp_data:
+                print(f"Finding similarities in {app_id}")
                 ppaf_data_shared = ppaf_data[app_id].get('Data Shared', '')
                 gp_data_shared = merge_sections(gp_data[app_id].get('Data shared', ''))
 

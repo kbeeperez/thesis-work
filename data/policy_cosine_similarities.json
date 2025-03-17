@@ -2,22 +2,22 @@
     "Snapchat": {
         "Data shared": 0.0,
         "Data collected": 0.19368426457377222,
-        "Security practices": 0.23579549001498357
+        "Security practices": 0.2357954900149836
     },
     "Instagram": {
         "Data shared": 0.13669183129313958,
-        "Data collected": 0.08866512370453722,
+        "Data collected": 0.08866512370453716,
         "Security practices": 0.23060495774520795
     },
     "X": {
         "Data shared": 0.0,
-        "Data collected": 0.14609346860066605,
-        "Security practices": 0.23873455986019348
+        "Data collected": 0.14609346860066602,
+        "Security practices": 0.2387345598601935
     },
     "Discord - Talk, Play, Hang Out": {
         "Data shared": 0.0,
         "Data collected": 0.07698091835505975,
-        "Security practices": 0.0016556684144955463
+        "Security practices": 0.001655668414495546
     },
     "TikTok": {
         "Data shared": 0.0721472008916284,
@@ -27,26 +27,26 @@
     "Bluesky": {
         "Data shared": 0.03625870803765041,
         "Data collected": 0.11586674871288377,
-        "Security practices": 0.09832539498375566
+        "Security practices": 0.09832539498375567
     },
     "LinkedIn: Jobs & Business News": {
         "Data shared": 0.0,
         "Data collected": 0.12145912698356945,
-        "Security practices": 0.24843430923969834
+        "Security practices": 0.2484343092396984
     },
     "Twitch: Live Streaming": {
         "Data shared": 0.11342137940017072,
-        "Data collected": 0.05821394131441481,
-        "Security practices": 0.1051952841380942
+        "Data collected": 0.058213941314414805,
+        "Security practices": 0.10519528413809419
     },
     "Clapper: Video, Live, Chat": {
         "Data shared": 0.0,
         "Data collected": 0.0926369997602113,
-        "Security practices": 0.024782886109387062
+        "Security practices": 0.024782886109387066
     },
     "Offline Games - No Wifi Games": {
         "Data shared": 0.0,
-        "Data collected": 0.15186886764868315,
+        "Data collected": 0.1518688676486832,
         "Security practices": 0.18536065778847838
     },
     "Magic Tiles 3": {
@@ -56,23 +56,23 @@
     },
     "Subway Surfers": {
         "Data shared": 0.013365470303680592,
-        "Data collected": 0.05186276082140068,
-        "Security practices": 0.1381219501753008
+        "Data collected": 0.05186276082140067,
+        "Security practices": 0.13812195017530082
     },
     "Call of Duty: Mobile Season 1": {
-        "Data shared": 0.1448487806128638,
-        "Data collected": 0.24293757534706864,
+        "Data shared": 0.14484878061286377,
+        "Data collected": 0.2429375753470686,
         "Security practices": 0.09948401187806587
     },
     "Geometry Dash Lite": {
         "Data shared": 0.0,
         "Data collected": 0.16284952321070126,
-        "Security practices": 0.04740374959685079
+        "Security practices": 0.04740374959685078
     },
     "Fruit Ninja\u00ae": {
         "Data shared": 0.03630588109329662,
-        "Data collected": 0.07484932241595604,
-        "Security practices": 0.08862024293576241
+        "Data collected": 0.07484932241595606,
+        "Security practices": 0.08862024293576243
     },
     "Mob Control": {
         "Data shared": 0.11664033394405066,
@@ -92,42 +92,42 @@
     "8 Ball Pool": {
         "Data shared": 0.0,
         "Data collected": 0.0,
-        "Security practices": 0.16602259880482972
+        "Security practices": 0.16602259880482975
     },
     "Angry Birds 2": {
-        "Data shared": 0.05421282070121668,
+        "Data shared": 0.05421282070121666,
         "Data collected": 0.04282727762683727,
         "Security practices": 0.1323297478056863
     },
     "Asphalt 8 - Car Racing Game": {
         "Data shared": 0.0,
-        "Data collected": 0.02033002199506073,
-        "Security practices": 0.17952265829918898
+        "Data collected": 0.020330021995060725,
+        "Security practices": 0.17952265829918904
     },
     "Hungry Shark Evolution": {
-        "Data shared": 0.06470120510654424,
+        "Data shared": 0.06470120510654422,
         "Data collected": 0.0,
         "Security practices": 0.04331367792912989
     },
     "EA SPORTS FC\u2122 Mobile Soccer": {
         "Data shared": 0.10666781784073572,
-        "Data collected": 0.03760928529234143,
-        "Security practices": 0.17160454184660437
+        "Data collected": 0.03760928529234142,
+        "Security practices": 0.17160454184660434
     },
     "Crossy Road": {
         "Data shared": 0.06882145840196502,
-        "Data collected": 0.06381929035097354,
+        "Data collected": 0.06381929035097351,
         "Security practices": 0.16976667080856211
     },
     "Home Workout - No Equipment": {
         "Data shared": 0.0,
         "Data collected": 0.10371551133313003,
-        "Security practices": 0.13654429607145982
+        "Security practices": 0.13654429607145985
     },
     "MyFitnessPal: Calorie Counter": {
-        "Data shared": 0.18631772612778674,
+        "Data shared": 0.1863177261277868,
         "Data collected": 0.1309423515725241,
-        "Security practices": 0.209372507171445
+        "Security practices": 0.20937250717144498
     },
     "Fitness App: Gym Workout Plan": {
         "Data shared": 0.0,
@@ -137,47 +137,47 @@
     "Six Pack in 30 Days": {
         "Data shared": 0.0,
         "Data collected": 0.0795712625068761,
-        "Security practices": 0.17797133956104225
+        "Security practices": 0.17797133956104222
     },
     "Fitness & Bodybuilding": {
         "Data shared": 0.10782029692232827,
-        "Data collected": 0.14328201389002707,
+        "Data collected": 0.14328201389002704,
         "Security practices": 0.17097993712422108
     },
     "Fitbit": {
         "Data shared": 0.0,
         "Data collected": 0.01713793277648582,
-        "Security practices": 0.195567485215457
+        "Security practices": 0.19556748521545694
     },
     "Lose Weight App for Women": {
         "Data shared": 0.0,
         "Data collected": 0.03630588109329661,
-        "Security practices": 0.22183773384241276
+        "Security practices": 0.2218377338424128
     },
     "Hevy - Gym Log Workout Tracker": {
         "Data shared": 0.0,
         "Data collected": 0.18005522686985692,
-        "Security practices": 0.17689042705604363
+        "Security practices": 0.17689042705604358
     },
     "Strava: Run, Bike, Hike": {
         "Data shared": 0.0,
-        "Data collected": 0.0,
-        "Security practices": 0.0
+        "Data collected": 0.0985407397734888,
+        "Security practices": 0.10494943774156197
     },
     "FitOn Workouts & Fitness Plans": {
         "Data shared": 0.0,
         "Data collected": 0.016240240445611,
-        "Security practices": 0.1437492043945939
+        "Security practices": 0.14374920439459393
     },
     "Gymshark Training: Fitness App": {
         "Data shared": 0.14382329650223477,
         "Data collected": 0.1268468896533445,
-        "Security practices": 0.185880639229997
+        "Security practices": 0.18588063922999704
     },
     "30 Day Fitness Challenge": {
         "Data shared": 0.0,
         "Data collected": 0.03630588109329661,
-        "Security practices": 0.18033604742169998
+        "Security practices": 0.1803360474217
     },
     "Step Tracker - Pedometer": {
         "Data shared": 0.0,
@@ -185,13 +185,13 @@
         "Security practices": 0.17586553685537654
     },
     "Prime Video": {
-        "Data shared": 0.10645893618708123,
+        "Data shared": 0.10645893618708122,
         "Data collected": 0.09059426055015811,
-        "Security practices": 0.12095165242741439
+        "Security practices": 0.12095165242741418
     },
     "Disney+": {
         "Data shared": 0.1843427690896393,
-        "Data collected": 0.06545307502044885,
+        "Data collected": 0.06545307502044886,
         "Security practices": 0.11420940456680312
     },
     "PBS KIDS Video": {
@@ -202,20 +202,20 @@
     "Crunchyroll": {
         "Data shared": 0.06552785694027337,
         "Data collected": 0.11510066916070137,
-        "Security practices": 0.12594511236445854
+        "Security practices": 0.12594511236445857
     },
     "Peacock TV: Stream TV & Movies": {
-        "Data shared": 0.07549603187674406,
+        "Data shared": 0.07549603187674404,
         "Data collected": 0.363100959726595,
-        "Security practices": 0.05746985564711298
+        "Security practices": 0.05746985564711299
     },
     "Plex: Stream Movies & TV": {
         "Data shared": 0.0,
-        "Data collected": 0.0819461223984211,
+        "Data collected": 0.08194612239842108,
         "Security practices": 0.1864402324437139
     },
     "ZEE5: Movies, TV Shows, Series": {
-        "Data shared": 0.21856878363349555,
+        "Data shared": 0.21856878363349552,
         "Data collected": 0.15250131555712423,
         "Security practices": 0.1831205813562497
     },
@@ -227,17 +227,17 @@
     "PlayStation App": {
         "Data shared": 0.0,
         "Data collected": 0.0599782831958985,
-        "Security practices": 0.1280736779449152
+        "Security practices": 0.12807367794491525
     },
     "Signal Private Messenger": {
         "Data shared": 0.0,
         "Data collected": 0.11043919043374505,
-        "Security practices": 0.15537766015149704
+        "Security practices": 0.15537766015149707
     },
     "Messenger Kids \u2013 The Messaging": {
         "Data shared": 0.0,
-        "Data collected": 0.1105606900294831,
-        "Security practices": 0.13537853370379685
+        "Data collected": 0.11056069002948313,
+        "Security practices": 0.13537853370379688
     },
     "Textra SMS": {
         "Data shared": 0.0,
@@ -246,7 +246,7 @@
     },
     "Messages - SMS Texting App": {
         "Data shared": 0.0,
-        "Data collected": 0.12673922849866387,
+        "Data collected": 0.12673922849866384,
         "Security practices": 0.17467313336367715
     },
     "WhatsApp Messenger": {
@@ -260,18 +260,18 @@
         "Security practices": 0.1362763414390864
     },
     "Smart Messages": {
-        "Data shared": 0.07959006955139054,
-        "Data collected": 0.05576313448623301,
+        "Data shared": 0.07959006955139056,
+        "Data collected": 0.05576313448623302,
         "Security practices": 0.06338606280712555
     },
     "WhatsApp Business": {
         "Data shared": 0.0,
         "Data collected": 0.22799421880770024,
-        "Security practices": 0.1784567099949374
+        "Security practices": 0.17845670999493743
     },
     "Rakuten Viber Messenger": {
         "Data shared": 0.08794553361150174,
-        "Data collected": 0.1663562952500071,
+        "Data collected": 0.16635629525000709,
         "Security practices": 0.24129913647238907
     },
     "KakaoTalk : Messenger": {
@@ -286,7 +286,7 @@
     },
     "Zalo": {
         "Data shared": 0.0,
-        "Data collected": 0.17604331556307454,
+        "Data collected": 0.1760433155630745,
         "Security practices": 0.104812997082956
     },
     "Amazon Shopping": {
@@ -300,14 +300,14 @@
         "Security practices": 0.09778732802517878
     },
     "Target": {
-        "Data shared": 0.1102396813386905,
+        "Data shared": 0.11023968133869053,
         "Data collected": 0.15444854918898823,
         "Security practices": 0.06810464811608748
     },
     "eBay online shopping & selling": {
-        "Data shared": 0.12811276687536358,
+        "Data shared": 0.1281127668753636,
         "Data collected": 0.07892120825725797,
-        "Security practices": 0.084692632319826
+        "Security practices": 0.08469263231982599
     },
     "Wayfair - Shop All Things Home": {
         "Data shared": 0.07644962318959062,
@@ -322,11 +322,11 @@
     "Walmart: Shopping & Savings": {
         "Data shared": 0.011470295844262882,
         "Data collected": 0.1374960162433259,
-        "Security practices": 0.10264084326769148
+        "Security practices": 0.10264084326769149
     },
     "Nike: Shoes, Apparel & Stories": {
         "Data shared": 0.0,
-        "Data collected": 0.049322160501308526,
+        "Data collected": 0.04932216050130852,
         "Security practices": 0.10604796852036259
     },
     "Flipkart Online Shopping App": {
@@ -336,22 +336,22 @@
     },
     "Shop: All your favorite brands": {
         "Data shared": 0.06997254341808112,
-        "Data collected": 0.02613362348975437,
-        "Security practices": 0.15063851285546076
+        "Data collected": 0.026133623489754367,
+        "Security practices": 0.1506385128554608
     },
     "Spotify: Music and Podcasts": {
         "Data shared": 0.0,
-        "Data collected": 0.17536913643088756,
+        "Data collected": 0.17536913643088753,
         "Security practices": 0.1376724746243896
     },
     "Pandora - Music & Podcasts": {
-        "Data shared": 0.05742711019234882,
-        "Data collected": 0.027427782076538874,
+        "Data shared": 0.057427110192348835,
+        "Data collected": 0.02742778207653887,
         "Security practices": 0.1526869073766994
     },
     "SoundCloud: Play Music & Songs": {
         "Data shared": 0.037585378349990706,
-        "Data collected": 0.03229045139981207,
+        "Data collected": 0.03229045139981208,
         "Security practices": 0.10371551133313003
     },
     "Music Player & MP3 Player": {
@@ -361,77 +361,77 @@
     },
     "TREBEL: Music, MP3 & Podcasts": {
         "Data shared": 0.08704446792504214,
-        "Data collected": 0.05653459286842052,
+        "Data collected": 0.056534592868420525,
         "Security practices": 0.14570324956011463
     },
     "Music Maker JAM: Beatmaker app": {
         "Data shared": 0.0,
-        "Data collected": 0.11141597928978224,
+        "Data collected": 0.11141597928978222,
         "Security practices": 0.17481125471509362
     },
     "Deezer: Music & Podcast Player": {
-        "Data shared": 0.10830156041911583,
+        "Data shared": 0.10830156041911584,
         "Data collected": 0.06764092274021127,
         "Security practices": 0.13433685651726632
     },
     "Napster Music": {
         "Data shared": 0.07440362580466706,
-        "Data collected": 0.13072366497882468,
+        "Data collected": 0.13072366497882457,
         "Security practices": 0.20320030052025118
     },
     "Boomplay: Music & Live Stream": {
         "Data shared": 0.0,
         "Data collected": 0.06454297441108449,
-        "Security practices": 0.20069770007788026
+        "Security practices": 0.20069770007788032
     },
     "Remixlive - Make Music & Beats": {
         "Data shared": 0.0,
-        "Data collected": 0.08373514872558958,
-        "Security practices": 0.19480820425628645
+        "Data collected": 0.0837351487255896,
+        "Security practices": 0.19480820425628642
     },
     "Pi Music Player: Offline Music": {
         "Data shared": 0.06815462124571907,
         "Data collected": 0.04537184408703886,
-        "Security practices": 0.17630892713328006
+        "Security practices": 0.17630892713328009
     },
     "DramaShorts: Watch TV & Shows": {
-        "Data shared": 0.07759879669466303,
+        "Data shared": 0.07759879669466305,
         "Data collected": 0.13278488393898039,
-        "Security practices": 0.23318978666635812
+        "Security practices": 0.23318978666635815
     },
     "IMDb: Movies & TV Shows": {
         "Data shared": 0.03556618770999102,
         "Data collected": 0.1227696031828436,
-        "Security practices": 0.22321378900060138
+        "Security practices": 0.22321378900060135
     },
     "JustWatch - Streaming Guide": {
         "Data shared": 0.0,
-        "Data collected": 0.0,
-        "Security practices": 0.0
+        "Data collected": 0.1843555419263006,
+        "Security practices": 0.17292165750000704
     },
     "Fandango at Home": {
-        "Data shared": 0.06991483717500047,
+        "Data shared": 0.06991483717500044,
         "Data collected": 0.06595918690736456,
-        "Security practices": 0.043013519176943654
+        "Security practices": 0.04301351917694366
     },
     "Amazon Freevee: Free Movies/TV": {
-        "Data shared": 0.016762902823197215,
+        "Data shared": 0.016762902823197222,
         "Data collected": 0.05936874499010288,
         "Security practices": 0.09427171364984961
     },
     "Philo: Shows, Movies, Live TV.": {
         "Data shared": 0.0497521222476313,
-        "Data collected": 0.11330290068091002,
-        "Security practices": 0.1502285199108861
+        "Data collected": 0.11330290068091003,
+        "Security practices": 0.15022851991088612
     },
     "VIZIO | WatchFree+": {
-        "Data shared": 0.028576703649263284,
+        "Data shared": 0.02857670364926328,
         "Data collected": 0.22176208781804418,
-        "Security practices": 0.2406886966714397
+        "Security practices": 0.24068869667143972
     },
     "ViX: TV, Deportes y Noticias": {
         "Data shared": 0.0,
-        "Data collected": 0.0078073188429821205,
+        "Data collected": 0.007807318842982119,
         "Security practices": 0.08239668878783943
     },
     "Member Tools": {
@@ -441,7 +441,7 @@
     },
     "Samsung Internet Browser": {
         "Data shared": 0.0,
-        "Data collected": 0.04537184408703886,
+        "Data collected": 0.04537184408703885,
         "Security practices": 0.13601988648108285
     },
     "Fing - Network Tools": {
@@ -461,7 +461,7 @@
     },
     "Uber Eats: Food Delivery": {
         "Data shared": 0.047179955879648953,
-        "Data collected": 0.014549172843957313,
+        "Data collected": 0.014549172843957316,
         "Security practices": 0.2269599296774895
     },
     "Samsung Food: Meal Planning": {
@@ -477,7 +477,7 @@
     "Food Stylist - Design Game": {
         "Data shared": 0.14691691894505338,
         "Data collected": 0.02729485362722795,
-        "Security practices": 0.21853270194997276
+        "Security practices": 0.2185327019499728
     },
     "Yelp: Food, Delivery & Reviews": {
         "Data shared": 0.03484532460614676,
@@ -491,23 +491,23 @@
     },
     "HelloFresh: Meal Kit Delivery": {
         "Data shared": 0.0,
-        "Data collected": 0.0,
-        "Security practices": 0.0
+        "Data collected": 0.0329571777403657,
+        "Security practices": 0.10839879734435748
     },
     "Business Empire: RichMan": {
         "Data shared": 0.0,
-        "Data collected": 0.10266617250927103,
+        "Data collected": 0.10266617250927101,
         "Security practices": 0.013375114491988832
     },
     "Tycoon - Business Empires Game": {
         "Data shared": 0.0,
-        "Data collected": 0.10475117334177525,
+        "Data collected": 0.10475117334177524,
         "Security practices": 0.059232286155252466
     },
     "Novo - Small Business Checking": {
-        "Data shared": 0.03445390721962116,
+        "Data shared": 0.034453907219621153,
         "Data collected": 0.029216911652695556,
-        "Security practices": 0.16861504314151932
+        "Security practices": 0.16861504314151934
     },
     "Business Tour": {
         "Data shared": 0.0,
@@ -515,34 +515,34 @@
         "Security practices": 0.14616748508413557
     },
     "Udemy Business": {
-        "Data shared": 0.08597290870737206,
-        "Data collected": 0.10892696313432053,
+        "Data shared": 0.08597290870737202,
+        "Data collected": 0.10892696313432051,
         "Security practices": 0.164318176630563
     },
     "SmartBusiness -Bookkeeping App": {
         "Data shared": 0.0,
-        "Data collected": 0.19846970928200544,
+        "Data collected": 0.1984697092820054,
         "Security practices": 0.09294607036988756
     },
     "Big Business Deluxe": {
         "Data shared": 0.0690737626269708,
         "Data collected": 0.1941950083301705,
-        "Security practices": 0.19785998201278643
+        "Security practices": 0.19785998201278646
     },
     "HiHello: Digital Business Card": {
         "Data shared": 0.0,
         "Data collected": 0.1386036483475698,
-        "Security practices": 0.2684046721527913
+        "Security practices": 0.26840467215279135
     },
     "HoneyBook - Small Business CRM": {
-        "Data shared": 0.028527191016674763,
+        "Data shared": 0.02852719101667476,
         "Data collected": 0.02208769239884318,
         "Security practices": 0.17698498778972546
     },
     "Found: Business Banking": {
         "Data shared": 0.0,
         "Data collected": 0.037286712184144886,
-        "Security practices": 0.17440260789370282
+        "Security practices": 0.17440260789370285
     },
     "Booksy Biz: For Businesses": {
         "Data shared": 0.0,
@@ -552,17 +552,17 @@
     "Retail POS Billing & Inventory": {
         "Data shared": 0.09694658818001355,
         "Data collected": 0.40881382276537037,
-        "Security practices": 0.21692477518188288
+        "Security practices": 0.2169247751818829
     },
     "Kuda Business Banking App": {
         "Data shared": 0.0,
         "Data collected": 0.10273427748431754,
-        "Security practices": 0.2354380504804607
+        "Security practices": 0.23543805048046068
     },
     "Collage Maker | Photo Editor": {
         "Data shared": 0.0,
         "Data collected": 0.0,
-        "Security practices": 0.08561852596931228
+        "Security practices": 0.0856185259693123
     },
     "McDonald's": {
         "Data shared": 0.01838490313477073,
@@ -571,28 +571,28 @@
     },
     "PayPal Business": {
         "Data shared": 0.06722933489421444,
-        "Data collected": 0.11434300035408684,
-        "Security practices": 0.12445890468783653
+        "Data collected": 0.11434300035408683,
+        "Security practices": 0.12445890468783655
     },
     "Remini - AI Photo Enhancer": {
-        "Data shared": 0.05154934508574064,
-        "Data collected": 0.10286367278977131,
+        "Data shared": 0.05154934508574063,
+        "Data collected": 0.10286367278977132,
         "Security practices": 0.1492663269788582
     },
     "Gallery- Photo Gallery & Album": {
         "Data shared": 0.0,
-        "Data collected": 0.05692548331193388,
+        "Data collected": 0.05692548331193387,
         "Security practices": 0.10304860291602327
     },
     "Photo Lab Picture Editor & Art": {
         "Data shared": 0.0,
-        "Data collected": 0.04618530428837906,
-        "Security practices": 0.16140204133700076
+        "Data collected": 0.046185304288379046,
+        "Security practices": 0.1614020413370008
     },
     "FreePrints": {
         "Data shared": 0.10008409848659676,
         "Data collected": 0.0,
-        "Security practices": 0.2417863445583432
+        "Security practices": 0.24178634455834325
     },
     "Video Editor & Maker - InShot": {
         "Data shared": 0.13378509294631244,
@@ -606,17 +606,17 @@
     },
     "YouCam Perfect - Photo Editor": {
         "Data shared": 0.0,
-        "Data collected": 0.1457649600470551,
+        "Data collected": 0.14576496004705505,
         "Security practices": 0.19952061780774843
     },
     "Private Photo Vault - Keepsafe": {
         "Data shared": 0.1593407115215157,
         "Data collected": 0.16014452672309995,
-        "Security practices": 0.20390275062073238
+        "Security practices": 0.2039027506207324
     },
     "PicCollage: Photo Grid Editor": {
         "Data shared": 0.0,
-        "Data collected": 0.2719984813119341,
+        "Data collected": 0.27199848131193405,
         "Security practices": 0.18237059945006112
     },
     "Photo Scan App by Photomyne": {
@@ -625,7 +625,7 @@
         "Security practices": 0.20534096613906083
     },
     "FaceApp: Perfect Face Editor": {
-        "Data shared": 0.10843252641524266,
+        "Data shared": 0.10843252641524265,
         "Data collected": 0.0,
         "Security practices": 0.08221845882601028
     },
@@ -636,7 +636,7 @@
     },
     "Scoopz: Real Life, Real Video": {
         "Data shared": 0.0,
-        "Data collected": 0.11960256747740866,
+        "Data collected": 0.11960256747740868,
         "Security practices": 0.01902976700345283
     },
     "Screen Recorder - XRecorder": {
@@ -647,7 +647,7 @@
     "YouCut - Video Editor & Maker": {
         "Data shared": 0.2484582227373677,
         "Data collected": 0.0,
-        "Security practices": 0.17099220363579523
+        "Security practices": 0.17099220363579526
     },
     "Video Maker": {
         "Data shared": 0.0,
@@ -657,7 +657,7 @@
     "PowerDirector - Video Editor": {
         "Data shared": 0.0,
         "Data collected": 0.03182638010402603,
-        "Security practices": 0.105347494874162
+        "Security practices": 0.10534749487416202
     },
     "Visha-Video Player All Formats": {
         "Data shared": 0.0,
@@ -666,7 +666,7 @@
     },
     "Truecaller: Caller ID Blocker": {
         "Data shared": 0.26502450861604404,
-        "Data collected": 0.17170918597062473,
+        "Data collected": 0.1717091859706247,
         "Security practices": 0.13217895232368723
     },
     "Zoom Workplace": {
@@ -675,43 +675,43 @@
         "Security practices": 0.2278332724578464
     },
     "JusTalk Kids - Safe Messenger": {
-        "Data shared": 0.06654488326015778,
-        "Data collected": 0.07191584946380172,
+        "Data shared": 0.06654488326015776,
+        "Data collected": 0.07191584946380171,
         "Security practices": 0.11420219265739713
     },
     "Todoist: Planner & Calendar": {
         "Data shared": 0.0,
-        "Data collected": 0.05426392991151489,
-        "Security practices": 0.14662773603719356
+        "Data collected": 0.05426392991151488,
+        "Security practices": 0.14662773603719353
     },
     "Boosted Time Tracker": {
         "Data shared": 0.0,
-        "Data collected": 0.10859350094213925,
+        "Data collected": 0.10859350094213921,
         "Security practices": 0.19402878595925918
     },
     "Focus To-Do: Pomodoro & Tasks": {
         "Data shared": 0.0,
-        "Data collected": 0.17246782859668083,
+        "Data collected": 0.17246782859668075,
         "Security practices": 0.2571457201354495
     },
     "Dropbox: Secure Cloud Storage": {
         "Data shared": 0.0,
-        "Data collected": 0.12275100599476295,
-        "Security practices": 0.18360783381221124
+        "Data collected": 0.12275100599476294,
+        "Security practices": 0.18360783381221127
     },
     "ColorNote Notepad Notes": {
         "Data shared": 0.0898947327950885,
-        "Data collected": 0.19215346695230764,
-        "Security practices": 0.18365551637183578
+        "Data collected": 0.19215346695230762,
+        "Security practices": 0.1836555163718358
     },
     "HabitNow Daily Routine Planner": {
         "Data shared": 0.0,
         "Data collected": 0.0,
-        "Security practices": 0.1802295784344765
+        "Security practices": 0.18022957843447654
     },
     "Kahoot! Play & Create Quizzes": {
         "Data shared": 0.0,
-        "Data collected": 0.046556727472873316,
+        "Data collected": 0.04655672747287333,
         "Security practices": 0.07091118480719687
     },
     "ReadEra \u2013 book reader pdf epub": {
@@ -722,31 +722,31 @@
     "NewsBreak: Local News & Alerts": {
         "Data shared": 0.0,
         "Data collected": 0.09819909884211613,
-        "Security practices": 0.1164973676092892
+        "Security practices": 0.11649736760928923
     },
     "Ground News": {
         "Data shared": 0.0,
-        "Data collected": 0.09640561543980096,
+        "Data collected": 0.09640561543980097,
         "Security practices": 0.056087333784734496
     },
     "BBC: World News & Stories": {
-        "Data shared": 0.01905772524904128,
+        "Data shared": 0.019057725249041278,
         "Data collected": 0.01924998982726407,
-        "Security practices": 0.1977948346731733
+        "Security practices": 0.19779483467317333
     },
     "Opera News: breaking & local": {
         "Data shared": 0.22876299296170693,
         "Data collected": 0.14898363324136232,
-        "Security practices": 0.29081473101360206
+        "Security practices": 0.2908147310136021
     },
     "SmartNews: News That Matters": {
-        "Data shared": 0.0015049039944345394,
+        "Data shared": 0.0015049039944345392,
         "Data collected": 0.18164164637035918,
-        "Security practices": 0.27761500818301826
+        "Security practices": 0.27761500818301876
     },
     "Flipboard:Your Social Magazine": {
-        "Data shared": 0.09008799964862298,
-        "Data collected": 0.058707927703222675,
+        "Data shared": 0.09008799964862295,
+        "Data collected": 0.05870792770322268,
         "Security practices": 0.14059850500464655
     },
     "The Guardian - News & Sport": {
@@ -762,7 +762,7 @@
     "The Wall Street Journal.": {
         "Data shared": 0.0560906483323641,
         "Data collected": 0.14633077402417755,
-        "Security practices": 0.10832581144103272
+        "Security practices": 0.10832581144103273
     },
     "NPR": {
         "Data shared": 0.03498606094683526,
@@ -772,7 +772,7 @@
     "The Epoch Times: Breaking News": {
         "Data shared": 0.0,
         "Data collected": 0.17666840461956418,
-        "Security practices": 0.15631029780038774
+        "Security practices": 0.15631029780038777
     },
     "Financial Times: Business News": {
         "Data shared": 0.0,
@@ -781,23 +781,23 @@
     },
     "TripIt: Travel Planner": {
         "Data shared": 0.0,
-        "Data collected": 0.07573608662574269,
+        "Data collected": 0.07573608662574262,
         "Security practices": 0.2507583140033957
     },
     "Skyscanner Flights Hotels Cars": {
         "Data shared": 0.0,
-        "Data collected": 0.04352191732874195,
+        "Data collected": 0.04352191732874196,
         "Security practices": 0.23753367472041004
     },
     "Wanderlog - Trip Planner App": {
         "Data shared": 0.0,
-        "Data collected": 0.06882542958855786,
-        "Security practices": 0.13025944676507048
+        "Data collected": 0.06882542958855789,
+        "Security practices": 0.1302594467650705
     },
     "World Travel Stories - Airport": {
         "Data shared": 0.0,
         "Data collected": 0.0,
-        "Security practices": 0.03210825776974879
+        "Security practices": 0.032108257769748794
     },
     "OneTravel: Flights Hotels Cars": {
         "Data shared": 0.009004092715930055,
@@ -812,42 +812,42 @@
     "Airbnb": {
         "Data shared": 0.35547219558664883,
         "Data collected": 0.14782158363674142,
-        "Security practices": 0.160445362612437
+        "Security practices": 0.16044536261243697
     },
     "Flightradar24 Flight Tracker": {
         "Data shared": 0.0,
-        "Data collected": 0.13394802757613558,
-        "Security practices": 0.18443191662261307
+        "Data collected": 0.1339480275761356,
+        "Security practices": 0.1844319166226131
     },
     "Lyft": {
         "Data shared": 0.08096434293442598,
-        "Data collected": 0.07225252535705555,
+        "Data collected": 0.07225252535705554,
         "Security practices": 0.06877758347677364
     },
     "Waze Navigation & Live Traffic": {
         "Data shared": 0.05487366688819073,
         "Data collected": 0.031736351013749116,
-        "Security practices": 0.08072552507513596
+        "Security practices": 0.08072552507513599
     },
     "MAPS.ME: Offline maps GPS Nav": {
         "Data shared": 0.0,
-        "Data collected": 0.02380580001657131,
-        "Security practices": 0.12019417061648248
+        "Data collected": 0.023805800016571305,
+        "Security practices": 0.12019417061648249
     },
     "Yandex Maps and Navigator": {
         "Data shared": 0.0,
-        "Data collected": 0.2748350688706845,
+        "Data collected": 0.27483506887068454,
         "Security practices": 0.15468775432063026
     },
     "Sygic GPS Navigation & Maps": {
         "Data shared": 0.08282592921126357,
         "Data collected": 0.1310037143642191,
-        "Security practices": 0.2132338098587936
+        "Security practices": 0.21323380985879362
     },
     "Avenza Maps: Offline Mapping": {
         "Data shared": 0.0,
         "Data collected": 0.06989286403380504,
-        "Security practices": 0.19610816613086626
+        "Security practices": 0.1961081661308663
     },
     "OsmAnd \u2014 Maps & GPS Offline": {
         "Data shared": 0.0,
@@ -857,27 +857,27 @@
     "HERE WeGo: Maps & Navigation": {
         "Data shared": 0.0,
         "Data collected": 0.05078358584715605,
-        "Security practices": 0.18359020081346306
+        "Security practices": 0.18359020081346303
     },
     "Citymapper": {
         "Data shared": 0.05142451788163205,
-        "Data collected": 0.1413281188374534,
-        "Security practices": 0.19016593049504044
+        "Data collected": 0.14132811883745336,
+        "Security practices": 0.19016593049504046
     },
     "Guru Maps \u2014 GPS Route Planner": {
         "Data shared": 0.0,
-        "Data collected": 0.21279424087161972,
+        "Data collected": 0.21279424087161966,
         "Security practices": 0.12476909455483912
     },
     "Spendee: Budget App & Tracker": {
         "Data shared": 0.0,
         "Data collected": 0.04985912431641305,
-        "Security practices": 0.2315749450302879
+        "Security practices": 0.23157494503028792
     },
     "Symptom & Mood Tracker": {
         "Data shared": 0.08446605509882892,
         "Data collected": 0.08470526692375258,
-        "Security practices": 0.2026000255532325
+        "Security practices": 0.20260002555323253
     },
     "ProCCD - Digital Film Camera": {
         "Data shared": 0.0,
@@ -896,7 +896,7 @@
     },
     "TfL Go: Plan, Pay, Travel": {
         "Data shared": 0.0,
-        "Data collected": 0.16785231373674994,
+        "Data collected": 0.16785231373674986,
         "Security practices": 0.2525578090159499
     },
     "Business Calendar 2 Planner": {
@@ -907,17 +907,17 @@
     "TheFor: Habit Tracker": {
         "Data shared": 0.0,
         "Data collected": 0.0,
-        "Security practices": 0.22649816677610343
+        "Security practices": 0.22649816677610352
     },
     "Hammer: Truck GPS & Maps": {
         "Data shared": 0.0,
-        "Data collected": 0.09960396504570837,
+        "Data collected": 0.09960396504570836,
         "Security practices": 0.0637258543007018
     },
     "LINE Camera - Photo editor": {
         "Data shared": 0.0,
         "Data collected": 0.0375853783499907,
-        "Security practices": 0.1684785841785892
+        "Security practices": 0.16847858417858924
     },
     "Karta GPS Offline Maps Nav": {
         "Data shared": 0.04015809672797807,
@@ -926,18 +926,18 @@
     },
     "FlipaClip: Create 2D Animation": {
         "Data shared": 0.0,
-        "Data collected": 0.1567260157377589,
-        "Security practices": 0.1735480762142399
+        "Data collected": 0.053327652442093164,
+        "Security practices": 0.1758928466653865
     },
     "KakaoMap - Map / Navigation": {
         "Data shared": 0.0,
         "Data collected": 0.024611887043668006,
-        "Security practices": 0.1070782925551888
+        "Security practices": 0.10707829255518883
     },
     "Nextcloud Talk": {
         "Data shared": 0.0,
         "Data collected": 0.011274645441140782,
-        "Security practices": 0.13507348367087132
+        "Security practices": 0.1350734836708713
     },
     "HOW TO TALK: Parenting Tips": {
         "Data shared": 0.0,
@@ -946,18 +946,18 @@
     },
     "TruckMap - Truck GPS Routes": {
         "Data shared": 0.0,
-        "Data collected": 0.1711718400006668,
+        "Data collected": 0.17117184000066682,
         "Security practices": 0.20255945934208183
     },
     "Yubo: Make new friends": {
         "Data shared": 0.1467534473614422,
-        "Data collected": 0.23025213943808112,
+        "Data collected": 0.23025213943808115,
         "Security practices": 0.15253242923974403
     },
     "Day One Journal: Private Diary": {
         "Data shared": 0.0,
         "Data collected": 0.13386172961452547,
-        "Security practices": 0.1889167932222727
+        "Security practices": 0.18891679322227273
     },
     "Circuit Route Planner": {
         "Data shared": 0.03162790539835864,
@@ -966,42 +966,4037 @@
     },
     "MyMoney\u2014Track Expense & Budget": {
         "Data shared": 0.0,
-        "Data collected": 0.14438355527738675,
-        "Security practices": 0.124422679681078
+        "Data collected": 0.1443835552773867,
+        "Security practices": 0.12442267968107802
     },
     "YNAB": {
-        "Data shared": 0.026834432706487225,
+        "Data shared": 0.02683443270648722,
         "Data collected": 0.12538494389276808,
         "Security practices": 0.09042421401858963
     },
     "Money Manager Expense & Budget": {
         "Data shared": 0.07309092737088377,
-        "Data collected": 0.24221068789441974,
+        "Data collected": 0.24221068789441977,
         "Security practices": 0.027073934118295537
     },
     "Wallet: Budget Expense Tracker": {
-        "Data shared": 0.03379659463954309,
+        "Data shared": 0.033796594639543084,
         "Data collected": 0.0,
-        "Security practices": 0.1372928383160327
+        "Security practices": 0.13729283831603273
     },
     "Budgeting App - Spend Tracker": {
         "Data shared": 0.0,
-        "Data collected": 0.14475199048716916,
+        "Data collected": 0.14475199048716914,
         "Security practices": 0.034993607457791294
     },
     "Dollar General-Digital Coupons": {
         "Data shared": 0.0,
         "Data collected": 0.0,
-        "Security practices": 0.10991223914382771
+        "Security practices": 0.10991223914382772
     },
     "GetRide": {
         "Data shared": 0.0,
-        "Data collected": 0.11149164591106228,
-        "Security practices": 0.13248671190529251
+        "Data collected": 0.11149164591106231,
+        "Security practices": 0.13248671190529254
     },
     "Ride Circuit": {
-        "Data shared": 0.04620041037189159,
+        "Data shared": 0.046200410371891605,
         "Data collected": 0.0960431097607518,
         "Security practices": 0.04904805899577243
+    },
+    "Ride with GPS: Bike Navigation": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.06302162746370649
+    },
+    "RIDE: Ethiopia & Djibouti": {
+        "Data shared": 0.0,
+        "Data collected": 0.11825735833961189,
+        "Security practices": 0.16610441986331417
+    },
+    "RYDE - Ride Hailing & More": {
+        "Data shared": 0.03504915294609075,
+        "Data collected": 0.0,
+        "Security practices": 0.2159012818077635
+    },
+    "Empower - Your ride, your way": {
+        "Data shared": 0.11590976435083963,
+        "Data collected": 0.16862895498557154,
+        "Security practices": 0.09247732827328435
+    },
+    "Social Ride - Bike tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.02935210921320299,
+        "Security practices": 0.09762469925319806
+    },
+    "Ride Bounce": {
+        "Data shared": 0.0,
+        "Data collected": 0.2753407257640639,
+        "Security practices": 0.17292165750000704
+    },
+    "maxim \u2014 order a taxi & food": {
+        "Data shared": 0.05556032910393396,
+        "Data collected": 0.046024592627329525,
+        "Security practices": 0.15169584183139295
+    },
+    "My Ride K-12": {
+        "Data shared": 0.0,
+        "Data collected": 0.06270294400526193,
+        "Security practices": 0.1058302597168396
+    },
+    "k.ride - taxi, cab, korea trip": {
+        "Data shared": 0.07172626708099913,
+        "Data collected": 0.12335930971802384,
+        "Security practices": 0.1378500251608886
+    },
+    "Grab - Taxi & Food Delivery": {
+        "Data shared": 0.0,
+        "Data collected": 0.1754309134186198,
+        "Security practices": 0.2598926838339874
+    },
+    "RIDE Driver ET": {
+        "Data shared": 0.0,
+        "Data collected": 0.1252031957657162,
+        "Security practices": 0.21000120753915624
+    },
+    "Rapido: Bike-Taxi, Auto & Cabs": {
+        "Data shared": 0.026883264420627665,
+        "Data collected": 0.0,
+        "Security practices": 0.12828054914390535
+    },
+    "Uber - Driver: Drive & Deliver": {
+        "Data shared": 0.1058993891905763,
+        "Data collected": 0.09874363166105901,
+        "Security practices": 0.22344979385539232
+    },
+    "REVER - Motorcycle GPS & Rides": {
+        "Data shared": 0.0,
+        "Data collected": 0.008371208424977633,
+        "Security practices": 0.13812195017530082
+    },
+    "Poparide - Carpool in Canada": {
+        "Data shared": 0.0,
+        "Data collected": 0.12735952979479356,
+        "Security practices": 0.1879838223393469
+    },
+    "Trulia Rent Apartments & Homes": {
+        "Data shared": 0.03258110130787249,
+        "Data collected": 0.013330407225250022,
+        "Security practices": 0.12417972324671851
+    },
+    "Rent. Apartments & Homes": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.042494648321991214
+    },
+    "Apartments & Rentals - Zillow": {
+        "Data shared": 0.010840209955470803,
+        "Data collected": 0.011454445090242602,
+        "Security practices": 0.12417972324671851
+    },
+    "Realtor.com Real Estate & Rent": {
+        "Data shared": 0.016346301444022597,
+        "Data collected": 0.024893134743677048,
+        "Security practices": 0.09227110462259236
+    },
+    "HotPads Rent Apartments": {
+        "Data shared": 0.0,
+        "Data collected": 0.02062301499005295,
+        "Security practices": 0.12417972324671851
+    },
+    "Zumper - Apartment Finder": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.09840440341787793
+    },
+    "Badi \u2013 Rooms & Flats for rent": {
+        "Data shared": 0.0496594237520908,
+        "Data collected": 0.05421459959683454,
+        "Security practices": 0.09042421401858963
+    },
+    "Transit \u2022 Subway & Bus Times": {
+        "Data shared": 0.02903628543387466,
+        "Data collected": 0.054047336770196436,
+        "Security practices": 0.1749179360183033
+    },
+    "Moovit: Your Transit Tracker": {
+        "Data shared": 0.06056186021915365,
+        "Data collected": 0.202174826050071,
+        "Security practices": 0.21833386009932143
+    },
+    "MyTransit NYC Subway & Bus MTA": {
+        "Data shared": 0.07864960708160283,
+        "Data collected": 0.0,
+        "Security practices": 0.15195272463547838
+    },
+    "Amtrak": {
+        "Data shared": 0.044211063348301924,
+        "Data collected": 0.0,
+        "Security practices": 0.09427171364984965
+    },
+    "FlixBus: Book Bus Tickets": {
+        "Data shared": 0.16663452480788266,
+        "Data collected": 0.17707135406847888,
+        "Security practices": 0.08866908822481674
+    },
+    "ixigo Trains: Ticket Booking": {
+        "Data shared": 0.0,
+        "Data collected": 0.15957572823277005,
+        "Security practices": 0.20450645896691155
+    },
+    "Eurostar Trains": {
+        "Data shared": 0.0,
+        "Data collected": 0.18422722600359528,
+        "Security practices": 0.21617552707042365
+    },
+    "Trainline: Train travel Europe": {
+        "Data shared": 0.2589362520756039,
+        "Data collected": 0.05357150625796911,
+        "Security practices": 0.1325664317451495
+    },
+    "Goibibo: Hotel, Flight & Train": {
+        "Data shared": 0.0,
+        "Data collected": 0.16509307616996033,
+        "Security practices": 0.09999815696241103
+    },
+    "NJ TRANSIT Mobile App": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.15654119637210878
+    },
+    "Access by KAI": {
+        "Data shared": 0.0,
+        "Data collected": 0.24718481334341977,
+        "Security practices": 0.21421267565264468
+    },
+    "SUBE": {
+        "Data shared": 0.0,
+        "Data collected": 0.18360979294988408,
+        "Security practices": 0.13533638521712202
+    },
+    "AbhiBus Bus Ticket Booking App": {
+        "Data shared": 0.0,
+        "Data collected": 0.008869907638651564,
+        "Security practices": 0.21904412377379
+    },
+    "Japan Transit Planner": {
+        "Data shared": 0.07593731515892596,
+        "Data collected": 0.1321680218747427,
+        "Security practices": 0.13829360982664918
+    },
+    "Flights, railways, hotels": {
+        "Data shared": 0.03950998289027157,
+        "Data collected": 0.0939219237918559,
+        "Security practices": 0.19242069902306244
+    },
+    "GoPass \u00ae": {
+        "Data shared": 0.0,
+        "Data collected": 0.13195807072346571,
+        "Security practices": 0.1926584893004283
+    },
+    "9292 public transport & ticket": {
+        "Data shared": 0.19119491515540285,
+        "Data collected": 0.2655703752015868,
+        "Security practices": 0.16912592752156702
+    },
+    "Simple Calendar - easy planner": {
+        "Data shared": 0.0,
+        "Data collected": 0.019703658838987233,
+        "Security practices": 0.0
+    },
+    "Calendar Planner - Agenda App": {
+        "Data shared": 0.0,
+        "Data collected": 0.07970251181266945,
+        "Security practices": 0.2007880934479605
+    },
+    "Period Calendar Period Tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.08909940056138893,
+        "Security practices": 0.22480563251256935
+    },
+    "DigiCal Calendar Agenda": {
+        "Data shared": 0.0,
+        "Data collected": 0.16785231373674986,
+        "Security practices": 0.10731690416379462
+    },
+    "Simple Calendar": {
+        "Data shared": 0.12301427066840341,
+        "Data collected": 0.07874460345594508,
+        "Security practices": 0.21509330856154726
+    },
+    "TimeTree - Shared Calendar": {
+        "Data shared": 0.0,
+        "Data collected": 0.14663321195238102,
+        "Security practices": 0.040447016242041764
+    },
+    "Any.do - To do list & Calendar": {
+        "Data shared": 0.0,
+        "Data collected": 0.088109122440129,
+        "Security practices": 0.2428605374567438
+    },
+    "Work Shift Calendar": {
+        "Data shared": 0.0,
+        "Data collected": 0.09399968815605951,
+        "Security practices": 0.06037786892393271
+    },
+    "Proton Calendar: Secure Events": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.26382442999978734
+    },
+    "Jorte Calendar & Organizer": {
+        "Data shared": 0.09427171364984961,
+        "Data collected": 0.0795869988851567,
+        "Security practices": 0.14689147223522306
+    },
+    "Cozi Family Organizer": {
+        "Data shared": 0.0,
+        "Data collected": 0.022025059710720146,
+        "Security practices": 0.2196359424497245
+    },
+    "GroupCal - Shared Calendar": {
+        "Data shared": 0.08527407683918783,
+        "Data collected": 0.0982338381087206,
+        "Security practices": 0.15253242923974406
+    },
+    "TickTick:To Do List & Calendar": {
+        "Data shared": 0.0,
+        "Data collected": 0.12537892440503332,
+        "Security practices": 0.1836555163718358
+    },
+    "To-Do List - Schedule Planner": {
+        "Data shared": 0.0,
+        "Data collected": 0.060337401637266995,
+        "Security practices": 0.09700524655783213
+    },
+    "N Calendar: Planner, Schedule": {
+        "Data shared": 0.0,
+        "Data collected": 0.019703658838987226,
+        "Security practices": 0.0
+    },
+    "Artful Agenda - Plan in Style!": {
+        "Data shared": 0.0,
+        "Data collected": 0.08596214313305936,
+        "Security practices": 0.11631469053845905
+    },
+    "Family Shared Calendar: FamCal": {
+        "Data shared": 0.0,
+        "Data collected": 0.11890845162865993,
+        "Security practices": 0.255279500589844
+    },
+    "My Shift Planner - Calendar": {
+        "Data shared": 0.03843561392888718,
+        "Data collected": 0.07603891604530809,
+        "Security practices": 0.08675353322892473
+    },
+    "School Planner": {
+        "Data shared": 0.0,
+        "Data collected": 0.017423060421405238,
+        "Security practices": 0.04111005839654161
+    },
+    "Life Organizer - Journal it!": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1257192277187511
+    },
+    "Sortifyd: Life Organizer": {
+        "Data shared": 0.11302757705028221,
+        "Data collected": 0.06059243293245879,
+        "Security practices": 0.07811957164882646
+    },
+    "Ovulation & Period Tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.14277857727312235,
+        "Security practices": 0.11614013156027017
+    },
+    "Tracker Network Stats": {
+        "Data shared": 0.08869315378155132,
+        "Data collected": 0.12881227167143328,
+        "Security practices": 0.2027333019518834
+    },
+    "Geo Tracker - GPS tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.0898947327950885
+    },
+    "Habit Tracker - HabitKit": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.14869425706631817
+    },
+    "iSharing: GPS Location Tracker": {
+        "Data shared": 0.09659311375615191,
+        "Data collected": 0.2707634491121237,
+        "Security practices": 0.10439551626765238
+    },
+    "Flo Period & Pregnancy Tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.036579438733575935,
+        "Security practices": 0.12275337920673622
+    },
+    "Family360 - GPS Live Locator": {
+        "Data shared": 0.0,
+        "Data collected": 0.15396422176841298,
+        "Security practices": 0.13045992730152559
+    },
+    "Case Tracker US Immigration": {
+        "Data shared": 0.0,
+        "Data collected": 0.03506328240466535,
+        "Security practices": 0.14867362298963674
+    },
+    "Sports Tracker Running Cycling": {
+        "Data shared": 0.0,
+        "Data collected": 0.0615604606841555,
+        "Security practices": 0.09792031298035744
+    },
+    "GPS Tracker: Geolocation App": {
+        "Data shared": 0.0,
+        "Data collected": 0.1356389259593589,
+        "Security practices": 0.17077611319011676
+    },
+    "Daylio Journal - Mood Tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.14790088592840145
+    },
+    "Friend Tracker: Find Anyone": {
+        "Data shared": 0.0,
+        "Data collected": 0.1732021197203102,
+        "Security practices": 0.2516954982235079
+    },
+    "AfterShip Package Tracker - Tr": {
+        "Data shared": 0.021954787837914595,
+        "Data collected": 0.05777139365359332,
+        "Security practices": 0.2110607876427864
+    },
+    "Camera for Android": {
+        "Data shared": 0.0,
+        "Data collected": 0.058624913346770884,
+        "Security practices": 0.15733456324729891
+    },
+    "HD Camera for Android: XCamera": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1807131421850369
+    },
+    "B612 AI Photo&Video Editor": {
+        "Data shared": 0.0,
+        "Data collected": 0.07932917815483242,
+        "Security practices": 0.15858195553552298
+    },
+    "VicoHome: Smart Home Camera": {
+        "Data shared": 0.0,
+        "Data collected": 0.06867025096572696,
+        "Security practices": 0.22499123420938644
+    },
+    "Cool S20 Camera Galaxy S20 cam": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.058872617150279784
+    },
+    "Camera FV-5 Lite": {
+        "Data shared": 0.0,
+        "Data collected": 0.03929808941101831,
+        "Security practices": 0.02937497962534862
+    },
+    "HD Camera for Android": {
+        "Data shared": 0.0,
+        "Data collected": 0.058624913346770884,
+        "Security practices": 0.23193729629222473
+    },
+    "IP Camera Viewer": {
+        "Data shared": 0.03894906299301253,
+        "Data collected": 0.0,
+        "Security practices": 0.2295026002914118
+    },
+    "Foodie - Filter & Film Camera": {
+        "Data shared": 0.0,
+        "Data collected": 0.030912467066497182,
+        "Security practices": 0.15780683738847662
+    },
+    "Camera360 :Photo Editor&Selfie": {
+        "Data shared": 0.05922613323310438,
+        "Data collected": 0.17873712729029184,
+        "Security practices": 0.046395177800413155
+    },
+    "SODA - Natural Beauty Camera": {
+        "Data shared": 0.0,
+        "Data collected": 0.05339570935455103,
+        "Security practices": 0.16237603971388
+    },
+    "YI IoT": {
+        "Data shared": 0.1445489848722386,
+        "Data collected": 0.013801945027831228,
+        "Security practices": 0.03632284398004535
+    },
+    "Cymera - Photo Editor Collage": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.022696292524359316
+    },
+    "Beauty Camera: Sweet Camera": {
+        "Data shared": 0.0,
+        "Data collected": 0.058624913346770884,
+        "Security practices": 0.16669486979472725
+    },
+    "ReLens Camera-Focus &DSLR Blur": {
+        "Data shared": 0.06816992900551076,
+        "Data collected": 0.06699677548348962,
+        "Security practices": 0.17964933355782928
+    },
+    "YouCam Makeup - Selfie Editor": {
+        "Data shared": 0.0,
+        "Data collected": 0.14576496004705505,
+        "Security practices": 0.18261852774355078
+    },
+    "VN - Video Editor & Maker": {
+        "Data shared": 0.0,
+        "Data collected": 0.01852048836486919,
+        "Security practices": 0.15757599302595762
+    },
+    "Alight Motion": {
+        "Data shared": 0.0,
+        "Data collected": 0.16701480786392814,
+        "Security practices": 0.2018926312095517
+    },
+    "VITA - Video Editor & Maker": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.12743261721845683
+    },
+    "Splice - Video Editor & Maker": {
+        "Data shared": 0.0,
+        "Data collected": 0.027926863031564438,
+        "Security practices": 0.2055071881033361
+    },
+    "Meitu": {
+        "Data shared": 0.03266053981027569,
+        "Data collected": 0.07116986411980761,
+        "Security practices": 0.10393440740004521
+    },
+    "ActionDirector - Video Editing": {
+        "Data shared": 0.0,
+        "Data collected": 0.07323659498151101,
+        "Security practices": 0.15015014205569993
+    },
+    "Stick Nodes - Animation": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.17676604433187917
+    },
+    "Animation Throwdown: Epic CCG": {
+        "Data shared": 0.0,
+        "Data collected": 0.1843427690896393,
+        "Security practices": 0.1720168875560358
+    },
+    "Prisma3D - Animation, Modeling": {
+        "Data shared": 0.03579113553261692,
+        "Data collected": 0.016769686617418858,
+        "Security practices": 0.20176736278663826
+    },
+    "Stickman: draw animation maker": {
+        "Data shared": 0.0832454062959434,
+        "Data collected": 0.02698194479283245,
+        "Security practices": 0.28196053521163084
+    },
+    "Clip Studio Paint": {
+        "Data shared": 0.0,
+        "Data collected": 0.1631948625672096,
+        "Security practices": 0.053430964573118876
+    },
+    "Pixel Studio: pixel art editor": {
+        "Data shared": 0.21693381701139697,
+        "Data collected": 0.09744555325097998,
+        "Security practices": 0.22497623322472243
+    },
+    "Puppet Time": {
+        "Data shared": 0.0,
+        "Data collected": 0.09729172382203159,
+        "Security practices": 0.0
+    },
+    "Mug Life - 3D Face Animator": {
+        "Data shared": 0.0,
+        "Data collected": 0.023411306481152874,
+        "Security practices": 0.15277400785010412
+    },
+    "Stick Nodes Pro - Animator": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.17676604433187917
+    },
+    "Plotagon Studio": {
+        "Data shared": 0.0,
+        "Data collected": 0.05585320597943389,
+        "Security practices": 0.2366153555030092
+    },
+    "Stop Motion Cartoon Maker": {
+        "Data shared": 0.0,
+        "Data collected": 0.052109535570466194,
+        "Security practices": 0.11129859886312508
+    },
+    "Animated Stories": {
+        "Data shared": 0.0,
+        "Data collected": 0.06530145154513081,
+        "Security practices": 0.02070776425330488
+    },
+    "ibis Paint X": {
+        "Data shared": 0.18525779029643819,
+        "Data collected": 0.06981936918910733,
+        "Security practices": 0.2683407122760975
+    },
+    "Infinite Painter": {
+        "Data shared": 0.18921074921194905,
+        "Data collected": 0.12441239696021851,
+        "Security practices": 0.09977077062410496
+    },
+    "Pixel Art - Color by Number": {
+        "Data shared": 0.06654488326015777,
+        "Data collected": 0.055197792884125976,
+        "Security practices": 0.2471484380916487
+    },
+    "DeviantArt": {
+        "Data shared": 0.07092392248375445,
+        "Data collected": 0.13353696083712946,
+        "Security practices": 0.271426502463689
+    },
+    "AR Drawing: Sketch & Paint": {
+        "Data shared": 0.0,
+        "Data collected": 0.16278210262949372,
+        "Security practices": 0.1937935874717613
+    },
+    "Sketch Pro: Draw & Create Art": {
+        "Data shared": 0.07126057616750976,
+        "Data collected": 0.05960844557380999,
+        "Security practices": 0.09228786705409497
+    },
+    "DailyArt - Daily Dose of Art": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.3002936795024308
+    },
+    "WOMBO Dream - AI Art Generator": {
+        "Data shared": 0.0,
+        "Data collected": 0.053929436896667196,
+        "Security practices": 0.3034887772332236
+    },
+    "Art Puzzle - Jigsaw Art Games": {
+        "Data shared": 0.1242178728426321,
+        "Data collected": 0.07995752777064292,
+        "Security practices": 0.2471484380916487
+    },
+    "Happy Color\u00ae: Coloring Book": {
+        "Data shared": 0.14562430806208754,
+        "Data collected": 0.07290500962392599,
+        "Security practices": 0.2479863374443887
+    },
+    "Cara: Art & Social": {
+        "Data shared": 0.0,
+        "Data collected": 0.06683350699631957,
+        "Security practices": 0.07728925314615379
+    },
+    "Concepts: Sketch, Note, Draw": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.12150691125473057
+    },
+    "Zen Color - Color By Number": {
+        "Data shared": 0.0,
+        "Data collected": 0.17262070698957566,
+        "Security practices": 0.12405675588397908
+    },
+    "Pixel Tap: Color by Number": {
+        "Data shared": 0.0,
+        "Data collected": 0.07160186756826327,
+        "Security practices": 0.2289223595459317
+    },
+    "Talkatone: Texting & Calling": {
+        "Data shared": 0.02801384555159298,
+        "Data collected": 0.09469853796540419,
+        "Security practices": 0.13627634143908654
+    },
+    "Open Talk | Buddy Talk": {
+        "Data shared": 0.0,
+        "Data collected": 0.03375429707312578,
+        "Security practices": 0.1499514036829266
+    },
+    "TalkLife: 24/7 Peer Support": {
+        "Data shared": 0.04390313654117922,
+        "Data collected": 0.04928117415902032,
+        "Security practices": 0.20343626260190714
+    },
+    "JusTalk - Video Chat & Calls": {
+        "Data shared": 0.0,
+        "Data collected": 0.16497575289797847,
+        "Security practices": 0.166001956749929
+    },
+    "Wakie Voice Chat: Make Friends": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.07240380080811218
+    },
+    "Voxer Walkie Talkie Messenger": {
+        "Data shared": 0.0,
+        "Data collected": 0.14472907380502512,
+        "Security practices": 0.09832539498375566
+    },
+    "Talk to Myself": {
+        "Data shared": 0.0,
+        "Data collected": 0.12257960744859395,
+        "Security practices": 0.013014272239506844
+    },
+    "textPlus: Text Message + Call": {
+        "Data shared": 0.07478802294819102,
+        "Data collected": 0.11230125353114802,
+        "Security practices": 0.04448323111508666
+    },
+    "Zello PTT Walkie Talkie": {
+        "Data shared": 0.0,
+        "Data collected": 0.029550839251705176,
+        "Security practices": 0.13274191961044388
+    },
+    "Talk Home: Int'l Calling App": {
+        "Data shared": 0.03657852151778796,
+        "Data collected": 0.03222887887372105,
+        "Security practices": 0.016139651742551653
+    },
+    "My Talking Tom": {
+        "Data shared": 0.13817469829410642,
+        "Data collected": 0.05656006625767854,
+        "Security practices": 0.18503699036839943
+    },
+    "My Talking Angela 2": {
+        "Data shared": 0.13817469829410642,
+        "Data collected": 0.056560066257678544,
+        "Security practices": 0.10371551133313006
+    },
+    "My Talking Angela": {
+        "Data shared": 0.0,
+        "Data collected": 0.056560066257678544,
+        "Security practices": 0.10371551133313006
+    },
+    "My Diary - Daily Diary Journal": {
+        "Data shared": 0.0,
+        "Data collected": 0.09890740800238465,
+        "Security practices": 0.0703609323254141
+    },
+    "Journey: Diary, Journal": {
+        "Data shared": 0.09720769328929006,
+        "Data collected": 0.03580134364731927,
+        "Security practices": 0.23789288609959852
+    },
+    "5 Minute Journal\u30fbSelf-care": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.17669379815670988
+    },
+    "Diarium: Journal, Diary": {
+        "Data shared": 0.0,
+        "Data collected": 0.14572313580992907,
+        "Security practices": 0.2080233290279712
+    },
+    "Diary with Lock: Diary Journal": {
+        "Data shared": 0.0,
+        "Data collected": 0.13507348367087132,
+        "Security practices": 0.2953686620804499
+    },
+    "Daily Diary: Journal with Lock": {
+        "Data shared": 0.0,
+        "Data collected": 0.15592892548708365,
+        "Security practices": 0.12988153303094843
+    },
+    "Daily Planner and Journal": {
+        "Data shared": 0.0,
+        "Data collected": 0.11781136660920558,
+        "Security practices": 0.1449929722351987
+    },
+    "DailyLife - My Diary, Journal": {
+        "Data shared": 0.0,
+        "Data collected": 0.010177354671131967,
+        "Security practices": 0.16036904987796305
+    },
+    "May: Beautiful Bullet Journal": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.14705779392728374
+    },
+    "Diary & Journal with lock": {
+        "Data shared": 0.0,
+        "Data collected": 0.10431163602219433,
+        "Security practices": 0.08373594158518971
+    },
+    "Christian Journal -Bible& More": {
+        "Data shared": 0.0,
+        "Data collected": 0.19164177915848674,
+        "Security practices": 0.059650287810224176
+    },
+    "Your Diary: Mood Daily Journal": {
+        "Data shared": 0.20294192763923435,
+        "Data collected": 0.1965524813484983,
+        "Security practices": 0.1103156969124105
+    },
+    "UpNote - notes, diary, journal": {
+        "Data shared": 0.0,
+        "Data collected": 0.24395572500006346,
+        "Security practices": 0.17850457812857762
+    },
+    "Rosebud: AI Journal & Diary": {
+        "Data shared": 0.20869149692533764,
+        "Data collected": 0.10259295553411493,
+        "Security practices": 0.2306408591146641
+    },
+    "IKEA": {
+        "Data shared": 0.0,
+        "Data collected": 0.01385943080615416,
+        "Security practices": 0.22288823689910964
+    },
+    "Reliance Digital Online Shop": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1212854568848777
+    },
+    "Shop Samsung": {
+        "Data shared": 0.0,
+        "Data collected": 0.04100875760298592,
+        "Security practices": 0.06492865622432925
+    },
+    "Retail Master": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1514299987792845
+    },
+    "Sam\u2019s Club: Shopping made easy": {
+        "Data shared": 0.0,
+        "Data collected": 0.00686928051485729,
+        "Security practices": 0.07383720592987247
+    },
+    "Fashion Nova": {
+        "Data shared": 0.15051511268504672,
+        "Data collected": 0.07398364441413677,
+        "Security practices": 0.18138284543608685
+    },
+    "Nykaa Fashion \u2013 Shopping App": {
+        "Data shared": 0.020346229842622663,
+        "Data collected": 0.0,
+        "Security practices": 0.20199309249791836
+    },
+    "Yahoo Finance: Stock News": {
+        "Data shared": 0.01826943596561553,
+        "Data collected": 0.01086252141254647,
+        "Security practices": 0.09627047912156259
+    },
+    "Investing.com: Stock Market": {
+        "Data shared": 0.0,
+        "Data collected": 0.09150275749738443,
+        "Security practices": 0.04145404567086858
+    },
+    "eToro: Trade. Invest. Connect.": {
+        "Data shared": 0.0,
+        "Data collected": 0.06549929527767655,
+        "Security practices": 0.12302561052680512
+    },
+    "Webull: Investing & Trading": {
+        "Data shared": 0.08607577920972273,
+        "Data collected": 0.10172578930115028,
+        "Security practices": 0.0
+    },
+    "Fidelity Investments": {
+        "Data shared": 0.0,
+        "Data collected": 0.05424598600912858,
+        "Security practices": 0.14143056792554498
+    },
+    "TradingView: Track All Markets": {
+        "Data shared": 0.12008419809665938,
+        "Data collected": 0.10392805570949035,
+        "Security practices": 0.2924707741982694
+    },
+    "Schwab Mobile": {
+        "Data shared": 0.0,
+        "Data collected": 0.1063153706768189,
+        "Security practices": 0.028988048461622205
+    },
+    "Acorns: Invest For Your Future": {
+        "Data shared": 0.0,
+        "Data collected": 0.11845099254113704,
+        "Security practices": 0.1423044521046239
+    },
+    "My Stocks Portfolio & Market": {
+        "Data shared": 0.0801884722046023,
+        "Data collected": 0.09865621511919308,
+        "Security practices": 0.12028570527295283
+    },
+    "Stocktwits - Stock Market Chat": {
+        "Data shared": 0.013170706349812279,
+        "Data collected": 0.03921138127941723,
+        "Security practices": 0.17479466926508813
+    },
+    "Public \u2013 Stocks and Options": {
+        "Data shared": 0.06797871599146624,
+        "Data collected": 0.005798281054541771,
+        "Security practices": 0.04639517780041316
+    },
+    "Simply Wall St: Stock Analysis": {
+        "Data shared": 0.17992668803027953,
+        "Data collected": 0.23076792961123066,
+        "Security practices": 0.17354807621424
+    },
+    "Seeking Alpha: News & Analysis": {
+        "Data shared": 0.052350386819707426,
+        "Data collected": 0.0118363810193061,
+        "Security practices": 0.1583505762896005
+    },
+    "moomoo:Investing&Trading": {
+        "Data shared": 0.0,
+        "Data collected": 0.1155109568277414,
+        "Security practices": 0.08694551024056855
+    },
+    "StockEdge: Stock Market App": {
+        "Data shared": 0.04102642652580756,
+        "Data collected": 0.0,
+        "Security practices": 0.11282737771139267
+    },
+    "Trading Game: Stock Market Sim": {
+        "Data shared": 0.0,
+        "Data collected": 0.03218183398231391,
+        "Security practices": 0.11848478201768955
+    },
+    "5paisa: Stocks, IPO & SIP": {
+        "Data shared": 0.051418062482232636,
+        "Data collected": 0.11995138538522201,
+        "Security practices": 0.10202323827391377
+    },
+    "FYERS: Stocks & Option Trading": {
+        "Data shared": 0.0,
+        "Data collected": 0.07864960708160282,
+        "Security practices": 0.1399058885044836
+    },
+    "Stock Events Market Tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.07356504454762458,
+        "Security practices": 0.02889143268786566
+    },
+    "Elevate - Brain Training Games": {
+        "Data shared": 0.03821532892755049,
+        "Data collected": 0.0,
+        "Security practices": 0.027967321119819925
+    },
+    "Educate - Online Classroom App": {
+        "Data shared": 0.0,
+        "Data collected": 0.12327448783101823,
+        "Security practices": 0.029550839251705183
+    },
+    "ClassDojo": {
+        "Data shared": 0.08067986505101268,
+        "Data collected": 0.13905669204902066,
+        "Security practices": 0.04449800275346342
+    },
+    "Brilliant: Learn by doing": {
+        "Data shared": 0.0,
+        "Data collected": 0.13500146792221523,
+        "Security practices": 0.23711933827497825
+    },
+    "ABCmouse \u2013 Kids Learning Games": {
+        "Data shared": 0.0,
+        "Data collected": 0.06473284833007255,
+        "Security practices": 0.17472088446802758
+    },
+    "Photomath": {
+        "Data shared": 0.07623801832336634,
+        "Data collected": 0.19993610712298956,
+        "Security practices": 0.08768681980142445
+    },
+    "Lumosity: Brain Training": {
+        "Data shared": 0.0,
+        "Data collected": 0.05764978175860905,
+        "Security practices": 0.1298815330309484
+    },
+    "Stellarium Mobile - Star Map": {
+        "Data shared": 0.0,
+        "Data collected": 0.07530197807489898,
+        "Security practices": 0.19306019255166576
+    },
+    "Amoria": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.13469945900753424
+    },
+    "Question.AI - Chatbot&Math AI": {
+        "Data shared": 0.0,
+        "Data collected": 0.057052554618016754,
+        "Security practices": 0.04181092937763729
+    },
+    "Shopify - Your Ecommerce Store": {
+        "Data shared": 0.0,
+        "Data collected": 0.04850692447705265,
+        "Security practices": 0.17310216386277477
+    },
+    "WooCommerce": {
+        "Data shared": 0.0,
+        "Data collected": 0.1495679428465577,
+        "Security practices": 0.13043606170078728
+    },
+    "Ecwid Ecommerce": {
+        "Data shared": 0.1410506397244301,
+        "Data collected": 0.18292535554145054,
+        "Security practices": 0.13026412776203766
+    },
+    "Amazon Seller": {
+        "Data shared": 0.04236160483490436,
+        "Data collected": 0.10147494490188683,
+        "Security practices": 0.07595117162585747
+    },
+    "FASHIONGO DROPSHIPPING": {
+        "Data shared": 0.0,
+        "Data collected": 0.07748202951362368,
+        "Security practices": 0.01633178293891481
+    },
+    "Shopify Point of Sale (POS)": {
+        "Data shared": 0.05528456791462476,
+        "Data collected": 0.024917903601870385,
+        "Security practices": 0.19430357118162903
+    },
+    "Wix - Website Builder": {
+        "Data shared": 0.0,
+        "Data collected": 0.11394791703711334,
+        "Security practices": 0.2717991513048925
+    },
+    "QuickSell Catalogue Commerce": {
+        "Data shared": 0.0,
+        "Data collected": 0.1979282228862841,
+        "Security practices": 0.20950188834937572
+    },
+    "Unizap : Ecommerce Business": {
+        "Data shared": 0.0,
+        "Data collected": 0.4881715126795958,
+        "Security practices": 0.1266281126823341
+    },
+    "Yourstore - Ecommerce app": {
+        "Data shared": 0.0,
+        "Data collected": 0.4165126148186068,
+        "Security practices": 0.15277400785010412
+    },
+    "Flipkart Seller : Sell Online": {
+        "Data shared": 0.034213690842140425,
+        "Data collected": 0.04171149901513922,
+        "Security practices": 0.23987929685902004
+    },
+    "CHARLOTTE TILBURY: EASY BEAUTY": {
+        "Data shared": 0.0,
+        "Data collected": 0.007911384736365797,
+        "Security practices": 0.2827284650401724
+    },
+    "Serenity's Spa: Beauty Salon": {
+        "Data shared": 0.041860806451679174,
+        "Data collected": 0.0,
+        "Security practices": 0.16237603971388004
+    },
+    "Wig Studio 1": {
+        "Data shared": 0.06587648642845016,
+        "Data collected": 0.15481384185157815,
+        "Security practices": 0.10371551133313006
+    },
+    "Boutique Skin Envie": {
+        "Data shared": 0.3594880927064382,
+        "Data collected": 0.3023111616274134,
+        "Security practices": 0.06350180332481192
+    },
+    "Makeup Girls - Games for kids": {
+        "Data shared": 0.0,
+        "Data collected": 0.17576305850067664,
+        "Security practices": 0.14701806316666924
+    },
+    "Makeup Girls: Dress up games": {
+        "Data shared": 0.0,
+        "Data collected": 0.17576305850067664,
+        "Security practices": 0.14701806316666924
+    },
+    "Beauty Salon Games for Girls": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.07743691116697088
+    },
+    "Makeover Madness: Cook & Style": {
+        "Data shared": 0.037429037728181624,
+        "Data collected": 0.03833080021904462,
+        "Security practices": 0.040565124652019766
+    },
+    "Flip: Watch, Create, Shop": {
+        "Data shared": 0.026381191794384723,
+        "Data collected": 0.0,
+        "Security practices": 0.11142261596378585
+    },
+    "BELLEMINT - Fashion and Beauty": {
+        "Data shared": 0.04794883074141015,
+        "Data collected": 0.050401957785258536,
+        "Security practices": 0.15500115480128748
+    },
+    "Face Massage, Skincare: forYou": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2258877439480572
+    },
+    "Disney Magic Kingdoms": {
+        "Data shared": 0.043649941183647636,
+        "Data collected": 0.13426672910024443,
+        "Security practices": 0.18677132760734586
+    },
+    "JustFit - Lazy Workout": {
+        "Data shared": 0.0,
+        "Data collected": 0.02513880390896823,
+        "Security practices": 0.18888129468624523
+    },
+    "LightInTheBox Online Shopping": {
+        "Data shared": 0.0,
+        "Data collected": 0.11559480465296187,
+        "Security practices": 0.13521634084137776
+    },
+    "Apple TV": {
+        "Data shared": 0.0,
+        "Data collected": 0.18588901615902884,
+        "Security practices": 0.20181564076612316
+    },
+    "DeepSeek - AI Assistant": {
+        "Data shared": 0.0,
+        "Data collected": 0.11261157513117795,
+        "Security practices": 0.19181635746286735
+    },
+    "Need for Speed\u2122 No Limits": {
+        "Data shared": 0.018124569343750813,
+        "Data collected": 0.0928985249231216,
+        "Security practices": 0.19940320780719825
+    },
+    "DC: Dark Legion\u2122": {
+        "Data shared": 0.0,
+        "Data collected": 0.16568246537221565,
+        "Security practices": 0.1051952841380942
+    },
+    "Brawl Stars": {
+        "Data shared": 0.0,
+        "Data collected": 0.12241903231609129,
+        "Security practices": 0.19831794812855846
+    },
+    "Dream League Soccer 2025": {
+        "Data shared": 0.0,
+        "Data collected": 0.15793116907759366,
+        "Security practices": 0.28051191584159846
+    },
+    "Clash of Clans": {
+        "Data shared": 0.11597622673505431,
+        "Data collected": 0.05512335111051155,
+        "Security practices": 0.19831794812855846
+    },
+    "World War Heroes \u2014 WW2 PvP FPS": {
+        "Data shared": 0.16657964977337408,
+        "Data collected": 0.1072582981439577,
+        "Security practices": 0.2773856233374624
+    },
+    "Food Street - Restaurant Game": {
+        "Data shared": 0.11590976435083963,
+        "Data collected": 0.19706479570329485,
+        "Security practices": 0.31159490057517525
+    },
+    "Baya - Small Business Website": {
+        "Data shared": 0.05065608764509524,
+        "Data collected": 0.05172014246770412,
+        "Security practices": 0.08894671608737005
+    },
+    "Quantic School of Business": {
+        "Data shared": 0.0,
+        "Data collected": 0.10214511972563986,
+        "Security practices": 0.20593582808315403
+    },
+    "Resources - Business Tycoon": {
+        "Data shared": 0.08666723278863989,
+        "Data collected": 0.01307234027541953,
+        "Security practices": 0.22576484600261623
+    },
+    "buildd: Business Lessons": {
+        "Data shared": 0.0,
+        "Data collected": 0.020765166468513886,
+        "Security practices": 0.06491316444466709
+    },
+    "Xero Accounting for business": {
+        "Data shared": 0.0,
+        "Data collected": 0.08457527698176438,
+        "Security practices": 0.023165216154075664
+    },
+    "Spaces: Follow Businesses": {
+        "Data shared": 0.0645429744110844,
+        "Data collected": 0.0,
+        "Security practices": 0.2309499131538043
+    },
+    "ToonMe photo cartoon maker": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.10237805271782281
+    },
+    "Shutterfly: Prints Cards Gifts": {
+        "Data shared": 0.0,
+        "Data collected": 0.06545646295007229,
+        "Security practices": 0.20727241424833395
+    },
+    "PhotoDirector: AI Photo Editor": {
+        "Data shared": 0.0,
+        "Data collected": 0.0749520502645379,
+        "Security practices": 0.15037554594445407
+    },
+    "Video Player All Format": {
+        "Data shared": 0.0,
+        "Data collected": 0.14437540795295994,
+        "Security practices": 0.10655561428382408
+    },
+    "Video Editor & Maker VideoShow": {
+        "Data shared": 0.0,
+        "Data collected": 0.1441319902502268,
+        "Security practices": 0.22016974780494045
+    },
+    "Triller: Social Video Platform": {
+        "Data shared": 0.048932429849265074,
+        "Data collected": 0.09564528636278802,
+        "Security practices": 0.22150006518986534
+    },
+    "Mojo: Reels and Video Captions": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.27853576975341027
+    },
+    "TikTok Studio": {
+        "Data shared": 0.0,
+        "Data collected": 0.11352095796030065,
+        "Security practices": 0.17419269302116341
+    },
+    "Inshorts - News in 60 words": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.06296051457612983
+    },
+    "CNBC: Business & Stock News": {
+        "Data shared": 0.019031368707512937,
+        "Data collected": 0.050917060541153414,
+        "Security practices": 0.1670867840835557
+    },
+    "TOI English News, Daily ePaper": {
+        "Data shared": 0.0,
+        "Data collected": 0.06181433658652794,
+        "Security practices": 0.15117978448094463
+    },
+    "FOX Nation: Celebrate America": {
+        "Data shared": 0.05829838357709693,
+        "Data collected": 0.09753791717946725,
+        "Security practices": 0.21686631524939665
+    },
+    "Medium": {
+        "Data shared": 0.0,
+        "Data collected": 0.0564963684751061,
+        "Security practices": 0.2957125457680383
+    },
+    "Pin Traveler: Travel Tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.0533551691256369,
+        "Security practices": 0.3284888613246614
+    },
+    "Worldpackers: Travel the World": {
+        "Data shared": 0.04867957901097377,
+        "Data collected": 0.0,
+        "Security practices": 0.1631948625672096
+    },
+    "PackPoint travel packing list": {
+        "Data shared": 0.0,
+        "Data collected": 0.0845798608014702,
+        "Security practices": 0.11841413089502706
+    },
+    "trivago: Compare hotel prices": {
+        "Data shared": 0.050489095574320283,
+        "Data collected": 0.06808005819111128,
+        "Security practices": 0.07240380080811218
+    },
+    "Wego - Flights, Hotels, Travel": {
+        "Data shared": 0.14984494363858655,
+        "Data collected": 0.04230319211689336,
+        "Security practices": 0.32510955012551296
+    },
+    "NAVER Map, Navigation": {
+        "Data shared": 0.0,
+        "Data collected": 0.12044300537441019,
+        "Security practices": 0.06431098580407238
+    },
+    "Locus Map 4 Outdoor Navigation": {
+        "Data shared": 0.0,
+        "Data collected": 0.04598955174081928,
+        "Security practices": 0.25948435681457893
+    },
+    "what3words: Navigation & Maps": {
+        "Data shared": 0.0,
+        "Data collected": 0.027393828169573545,
+        "Security practices": 0.30988237045157985
+    },
+    "Guru Maps Pro & GPS Tracker": {
+        "Data shared": 0.03652973118484308,
+        "Data collected": 0.11894914804005537,
+        "Security practices": 0.11769147891184108
+    },
+    "Video to MP3 - Video to Audio": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.12236959990898795
+    },
+    "MP3 Cutter and Ringtone Maker": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.12236959990898795
+    },
+    "n-Track Studio DAW: Make Music": {
+        "Data shared": 0.0,
+        "Data collected": 0.016558774259161916,
+        "Security practices": 0.1737893584428922
+    },
+    "DCU Digital Banking": {
+        "Data shared": 0.0,
+        "Data collected": 0.07359457316577395,
+        "Security practices": 0.12118919872411132
+    },
+    "My Town Home: Family Playhouse": {
+        "Data shared": 0.0,
+        "Data collected": 0.06461633317274758,
+        "Security practices": 0.13377485908479594
+    },
+    "Design Home\u2122: House Makeover": {
+        "Data shared": 0.018124569343750813,
+        "Data collected": 0.03815501816092777,
+        "Security practices": 0.19940320780719825
+    },
+    "Houzz - Home Design & Remodel": {
+        "Data shared": 0.0,
+        "Data collected": 0.041998562113168984,
+        "Security practices": 0.11680141508577092
+    },
+    "Mindfulness with Petit BamBou": {
+        "Data shared": 0.0,
+        "Data collected": 0.03078232750649374,
+        "Security practices": 0.21245137492984284
+    },
+    "IXL": {
+        "Data shared": 0.08768681980142445,
+        "Data collected": 0.14124847695700937,
+        "Security practices": 0.09974476498205798
+    },
+    "Kinnu: Superpower learning": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.15883767263871548
+    },
+    "Kids Academy: Learning Games": {
+        "Data shared": 0.0,
+        "Data collected": 0.18909264443202023,
+        "Security practices": 0.19739688158301266
+    },
+    "hotukdeals - Deals & Discounts": {
+        "Data shared": 0.0,
+        "Data collected": 0.061706423989692435,
+        "Security practices": 0.18013944256434228
+    },
+    "Fetch: America\u2019s Rewards App": {
+        "Data shared": 0.033964136765978654,
+        "Data collected": 0.15017437928956687,
+        "Security practices": 0.22758957540627078
+    },
+    "Dealabs \u2013 bons plans & promos": {
+        "Data shared": 0.04353832980199036,
+        "Data collected": 0.10766855535245787,
+        "Security practices": 0.19713676785462736
+    },
+    "99CashDeals: Coupons and Deals": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.3040274774931294
+    },
+    "Waymo One": {
+        "Data shared": 0.0,
+        "Data collected": 0.011998123484258197,
+        "Security practices": 0.13030726029569314
+    },
+    "Lyft Driver": {
+        "Data shared": 0.01655809569761245,
+        "Data collected": 0.0784526366255866,
+        "Security practices": 0.2521018810943443
+    },
+    "Love to Ride app": {
+        "Data shared": 0.04504560901488387,
+        "Data collected": 0.11261433585696026,
+        "Security practices": 0.123025610526805
+    },
+    "Veo - Shared Electric Vehicles": {
+        "Data shared": 0.0,
+        "Data collected": 0.055448732298078104,
+        "Security practices": 0.2579124144843972
+    },
+    "Public Transport Victoria app": {
+        "Data shared": 0.056803831263593674,
+        "Data collected": 0.0,
+        "Security practices": 0.16843559721329948
+    },
+    "DB Navigator": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.24576583983320824
+    },
+    "Pronto - San Diego": {
+        "Data shared": 0.0,
+        "Data collected": 0.09147394046635365,
+        "Security practices": 0.27071104078124825
+    },
+    "The Official MTA App": {
+        "Data shared": 0.03372620481631446,
+        "Data collected": 0.02482794100407454,
+        "Security practices": 0.06933601858510187
+    },
+    "MTSPay": {
+        "Data shared": 0.0,
+        "Data collected": 0.162255630174117,
+        "Security practices": 0.18931834868988945
+    },
+    "MTA TrainTime": {
+        "Data shared": 0.03770116597063965,
+        "Data collected": 0.11003525706796688,
+        "Security practices": 0.06933601858510187
+    },
+    "Jakdojade: public transport": {
+        "Data shared": 0.11075511087248556,
+        "Data collected": 0.01583443678397378,
+        "Security practices": 0.3287293820437605
+    },
+    "Tasks: To Do List & Reminders": {
+        "Data shared": 0.0,
+        "Data collected": 0.0554361895741184,
+        "Security practices": 0.22879650021840386
+    },
+    "MyLifeOrganized: To-Do List": {
+        "Data shared": 0.0,
+        "Data collected": 0.15713443994696583,
+        "Security practices": 0.2457631502898999
+    },
+    "Habit Tracker": {
+        "Data shared": 0.05366557961927414,
+        "Data collected": 0.09499451858651982,
+        "Security practices": 0.30625179714041123
+    },
+    "OldRoll - Vintage Film Camera": {
+        "Data shared": 0.053532255578343256,
+        "Data collected": 0.07445919754504547,
+        "Security practices": 0.20789849212574066
+    },
+    "VLLO - Video Editor Vlog Edits": {
+        "Data shared": 0.0,
+        "Data collected": 0.06754896927678311,
+        "Security practices": 0.20158345804721453
+    },
+    "DreamFace: AI Video Generator": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1747897453696465
+    },
+    "Motionleap by Lightricks": {
+        "Data shared": 0.0,
+        "Data collected": 0.13632547291127614,
+        "Security practices": 0.38130146351851746
+    },
+    "Z-Cut Movie Maker": {
+        "Data shared": 0.043056856778202326,
+        "Data collected": 0.06017557883941041,
+        "Security practices": 0.2598498235742339
+    },
+    "Castle - Make and Pla\u202ay": {
+        "Data shared": 0.0,
+        "Data collected": 0.06551593418104065,
+        "Security practices": 0.1941145203659048
+    },
+    "Art of Puzzles\uff0dJigsaw Pictures": {
+        "Data shared": 0.0,
+        "Data collected": 0.14161061958392543,
+        "Security practices": 0.23787493979744836
+    },
+    "Crayola Create & Play": {
+        "Data shared": 0.0,
+        "Data collected": 0.04065895140534616,
+        "Security practices": 0.1614888066624236
+    },
+    "My Talking Tom 2": {
+        "Data shared": 0.060216685537629155,
+        "Data collected": 0.17139394594005825,
+        "Security practices": 0.14659355688098022
+    },
+    "TalkIn-Learn Language&Culture": {
+        "Data shared": 0.0,
+        "Data collected": 0.13420786630440915,
+        "Security practices": 0.12641460978393382
+    },
+    "Talking Tom Hero Dash": {
+        "Data shared": 0.05176413925626171,
+        "Data collected": 0.16795547695351798,
+        "Security practices": 0.12154405053776121
+    },
+    "My Talking Tom Friends": {
+        "Data shared": 0.0,
+        "Data collected": 0.17139394594005825,
+        "Security practices": 0.11985874421421919
+    },
+    "My Diary - Daily Journal, Lock": {
+        "Data shared": 0.0,
+        "Data collected": 0.07188864279873158,
+        "Security practices": 0.14831809210478392
+    },
+    "RetailMeNot: Cash Back & Codes": {
+        "Data shared": 0.12823296852135954,
+        "Data collected": 0.025322743044600034,
+        "Security practices": 0.2580622678105553
+    },
+    "Lenskart : Eyeglasses & More": {
+        "Data shared": 0.0,
+        "Data collected": 0.01573635856150408,
+        "Security practices": 0.11858075281325245
+    },
+    "Zara": {
+        "Data shared": 0.07872815875217287,
+        "Data collected": 0.04626063439285072,
+        "Security practices": 0.0913301956379471
+    },
+    "Chewy: Pet Shopping & Delivery": {
+        "Data shared": 0.008904146981610909,
+        "Data collected": 0.03698737051182631,
+        "Security practices": 0.21423706871244785
+    },
+    "ASOS": {
+        "Data shared": 0.1396722101752613,
+        "Data collected": 0.10300893132273606,
+        "Security practices": 0.29037497761970144
+    },
+    "RoboMarkets Stocks Trader": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.24330408485637012
+    },
+    "Vocab: Learn English Words": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.15452480482410783
+    },
+    "PAW Patrol Academy": {
+        "Data shared": 0.0,
+        "Data collected": 0.08533366099999955,
+        "Security practices": 0.10927024038766256
+    },
+    "Banggood - Online Shopping": {
+        "Data shared": 0.06347675480202289,
+        "Data collected": 0.10611874302209696,
+        "Security practices": 0.23975534273816368
+    },
+    "Instant Website Builder App": {
+        "Data shared": 0.05711248225345588,
+        "Data collected": 0.0,
+        "Security practices": 0.15309944224343464
+    },
+    "Evaly - Online Shopping Mall": {
+        "Data shared": 0.0,
+        "Data collected": 0.055030772638886075,
+        "Security practices": 0.23075279513968022
+    },
+    "Nuvemshop": {
+        "Data shared": 0.0,
+        "Data collected": 0.13917087301636047,
+        "Security practices": 0.12231741749312541
+    },
+    "Beauty Empire": {
+        "Data shared": 0.0,
+        "Data collected": 0.056639184563303954,
+        "Security practices": 0.11925367923197684
+    },
+    "Bumble Dating App: Meet & Date": {
+        "Data shared": 0.0,
+        "Data collected": 0.012200002273782082,
+        "Security practices": 0.19657724765988674
+    },
+    "Hinge Dating App: Match & Date": {
+        "Data shared": 0.0,
+        "Data collected": 0.015478638168665662,
+        "Security practices": 0.24025446762449482
+    },
+    "Tinder Dating App: Chat & Date": {
+        "Data shared": 0.1414882258273628,
+        "Data collected": 0.09401438250681364,
+        "Security practices": 0.23651427465717467
+    },
+    "Plenty of Fish Dating App": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2919009973765058
+    },
+    "Hily Dating app: Meet & Date": {
+        "Data shared": 0.12203495661862787,
+        "Data collected": 0.0,
+        "Security practices": 0.2142257682899724
+    },
+    "Boo: Dating. Friends. Chat.": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.07575471121252007
+    },
+    "Kismia - Meet Singles Nearby": {
+        "Data shared": 0.0,
+        "Data collected": 0.02329716400038302,
+        "Security practices": 0.21163397705026976
+    },
+    "Taimi - LGBTQ+ Dating and Chat": {
+        "Data shared": 0.15620578336498422,
+        "Data collected": 0.18320065276105876,
+        "Security practices": 0.21844380778171907
+    },
+    "Dating.com: Global Online Date": {
+        "Data shared": 0.0,
+        "Data collected": 0.04813934144823738,
+        "Security practices": 0.1956588749753599
+    },
+    "eharmony dating & real love": {
+        "Data shared": 0.027252612306672815,
+        "Data collected": 0.01800131020976585,
+        "Security practices": 0.21052164517346203
+    },
+    "Feels: Dating App, Chat & Date": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.17981807235504535
+    },
+    "Love Counter \u2013 Time in Love": {
+        "Data shared": 0.0,
+        "Data collected": 0.03615569527156742,
+        "Security practices": 0.08904822679808042
+    },
+    "Mr Love: Queen's Choice": {
+        "Data shared": 0.0,
+        "Data collected": 0.03843561392888718,
+        "Security practices": 0.3275755156642139
+    },
+    "Pocket Love": {
+        "Data shared": 0.0,
+        "Data collected": 0.0877165233318173,
+        "Security practices": 0.10746083406463157
+    },
+    "Episode - Choose Your Story": {
+        "Data shared": 0.13313182145614866,
+        "Data collected": 0.2093505337410931,
+        "Security practices": 0.29657124003281354
+    },
+    "Love8 - App for Couples": {
+        "Data shared": 0.13896623938538788,
+        "Data collected": 0.02116157974788752,
+        "Security practices": 0.26548157287818197
+    },
+    "Love Choices - Merge&Makeover": {
+        "Data shared": 0.19706522993584558,
+        "Data collected": 0.13443862779524313,
+        "Security practices": 0.15615188609087574
+    },
+    "Is It Love? Ryan - lovestory": {
+        "Data shared": 0.031612100576770205,
+        "Data collected": 0.1039661741999529,
+        "Security practices": 0.27995089526165284
+    },
+    "Love & Fashion - Merge Story": {
+        "Data shared": 0.008235557671498639,
+        "Data collected": 0.02681620578611238,
+        "Security practices": 0.06458715115138484
+    },
+    "True Love Messages": {
+        "Data shared": 0.0465210870378275,
+        "Data collected": 0.0,
+        "Security practices": 0.04120272154117556
+    },
+    "Love Archer: Cupids Arrow": {
+        "Data shared": 0.05658127191931203,
+        "Data collected": 0.03816772230154735,
+        "Security practices": 0.22877818825515994
+    },
+    "Hey Love Tim: High School Chat": {
+        "Data shared": 0.060194181734458174,
+        "Data collected": 0.04235671762121905,
+        "Security practices": 0.13168086824632663
+    },
+    "Is It Love? Colin - choices": {
+        "Data shared": 0.031612100576770205,
+        "Data collected": 0.10396617419995291,
+        "Security practices": 0.26258689207630903
+    },
+    "Love Matters: Merge Game Story": {
+        "Data shared": 0.02369260637003466,
+        "Data collected": 0.05049449333783619,
+        "Security practices": 0.12911606830390632
+    },
+    "Romantic Blast: Love Stories": {
+        "Data shared": 0.02594227825819316,
+        "Data collected": 0.06604352294709681,
+        "Security practices": 0.13201942622953994
+    },
+    "Love's Connect": {
+        "Data shared": 0.0,
+        "Data collected": 0.17050979672870378,
+        "Security practices": 0.06297925327031229
+    },
+    "Love & Choices": {
+        "Data shared": 0.06981434652436883,
+        "Data collected": 0.025108052018834107,
+        "Security practices": 0.18162948109987445
+    },
+    "Hey Love Chris: Love in Paris": {
+        "Data shared": 0.060194181734458174,
+        "Data collected": 0.04235671762121905,
+        "Security practices": 0.13168086824632663
+    },
+    "Community by myQ": {
+        "Data shared": 0.0,
+        "Data collected": 0.02346760051900868,
+        "Security practices": 0.2975964508491953
+    },
+    "Modern Community": {
+        "Data shared": 0.03536301593108156,
+        "Data collected": 0.17926980583243507,
+        "Security practices": 0.10899080936489625
+    },
+    "Amino: Communities and Fandom": {
+        "Data shared": 0.018495373798016915,
+        "Data collected": 0.0,
+        "Security practices": 0.11443237797999167
+    },
+    "Substack": {
+        "Data shared": 0.0,
+        "Data collected": 0.029036285433874664,
+        "Security practices": 0.25335238314357356
+    },
+    "Pdb App: Personality & Friends": {
+        "Data shared": 0.0,
+        "Data collected": 0.01946507900237298,
+        "Security practices": 0.16640309302102868
+    },
+    "Build a City: Community Town": {
+        "Data shared": 0.0,
+        "Data collected": 0.01156229201157482,
+        "Security practices": 0.24457956776281958
+    },
+    "Kumu Livestream Community": {
+        "Data shared": 0.0,
+        "Data collected": 0.06846410078977246,
+        "Security practices": 0.0
+    },
+    "Playtomic - Padel & pickleball": {
+        "Data shared": 0.07118316312717018,
+        "Data collected": 0.060653140775732625,
+        "Security practices": 0.20349992348700152
+    },
+    "Niantic Campfire": {
+        "Data shared": 0.0,
+        "Data collected": 0.042550660712805846,
+        "Security practices": 0.20455982299556316
+    },
+    "Veeka: Find Community & Fun": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.17506247211382442
+    },
+    "Circle": {
+        "Data shared": 0.25775244658715846,
+        "Data collected": 0.0,
+        "Security practices": 0.1969960710711602
+    },
+    "Skool": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.10305367909410817
+    },
+    "I Am Security": {
+        "Data shared": 0.0,
+        "Data collected": 0.15413125754894808,
+        "Security practices": 0.2514299952484872
+    },
+    "Avast Antivirus & Security": {
+        "Data shared": 0.1425948179459585,
+        "Data collected": 0.10968478486098461,
+        "Security practices": 0.24839598169293714
+    },
+    "AVG AntiVirus & Security": {
+        "Data shared": 0.11885277978804346,
+        "Data collected": 0.10812740036408094,
+        "Security practices": 0.2786501299534252
+    },
+    "F-Secure Mobile Security": {
+        "Data shared": 0.0,
+        "Data collected": 0.17585818298304923,
+        "Security practices": 0.09372086886230449
+    },
+    "Norton360 Antivirus & Security": {
+        "Data shared": 0.0,
+        "Data collected": 0.05781286570478526,
+        "Security practices": 0.14059850500464655
+    },
+    "Malwarebytes Mobile Security": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.15758908583828174
+    },
+    "Avira Security Antivirus & VPN": {
+        "Data shared": 0.021651993303833852,
+        "Data collected": 0.12544385292834342,
+        "Security practices": 0.2756512716865433
+    },
+    "Mobile Security & Antivirus": {
+        "Data shared": 0.0,
+        "Data collected": 0.047868547961028546,
+        "Security practices": 0.10262550573294031
+    },
+    "Avast One \u2013 Privacy & Security": {
+        "Data shared": 0.11906735870852275,
+        "Data collected": 0.09604063027268704,
+        "Security practices": 0.26352608426571333
+    },
+    "ESET Mobile Security Antivirus": {
+        "Data shared": 0.0,
+        "Data collected": 0.25932881363418947,
+        "Security practices": 0.31799727058841065
+    },
+    "Trustd Mobile Security": {
+        "Data shared": 0.031700612745205116,
+        "Data collected": 0.053489889513141806,
+        "Security practices": 0.15679701714498484
+    },
+    "TotalAV Mobile Security": {
+        "Data shared": 0.07874460345594508,
+        "Data collected": 0.07595297703872636,
+        "Security practices": 0.19551081460306874
+    },
+    "UnitedHealthcare": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2322718847290009
+    },
+    "Rejuve Longevity": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2808997366613193
+    },
+    "Teladoc Health": {
+        "Data shared": 0.0,
+        "Data collected": 0.012030327881127801,
+        "Security practices": 0.3171798554895818
+    },
+    "Garmin Connect\u2122": {
+        "Data shared": 0.0,
+        "Data collected": 0.03717650504980924,
+        "Security practices": 0.2107472958995499
+    },
+    "Ada \u2013 check your health": {
+        "Data shared": 0.11345461081555079,
+        "Data collected": 0.0,
+        "Security practices": 0.23662944945666578
+    },
+    "Sydney Health": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.019412777687615013
+    },
+    "WeWard - Walk & Earn Rewards": {
+        "Data shared": 0.0,
+        "Data collected": 0.013570013875435948,
+        "Security practices": 0.3019568871568985
+    },
+    "Sweatcoin\u30fbWalking Step Counter": {
+        "Data shared": 0.0,
+        "Data collected": 0.10774391006888503,
+        "Security practices": 0.34014628858774876
+    },
+    "Mental: AI Therapy": {
+        "Data shared": 0.0,
+        "Data collected": 0.030336259246730626,
+        "Security practices": 0.23151990854832083
+    },
+    "Wysa: Anxiety, therapy chatbot": {
+        "Data shared": 0.02012212919446118,
+        "Data collected": 0.0,
+        "Security practices": 0.13328215496239704
+    },
+    "Online therapy, emotional help": {
+        "Data shared": 0.0,
+        "Data collected": 0.018218942747961646,
+        "Security practices": 0.17912982979335945
+    },
+    "Talkspace Therapy & Counseling": {
+        "Data shared": 0.05819662384522769,
+        "Data collected": 0.02262734144565293,
+        "Security practices": 0.16727875810643228
+    },
+    "Sintelly: CBT Therapy Chatbot": {
+        "Data shared": 0.0,
+        "Data collected": 0.217373092627194,
+        "Security practices": 0.16681439809426005
+    },
+    "VOS: Mental Health, AI Therapy": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.33634948712002644
+    },
+    "\u200eMyPossibleSelf: Mental Health": {
+        "Data shared": 0.0,
+        "Data collected": 0.10182368110143011,
+        "Security practices": 0.28785367827514935
+    },
+    "UpLife: Mental Health Therapy": {
+        "Data shared": 0.03392583798300485,
+        "Data collected": 0.022040970984715278,
+        "Security practices": 0.21816814636915963
+    },
+    "NOCD: OCD Therapy and Tools": {
+        "Data shared": 0.08108609470071913,
+        "Data collected": 0.04932379692081691,
+        "Security practices": 0.16638523949033804
+    },
+    "MindPeers: Online Therapy": {
+        "Data shared": 0.0,
+        "Data collected": 0.012124890031200672,
+        "Security practices": 0.053415432764539854
+    },
+    "Psyhelp: Therapy & Psychology": {
+        "Data shared": 0.0,
+        "Data collected": 0.011835653858639182,
+        "Security practices": 0.28427650319208514
+    },
+    "SELF: Self-Care & Self-Love": {
+        "Data shared": 0.0,
+        "Data collected": 0.03854966387223764,
+        "Security practices": 0.133801433557982
+    },
+    "Ultiself | Self-Improvement": {
+        "Data shared": 0.0,
+        "Data collected": 0.046776075934070405,
+        "Security practices": 0.23115086912508842
+    },
+    "Amaha (InnerHour): self-care": {
+        "Data shared": 0.04410128482372309,
+        "Data collected": 0.05349161987794931,
+        "Security practices": 0.08037256010030104
+    },
+    "Mindvalley: Self Improvement": {
+        "Data shared": 0.07312580948027901,
+        "Data collected": 0.06367510580367251,
+        "Security practices": 0.27670063229323644
+    },
+    "Prosper: Self Care Companion": {
+        "Data shared": 0.033151836120321056,
+        "Data collected": 0.11514636559058905,
+        "Security practices": 0.021211094816587756
+    },
+    "Self-Help Federal Credit Union": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.11839869285308996
+    },
+    "Myselfland Emotional Self-Help": {
+        "Data shared": 0.0,
+        "Data collected": 0.11231788077791435,
+        "Security practices": 0.27442974860509733
+    },
+    "Sparkle: Self-Care Checklist,": {
+        "Data shared": 0.0,
+        "Data collected": 0.09298819467961243,
+        "Security practices": 0.250901172523466
+    },
+    "Outdooractive. Hike and Ride": {
+        "Data shared": 0.0,
+        "Data collected": 0.051546632345728455,
+        "Security practices": 0.24275816027477595
+    },
+    "HiiKER: The Offline Hiking app": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.21866582730340856
+    },
+    "Hipcamp: Camping, RVs & Cabins": {
+        "Data shared": 0.15881112187653448,
+        "Data collected": 0.09865690819808966,
+        "Security practices": 0.2280527123912212
+    },
+    "Navionics\u00ae Boating": {
+        "Data shared": 0.0,
+        "Data collected": 0.023469253821583227,
+        "Security practices": 0.22630863586274022
+    },
+    "Wikiloc - Trails of the World": {
+        "Data shared": 0.034195691277690156,
+        "Data collected": 0.02915983273718482,
+        "Security practices": 0.23666720033825
+    },
+    "park4night - Motorhome camper": {
+        "Data shared": 0.0,
+        "Data collected": 0.2712673184109133,
+        "Security practices": 0.0
+    },
+    "Visorando - Walking routes": {
+        "Data shared": 0.0,
+        "Data collected": 0.04682370052541977,
+        "Security practices": 0.3157445531642689
+    },
+    "Buffalo Bills Mobile": {
+        "Data shared": 0.0,
+        "Data collected": 0.10623618354083189,
+        "Security practices": 0.19756592685089383
+    },
+    "BILL Spend & Expense (Divvy)": {
+        "Data shared": 0.0,
+        "Data collected": 0.009417077708164901,
+        "Security practices": 0.17243317660000118
+    },
+    "BillOut - Bill Organizer": {
+        "Data shared": 0.0,
+        "Data collected": 0.013376406183403803,
+        "Security practices": 0.2114503476781115
+    },
+    "BILL AP & AR Business Payments": {
+        "Data shared": 0.0,
+        "Data collected": 0.1240626781950626,
+        "Security practices": 0.10319182361392751
+    },
+    "PocketGuard\u30fbBudget Tracker App": {
+        "Data shared": 0.0,
+        "Data collected": 0.06566543552210373,
+        "Security practices": 0.15699930836592932
+    },
+    "Bill Reminder & Organizer App": {
+        "Data shared": 0.0,
+        "Data collected": 0.05524205786087644,
+        "Security practices": 0.1298072002473638
+    },
+    "Amazon Kindle": {
+        "Data shared": 0.0,
+        "Data collected": 0.06256819769610315,
+        "Security practices": 0.1556091579953055
+    },
+    "Epic: Kids' Books & Reading": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2098128359923295
+    },
+    "Wattpad - Read & Write Stories": {
+        "Data shared": 0.0,
+        "Data collected": 0.02299261983967174,
+        "Security practices": 0.04113579485069451
+    },
+    "Reading Eggs - Learn to Read": {
+        "Data shared": 0.011316780547497022,
+        "Data collected": 0.14132453513935683,
+        "Security practices": 0.1707992589351787
+    },
+    "Bookmory - reading tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.043827997795391864,
+        "Security practices": 0.050391530526724695
+    },
+    "PocketBook reader - any books": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2747538199578536
+    },
+    "Dreame-Read Romance Stories": {
+        "Data shared": 0.044145557963997224,
+        "Data collected": 0.11014261675831633,
+        "Security practices": 0.18230367949659637
+    },
+    "Teach Monster: Reading for Fun": {
+        "Data shared": 0.0,
+        "Data collected": 0.11087962008105341,
+        "Security practices": 0.19911810078247233
+    },
+    "Galatea: Books & Audiobooks": {
+        "Data shared": 0.0,
+        "Data collected": 0.03536301593108156,
+        "Security practices": 0.21500326649290213
+    },
+    "CoinMarketCap: Crypto Tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.29423929870366405
+    },
+    "Crypto.com Onchain": {
+        "Data shared": 0.0,
+        "Data collected": 0.10599213135093251,
+        "Security practices": 0.31392774473047247
+    },
+    "Trust: Crypto & Bitcoin Wallet": {
+        "Data shared": 0.0,
+        "Data collected": 0.03783979221633657,
+        "Security practices": 0.21230191803534149
+    },
+    "MetaMask - Crypto Wallet": {
+        "Data shared": 0.0,
+        "Data collected": 0.07520514046299098,
+        "Security practices": 0.03255146088852507
+    },
+    "Bitcoin.com Wallet: Buy, Sell": {
+        "Data shared": 0.16070975282043237,
+        "Data collected": 0.11446760068960028,
+        "Security practices": 0.29325522982564806
+    },
+    "Coinbase Wallet: NFTs & Crypto": {
+        "Data shared": 0.0,
+        "Data collected": 0.058932364746539394,
+        "Security practices": 0.05093193742511974
+    },
+    "OKX: Buy Bitcoin BTC & Crypto": {
+        "Data shared": 0.16279449511971256,
+        "Data collected": 0.11114514924503632,
+        "Security practices": 0.199713471236858
+    },
+    "Uphold: Buy BTC, ETH and 300+": {
+        "Data shared": 0.0,
+        "Data collected": 0.09409853307255099,
+        "Security practices": 0.322443560680136
+    },
+    "Phantom": {
+        "Data shared": 0.0,
+        "Data collected": 0.06861024832206955,
+        "Security practices": 0.11362719229254171
+    },
+    "Ember - Earn Crypto": {
+        "Data shared": 0.0,
+        "Data collected": 0.0531016490701478,
+        "Security practices": 0.07697949446101342
+    },
+    "Muscle Booster \u2013 Plan Workouts": {
+        "Data shared": 0.24121360667506986,
+        "Data collected": 0.026869120392143533,
+        "Security practices": 0.1823705994500611
+    },
+    "Arm Workout - Biceps Exercise": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2306049577452079
+    },
+    "Lose Belly Fat  - Abs Workout": {
+        "Data shared": 0.0,
+        "Data collected": 0.09469651568825228,
+        "Security practices": 0.2638254543581872
+    },
+    "Gym Workout Tracker: Gym Log": {
+        "Data shared": 0.0,
+        "Data collected": 0.04173258427815615,
+        "Security practices": 0.24198905916277533
+    },
+    "Height Increase Workout": {
+        "Data shared": 0.0,
+        "Data collected": 0.09469651568825228,
+        "Security practices": 0.2547044142269928
+    },
+    "Pilates Workout at Home": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.24436894218114596
+    },
+    "Splits Training in 30 Days": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.3171381952552643
+    },
+    "Nike Training Club: Fitness": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.26215558459849875
+    },
+    "Strong Workout Tracker Gym Log": {
+        "Data shared": 0.03535224655478606,
+        "Data collected": 0.08528163158541424,
+        "Security practices": 0.31580784228984704
+    },
+    "Fitness Coach: Weight Loss": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2658229876975263
+    },
+    "Fitify: Fitness, Home Workout": {
+        "Data shared": 0.07760424579039778,
+        "Data collected": 0.10055261641546492,
+        "Security practices": 0.1228636259424504
+    },
+    "Weight Loss for Women: Workout": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2815657956715767
+    },
+    "Liftoff - Ranked Gym Workouts": {
+        "Data shared": 0.0,
+        "Data collected": 0.06822837273351354,
+        "Security practices": 0.11985874421421913
+    },
+    "Fever: Events & Tickets": {
+        "Data shared": 0.0,
+        "Data collected": 0.010621099841963877,
+        "Security practices": 0.31001738174496074
+    },
+    "AllEvents - Discover Events": {
+        "Data shared": 0.0,
+        "Data collected": 0.06694189345530967,
+        "Security practices": 0.195414033283876
+    },
+    "TickPick - Live Event Tickets": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.16859198070763387
+    },
+    "Cvent Events": {
+        "Data shared": 0.0,
+        "Data collected": 0.11556962643415979,
+        "Security practices": 0.20265509328626055
+    },
+    "Whova - Event & Conference App": {
+        "Data shared": 0.0,
+        "Data collected": 0.12049102462385261,
+        "Security practices": 0.2618884750388181
+    },
+    "Gametime - Last Minute Tickets": {
+        "Data shared": 0.02180653137305242,
+        "Data collected": 0.1548352241483399,
+        "Security practices": 0.11829792812603215
+    },
+    "Event Planner: Birthday, Party": {
+        "Data shared": 0.0,
+        "Data collected": 0.07233084420369823,
+        "Security practices": 0.09977077062410494
+    },
+    "BookMyShow | Movies & Events": {
+        "Data shared": 0.0,
+        "Data collected": 0.08442901437412197,
+        "Security practices": 0.04894624057391336
+    },
+    "Vivid Seats | Event Tickets": {
+        "Data shared": 0.0,
+        "Data collected": 0.06305169776332807,
+        "Security practices": 0.12944578577005614
+    },
+    "Partiful: Fun Party Invites": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.07225976847710815
+    },
+    "TIME&SPACE: Events Media": {
+        "Data shared": 0.0,
+        "Data collected": 0.08630756739300019,
+        "Security practices": 0.1858868349686641
+    },
+    "TicketSwap - Buy, Sell Tickets": {
+        "Data shared": 0.037787169415344414,
+        "Data collected": 0.14266183628497806,
+        "Security practices": 0.25150562692921297
+    },
+    "Rausgegangen: Events entdecken": {
+        "Data shared": 0.0,
+        "Data collected": 0.038435613928887204,
+        "Security practices": 0.35195607247770044
+    },
+    "EventSource.ca": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.05211409030066075
+    },
+    "Check-in by Wix": {
+        "Data shared": 0.0,
+        "Data collected": 0.11538524682402038,
+        "Security practices": 0.19260607754778308
+    },
+    "My Health": {
+        "Data shared": 0.0,
+        "Data collected": 0.05385797729316723,
+        "Security practices": 0.1791548108617519
+    },
+    "Welltory: Heart Rate Monitor": {
+        "Data shared": 0.0292521013547987,
+        "Data collected": 0.0,
+        "Security practices": 0.34780703806017604
+    },
+    "Health Sync": {
+        "Data shared": 0.11933323563959572,
+        "Data collected": 0.0,
+        "Security practices": 0.2654188508354998
+    },
+    "Personify Health": {
+        "Data shared": 0.13214487190691568,
+        "Data collected": 0.08981897660884061,
+        "Security practices": 0.24406801208972578
+    },
+    "Renpho Health": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.23972747567567151
+    },
+    "Cardi Health: Heart Monitoring": {
+        "Data shared": 0.04840481852390735,
+        "Data collected": 0.09168274664862196,
+        "Security practices": 0.2152065095268869
+    },
+    "Charity Miles: Walking & Runni": {
+        "Data shared": 0.0,
+        "Data collected": 0.07667949670261101,
+        "Security practices": 0.10127161404264623
+    },
+    "MAA Charity & Donation Partner": {
+        "Data shared": 0.0,
+        "Data collected": 0.11351295984649408,
+        "Security practices": 0.14041765609168128
+    },
+    "GoFundMe: Best in Crowdfunding": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2026000331651407
+    },
+    "DonorDrive Charity Fundraising": {
+        "Data shared": 0.0,
+        "Data collected": 0.05338767693284261,
+        "Security practices": 0.24745355997590102
+    },
+    "Parents": {
+        "Data shared": 0.0,
+        "Data collected": 0.07666027789362125,
+        "Security practices": 0.2621661531888002
+    },
+    "TalkingParents: Co-Parent App": {
+        "Data shared": 0.0,
+        "Data collected": 0.04141825614968078,
+        "Security practices": 0.04005773512277835
+    },
+    "Understood: Support ADHD Kids": {
+        "Data shared": 0.0,
+        "Data collected": 0.03867915348060974,
+        "Security practices": 0.03517074024595525
+    },
+    "AppClose: Co-Parent Essentials": {
+        "Data shared": 0.01656094455510161,
+        "Data collected": 0.06944641878320239,
+        "Security practices": 0.2154130143478098
+    },
+    "Pregnancy + | Tracker App": {
+        "Data shared": 0.11298523626575555,
+        "Data collected": 0.11917078636065409,
+        "Security practices": 0.2503758523965706
+    },
+    "AirDroid Parental Control": {
+        "Data shared": 0.0,
+        "Data collected": 0.07588314645556843,
+        "Security practices": 0.28012776564359804
+    },
+    "Healofy Pregnancy & Parenting": {
+        "Data shared": 0.1674619382396529,
+        "Data collected": 0.11577380506948494,
+        "Security practices": 0.19497490414169008
+    },
+    "Nanit": {
+        "Data shared": 0.0,
+        "Data collected": 0.08842964990000182,
+        "Security practices": 0.0
+    },
+    "Parenting Guide from Lasting": {
+        "Data shared": 0.05726308837013272,
+        "Data collected": 0.08117619719683203,
+        "Security practices": 0.17451210467954895
+    },
+    "OurFamilyWizard Co-Parent App": {
+        "Data shared": 0.0,
+        "Data collected": 0.01388740019646993,
+        "Security practices": 0.232086536623736
+    },
+    "Owlet Dream": {
+        "Data shared": 0.0,
+        "Data collected": 0.02550420930527157,
+        "Security practices": 0.12362017381517684
+    },
+    "Breastfeeding & Baby Tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.056980640980869135,
+        "Security practices": 0.2355447760393503
+    },
+    "Parentool - Parenting app": {
+        "Data shared": 0.0,
+        "Data collected": 0.020031900487086442,
+        "Security practices": 0.1714836817648478
+    },
+    "Motherhood: Parenting SuperApp": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.27104260200345454
+    },
+    "HubbleClub By Hubble Connected": {
+        "Data shared": 0.0,
+        "Data collected": 0.09803046073233718,
+        "Security practices": 0.36646475321096594
+    },
+    "Nara - Baby & Mom Tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.056528643158516405,
+        "Security practices": 0.1680454231227947
+    },
+    "eufy Baby": {
+        "Data shared": 0.0,
+        "Data collected": 0.03821532892755049,
+        "Security practices": 0.22206245079793782
+    },
+    "Freelancer: Hire & Find Jobs": {
+        "Data shared": 0.06922450137975561,
+        "Data collected": 0.24308660418469505,
+        "Security practices": 0.18572899768988868
+    },
+    "Fiverr - Freelance Service": {
+        "Data shared": 0.0,
+        "Data collected": 0.03222887887372105,
+        "Security practices": 0.28880832408946566
+    },
+    "Kwork": {
+        "Data shared": 0.10940610189993039,
+        "Data collected": 0.015357175496940014,
+        "Security practices": 0.1487382199177399
+    },
+    "Truelancer: Freelance Work App": {
+        "Data shared": 0.0,
+        "Data collected": 0.019490668809278702,
+        "Security practices": 0.0614857565125575
+    },
+    "Guru for Freelancers": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.05363166980308301
+    },
+    "Moxie | Built for freelancers": {
+        "Data shared": 0.0,
+        "Data collected": 0.3394248650041245,
+        "Security practices": 0.3406435041305657
+    },
+    "Jobbers: Jobbing and Freelance": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.25769764251564714
+    },
+    "clickworker": {
+        "Data shared": 0.020524585019349156,
+        "Data collected": 0.24930576841992702,
+        "Security practices": 0.19157490549430725
+    },
+    "Veryable: Work. Next Day Pay": {
+        "Data shared": 0.1583490272886297,
+        "Data collected": 0.09954005611588448,
+        "Security practices": 0.09762587209698609
+    },
+    "Taskrabbit - Handyman, Errands": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.23659547093869981
+    },
+    "Glassdoor | Jobs & Community": {
+        "Data shared": 0.09075414459397738,
+        "Data collected": 0.055901295920243566,
+        "Security practices": 0.21827733703227056
+    },
+    "GigSmart Get Gigs": {
+        "Data shared": 0.06815880470241767,
+        "Data collected": 0.12471530765724467,
+        "Security practices": 0.1697508077684696
+    },
+    "Covet Fashion: Dress Up Game": {
+        "Data shared": 0.14836067894906235,
+        "Data collected": 0.1049938084347622,
+        "Security practices": 0.10192800825147322
+    },
+    "SuitU: Fashion Avatar Dress Up": {
+        "Data shared": 0.011256767918822531,
+        "Data collected": 0.0,
+        "Security practices": 0.0
+    },
+    "Fashion Nova: Merge & Stylist": {
+        "Data shared": 0.1854029850423688,
+        "Data collected": 0.06123094334544521,
+        "Security practices": 0.17231884019380714
+    },
+    "Fashion Journey : Merge Story": {
+        "Data shared": 0.16987082672792284,
+        "Data collected": 0.06804963087832473,
+        "Security practices": 0.17231884019380714
+    },
+    "DREST: Dress Up Fashion Game": {
+        "Data shared": 0.0,
+        "Data collected": 0.08924388267873232,
+        "Security practices": 0.22429183411106585
+    },
+    "Merge Fashion: Romance Story": {
+        "Data shared": 0.06257820023353941,
+        "Data collected": 0.12590966786076124,
+        "Security practices": 0.23695979219494412
+    },
+    "Pocket Styler: Fashion Stars": {
+        "Data shared": 0.0,
+        "Data collected": 0.06710107086015053,
+        "Security practices": 0.28009632041815313
+    },
+    "Fashion Cup - Dress up Games": {
+        "Data shared": 0.1282272952735884,
+        "Data collected": 0.07729373698076217,
+        "Security practices": 0.15803010267372555
+    },
+    "Fashion Makeup:Dress Up Show": {
+        "Data shared": 0.0,
+        "Data collected": 0.09788962186148394,
+        "Security practices": 0.15191979209502846
+    },
+    "Fashion Blast - Puzzle Games": {
+        "Data shared": 0.05732517437512707,
+        "Data collected": 0.08578683708794566,
+        "Security practices": 0.16551929903127083
+    },
+    "Fashion AR - Style & Makeover": {
+        "Data shared": 0.0,
+        "Data collected": 0.028798640739933358,
+        "Security practices": 0.23652348005148427
+    },
+    "fashion dress up:girl makeover": {
+        "Data shared": 0.0,
+        "Data collected": 0.08050000421197111,
+        "Security practices": 0.0702676983314798
+    },
+    "Fashion Style Dressup & Design": {
+        "Data shared": 0.0,
+        "Data collected": 0.0667017255382872,
+        "Security practices": 0.0
+    },
+    "MOD4: Become a Fashion Stylist": {
+        "Data shared": 0.0,
+        "Data collected": 0.13116471485152714,
+        "Security practices": 0.2088740324602185
+    },
+    "Baker Business 3": {
+        "Data shared": 0.0,
+        "Data collected": 0.037503107715497176,
+        "Security practices": 0.11753249784637547
+    },
+    "Kneady: Bread & Baking Recipes": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.23545974549849866
+    },
+    "Cake Cooking Games for Kids 2+": {
+        "Data shared": 0.0,
+        "Data collected": 0.07725777630952749,
+        "Security practices": 0.12370762529159998
+    },
+    "Cookie Baking Games For Kids": {
+        "Data shared": 0.0,
+        "Data collected": 0.12628244317597268,
+        "Security practices": 0.2149130682458689
+    },
+    "Cooking Master Food Games": {
+        "Data shared": 0.0,
+        "Data collected": 0.05434980320759618,
+        "Security practices": 0.19733240487371298
+    },
+    "Bakery Story\u2122": {
+        "Data shared": 0.0,
+        "Data collected": 0.12339717000090072,
+        "Security practices": 0.13743419926026645
+    },
+    "Bakery Story 2": {
+        "Data shared": 0.0,
+        "Data collected": 0.12339717000090072,
+        "Security practices": 0.13743419926026645
+    },
+    "BunnyBuns": {
+        "Data shared": 0.0,
+        "Data collected": 0.0535409786741402,
+        "Security practices": 0.2107561315332742
+    },
+    "Pizza Baking Kids Games": {
+        "Data shared": 0.0,
+        "Data collected": 0.12628244317597268,
+        "Security practices": 0.17212097049827382
+    },
+    "Cupcake maker cooking games": {
+        "Data shared": 0.0,
+        "Data collected": 0.020726895444525783,
+        "Security practices": 0.19733240487371298
+    },
+    "Bakesy: Home Bakery Biz App": {
+        "Data shared": 0.0,
+        "Data collected": 0.03854165057007067,
+        "Security practices": 0.14080430935917132
+    },
+    "Lop Bakery": {
+        "Data shared": 0.0,
+        "Data collected": 0.10971249558349333,
+        "Security practices": 0.03241261567520688
+    },
+    "Love, Manuela The Baking APP": {
+        "Data shared": 0.0,
+        "Data collected": 0.07530197807489901,
+        "Security practices": 0.22480563251256935
+    },
+    "Sweet Escapes: Build A Bakery": {
+        "Data shared": 0.0,
+        "Data collected": 0.11943035608478321,
+        "Security practices": 0.18935967303647278
+    },
+    "Cooking games for toddlers": {
+        "Data shared": 0.0,
+        "Data collected": 0.05434980320759618,
+        "Security practices": 0.19733240487371298
+    },
+    "Squadron Hobbies": {
+        "Data shared": 0.0,
+        "Data collected": 0.07528540392265899,
+        "Security practices": 0.012778025448096668
+    },
+    "ipassio - Learn Hobbies Online": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1273806081426549
+    },
+    "Hobbii": {
+        "Data shared": 0.11837688388970906,
+        "Data collected": 0.08948029360924578,
+        "Security practices": 0.2288978575586549
+    },
+    "My Hobby App": {
+        "Data shared": 0.0,
+        "Data collected": 0.0778610859539105,
+        "Security practices": 0.24545875622744903
+    },
+    "Hobbytwin: Make hobby friends": {
+        "Data shared": 0.0,
+        "Data collected": 0.12658321934587496,
+        "Security practices": 0.22464061144907194
+    },
+    "hobbyDB Collection Management": {
+        "Data shared": 0.0,
+        "Data collected": 0.10873541172862124,
+        "Security practices": 0.16886781422817315
+    },
+    "Hobbytalk - Making friends": {
+        "Data shared": 0.0,
+        "Data collected": 0.13735397610882388,
+        "Security practices": 0.07666653830923828
+    },
+    "Hobby Farm HD": {
+        "Data shared": 0.0,
+        "Data collected": 0.07477769736164555,
+        "Security practices": 0.1935730286735493
+    },
+    "Aquabuildr": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1674014224334883
+    },
+    "Hobby Farm Show": {
+        "Data shared": 0.0,
+        "Data collected": 0.07477769736164555,
+        "Security practices": 0.1935730286735493
+    },
+    "Hobby Farm HD (Full)": {
+        "Data shared": 0.0,
+        "Data collected": 0.07477769736164555,
+        "Security practices": 0.1935730286735493
+    },
+    "Hobiz \u2013 Find, Chat, Meet": {
+        "Data shared": 0.0,
+        "Data collected": 0.1066200882365167,
+        "Security practices": 0.2869628371527358
+    },
+    "Hobby Farms Magazine": {
+        "Data shared": 0.0,
+        "Data collected": 0.054709747971228274,
+        "Security practices": 0.054241510141525784
+    },
+    "TSM": {
+        "Data shared": 0.017579944188549718,
+        "Data collected": 0.06566579117030158,
+        "Security practices": 0.10192800825147322
+    },
+    "Wellness At Your Side": {
+        "Data shared": 0.0,
+        "Data collected": 0.051744186318496144,
+        "Security practices": 0.29596350456161963
+    },
+    "Wellness Coach": {
+        "Data shared": 0.060282120071039946,
+        "Data collected": 0.10448418896193384,
+        "Security practices": 0.32420768161422564
+    },
+    "The Wellness Corner": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1031736488356397
+    },
+    "WellnessLiving Achieve": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2844720875357291
+    },
+    "LiveWell by Zurich": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.18165562693394213
+    },
+    "MWH: Fitness + Wellness": {
+        "Data shared": 0.0,
+        "Data collected": 0.08118196087414642,
+        "Security practices": 0.19463062308383156
+    },
+    "Quabble: Daily Mental Health": {
+        "Data shared": 0.0,
+        "Data collected": 0.03783979221633658,
+        "Security practices": 0.1510273067460262
+    },
+    "Mindbody: Fitness & Wellness": {
+        "Data shared": 0.0,
+        "Data collected": 0.022939226460672528,
+        "Security practices": 0.2433364120280408
+    },
+    "Be Well": {
+        "Data shared": 0.0,
+        "Data collected": 0.03589099458506671,
+        "Security practices": 0.22377063833262945
+    },
+    "WellNess+": {
+        "Data shared": 0.0,
+        "Data collected": 0.033400533710659625,
+        "Security practices": 0.23954058117110205
+    },
+    "AlwaysOn\u00ae Wellness": {
+        "Data shared": 0.0,
+        "Data collected": 0.050820669891236625,
+        "Security practices": 0.10128182023280446
+    },
+    "Navigate Wellbeing": {
+        "Data shared": 0.0,
+        "Data collected": 0.015424792231139411,
+        "Security practices": 0.2736236388964879
+    },
+    "Wellness Wheel": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1836842676516427
+    },
+    "Wellbeing+": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.16762249472651214
+    },
+    "mywellness": {
+        "Data shared": 0.1621904623804699,
+        "Data collected": 0.08805400532372874,
+        "Security practices": 0.3140428595273581
+    },
+    "28 Cycle, Period, Wellness": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.02675805866282681
+    },
+    "Restore Hyper Wellness": {
+        "Data shared": 0.0,
+        "Data collected": 0.029779710891831398,
+        "Security practices": 0.3399659307764845
+    },
+    "Fresh Tri: Habits & Mindset": {
+        "Data shared": 0.0,
+        "Data collected": 0.02744271380357362,
+        "Security practices": 0.07620854272984885
+    },
+    "Clash Royale": {
+        "Data shared": 0.0,
+        "Data collected": 0.1278899804383664,
+        "Security practices": 0.21880659958496584
+    },
+    "invideo AI: Video Generator": {
+        "Data shared": 0.009604857046329332,
+        "Data collected": 0.10264140522040568,
+        "Security practices": 0.09832539498375567
+    },
+    "Yahoo News: Daily News For You": {
+        "Data shared": 0.0,
+        "Data collected": 0.014323113454866594,
+        "Security practices": 0.12395625271313478
+    },
+    "Map Marker": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.13045956786942173
+    },
+    "Pulsar Music Player": {
+        "Data shared": 0.0,
+        "Data collected": 0.016499151210068196,
+        "Security practices": 0.11677472226315273
+    },
+    "GO2bank: Mobile banking": {
+        "Data shared": 0.0,
+        "Data collected": 0.3513732073086022,
+        "Security practices": 0.1758928466653867
+    },
+    "Discover Mobile": {
+        "Data shared": 0.06828717932749839,
+        "Data collected": 0.07816983238945785,
+        "Security practices": 0.10795045655112383
+    },
+    "Yi Home": {
+        "Data shared": 0.1615102847431173,
+        "Data collected": 0.12880002654163783,
+        "Security practices": 0.13729981647101203
+    },
+    "NFL 2K Playmakers Sports Cards": {
+        "Data shared": 0.03144814343297122,
+        "Data collected": 0.0,
+        "Security practices": 0.10305367909410822
+    },
+    "Find my stuff: Home inventory": {
+        "Data shared": 0.0,
+        "Data collected": 0.03657852151778796,
+        "Security practices": 0.10088054744167227
+    },
+    "FamilyWall: Family Organizer": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.07798537099163132
+    },
+    "ibis Paint": {
+        "Data shared": 0.0,
+        "Data collected": 0.0372327404678698,
+        "Security practices": 0.36468818653993057
+    },
+    "My Talking Hank: Islands": {
+        "Data shared": 0.035352246554786075,
+        "Data collected": 0.1628207389238473,
+        "Security practices": 0.12998933498099632
+    },
+    "Glotelho Ecommerce": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.273468054701022
+    },
+    "Skincare Routine: FeelinMySkin": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.25844597224053056
+    },
+    "MeetMe: Chat & Meet New People": {
+        "Data shared": 0.0344606352430455,
+        "Data collected": 0.10894873794414908,
+        "Security practices": 0.2801140805370834
+    },
+    "HER Lesbian, bi & queer dating": {
+        "Data shared": 0.06555018087583994,
+        "Data collected": 0.024339961667727353,
+        "Security practices": 0.2016541659846155
+    },
+    "Aura: Security & Protection": {
+        "Data shared": 0.14054721915790971,
+        "Data collected": 0.0,
+        "Security practices": 0.1335956125284244
+    },
+    "PharmEasy: Doorstep Healthcare": {
+        "Data shared": 0.11750435208085892,
+        "Data collected": 0.08519664816681694,
+        "Security practices": 0.07376787260831646
+    },
+    "Kilocash": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.21323380985879364
+    },
+    "OS Maps: Explore hiking trails": {
+        "Data shared": 0.05019876697031147,
+        "Data collected": 0.025312833125929454,
+        "Security practices": 0.2809042356001628
+    },
+    "Slopes: Ski & Snowboard": {
+        "Data shared": 0.12397888334188796,
+        "Data collected": 0.09005130939355649,
+        "Security practices": 0.3147821965034801
+    },
+    "Gemini: Buy Bitcoin & Crypto": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1279136147697374
+    },
+    "CoinEx: Buy Bitcoin & Crypto": {
+        "Data shared": 0.0,
+        "Data collected": 0.08418798111194639,
+        "Security practices": 0.12331893339700396
+    },
+    "EG Leaders": {
+        "Data shared": 0.0,
+        "Data collected": 0.07166424668913463,
+        "Security practices": 0.22572273434863085
+    },
+    "WEDDnGO": {
+        "Data shared": 0.0,
+        "Data collected": 0.009886299236973988,
+        "Security practices": 0.04778828463780296
+    },
+    "Elfie - Health & Rewards": {
+        "Data shared": 0.03540569315957176,
+        "Data collected": 0.05479607844193041,
+        "Security practices": 0.20199309249791855
+    },
+    "Charity Mobile": {
+        "Data shared": 0.0,
+        "Data collected": 0.1726722477904065,
+        "Security practices": 0.20216200250473215
+    },
+    "The Donors' Fund": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.059216540566829
+    },
+    "Givelify Mobile Giving App": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.18469363545320033
+    },
+    "BabyVerse: Daily Parenting App": {
+        "Data shared": 0.0,
+        "Data collected": 0.06405205370635164,
+        "Security practices": 0.09311449998626785
+    },
+    "AdVenture Capitalist": {
+        "Data shared": 0.018089810641532204,
+        "Data collected": 0.0182715995349951,
+        "Security practices": 0.22282884265580288
+    },
+    "Diggy's Adventure: Escape Game": {
+        "Data shared": 0.01888497842098784,
+        "Data collected": 0.0,
+        "Security practices": 0.20156764911895725
+    },
+    "AdVenture Communist": {
+        "Data shared": 0.018089810641532204,
+        "Data collected": 0.017196235582245575,
+        "Security practices": 0.22282884265580288
+    },
+    "Adventure Bay - Farm Games": {
+        "Data shared": 0.08202240044551795,
+        "Data collected": 0.07729373698076217,
+        "Security practices": 0.23751984237346394
+    },
+    "Family Farm Adventure": {
+        "Data shared": 0.0,
+        "Data collected": 0.09429307553398665,
+        "Security practices": 0.14016642134500953
+    },
+    "Magicabin: Witch's Adventure": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.3436708617726077
+    },
+    "Dragonscapes Adventure": {
+        "Data shared": 0.0,
+        "Data collected": 0.09693588461228178,
+        "Security practices": 0.2530058787839732
+    },
+    "Botworld Adventure": {
+        "Data shared": 0.15449280732012502,
+        "Data collected": 0.023335945212675284,
+        "Security practices": 0.16477598083657077
+    },
+    "OneBit Adventure (Roguelike)": {
+        "Data shared": 0.0,
+        "Data collected": 0.15983288359930536,
+        "Security practices": 0.07812860992541477
+    },
+    "GiftYa - Send Gift Cards": {
+        "Data shared": 0.0,
+        "Data collected": 0.1575245630003093,
+        "Security practices": 0.12142398116350085
+    },
+    "GIFT On-Demand": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.3237550387495161
+    },
+    "Giftster - Wish List Registry": {
+        "Data shared": 0.0,
+        "Data collected": 0.11597357017064525,
+        "Security practices": 0.01633178293891481
+    },
+    "SodaGift \u2013 Gifts & Gift Cards": {
+        "Data shared": 0.12388166944341725,
+        "Data collected": 0.10863305286505325,
+        "Security practices": 0.10368163086299365
+    },
+    "Giftadvisor: unique gift ideas": {
+        "Data shared": 0.0,
+        "Data collected": 0.09986382214095459,
+        "Security practices": 0.3511301885273913
+    },
+    "GiftMe - Gift Cards & Rewards": {
+        "Data shared": 0.05829838357709693,
+        "Data collected": 0.0,
+        "Security practices": 0.19962558923487184
+    },
+    "Tyr Rewards: Earn Gift Cards": {
+        "Data shared": 0.0,
+        "Data collected": 0.07986552884896844,
+        "Security practices": 0.14957001556467311
+    },
+    "Gift Baskets Overseas: Unique": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.16454856927136677
+    },
+    "Prezzee eGift cards": {
+        "Data shared": 0.008641372201728632,
+        "Data collected": 0.01678521781015805,
+        "Security practices": 0.1197844629735372
+    },
+    "Tbay: Sell Gift Cards": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.16994996802150014
+    },
+    "Giftworld: Send gift cards": {
+        "Data shared": 0.0,
+        "Data collected": 0.06253400473081618,
+        "Security practices": 0.02597962780963315
+    },
+    "Gift Center - Earn Money &Gift": {
+        "Data shared": 0.1757860783933461,
+        "Data collected": 0.25233241975646714,
+        "Security practices": 0.13596638290683483
+    },
+    "YOUGotaGift": {
+        "Data shared": 0.0,
+        "Data collected": 0.0990615189353907,
+        "Security practices": 0.14513517022445985
+    },
+    "Rewarded Play: Earn Gift Cards": {
+        "Data shared": 0.0,
+        "Data collected": 0.09101967518816913,
+        "Security practices": 0.19432091833428694
+    },
+    "Gifts.com: Custom Gifts App": {
+        "Data shared": 0.023411306481152874,
+        "Data collected": 0.013743173695711765,
+        "Security practices": 0.24703937212918492
+    },
+    "Web Browser - Fast & Privacy": {
+        "Data shared": 0.0,
+        "Data collected": 0.0933935079709927,
+        "Security practices": 0.13289816199456084
+    },
+    "Web Browser & Explorer": {
+        "Data shared": 0.0,
+        "Data collected": 0.11758194188797896,
+        "Security practices": 0.2280091764007322
+    },
+    "Internet Web Browser - ZEUS": {
+        "Data shared": 0.0,
+        "Data collected": 0.03130687649802411,
+        "Security practices": 0.08289766615675204
+    },
+    "Smart Search & Web Browser": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.16441181290106527
+    },
+    "Incognito Browser - Go Private": {
+        "Data shared": 0.0,
+        "Data collected": 0.06997254341808112,
+        "Security practices": 0.051173917958962346
+    },
+    "Web Browser by Vewd": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2078456564054446
+    },
+    "Browser": {
+        "Data shared": 0.051171259040695465,
+        "Data collected": 0.10773291807996811,
+        "Security practices": 0.1583560926370333
+    },
+    "Internet Web Browser": {
+        "Data shared": 0.0,
+        "Data collected": 0.11176227386015285,
+        "Security practices": 0.015759883642216574
+    },
+    "Opera GX: Gaming Browser": {
+        "Data shared": 0.017701363806669108,
+        "Data collected": 0.02509695164036529,
+        "Security practices": 0.3261258388266981
+    },
+    "Planter - Garden Planner": {
+        "Data shared": 0.0,
+        "Data collected": 0.14528428093721607,
+        "Security practices": 0.12720251022667733
+    },
+    "Seed to Spoon - Garden Planner": {
+        "Data shared": 0.0,
+        "Data collected": 0.034113777141535045,
+        "Security practices": 0.259121933632418
+    },
+    "Fryd: Garden Planner": {
+        "Data shared": 0.13627955589688293,
+        "Data collected": 0.17345498661151096,
+        "Security practices": 0.2886382492856735
+    },
+    "Planta: Plant & Garden Care": {
+        "Data shared": 0.08894876308367639,
+        "Data collected": 0.09468493322987662,
+        "Security practices": 0.2484343092396984
+    },
+    "Seedtime Garden Planner": {
+        "Data shared": 0.0,
+        "Data collected": 0.0527451616951519,
+        "Security practices": 0.23754660600949426
+    },
+    "Gardenize: Garden & Plant care": {
+        "Data shared": 0.06786315014292388,
+        "Data collected": 0.08402382063331894,
+        "Security practices": 0.22809507515074776
+    },
+    "VIVOSUN": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.08298119039759735
+    },
+    "Pocket Plants: Grow Plant Game": {
+        "Data shared": 0.08038337324710633,
+        "Data collected": 0.09471060254945617,
+        "Security practices": 0.11012033665036554
+    },
+    "Honey Grove \u2014 Cozy Garden Sim": {
+        "Data shared": 0.0,
+        "Data collected": 0.21138562266668748,
+        "Security practices": 0.06394755715983412
+    },
+    "MIgardener": {
+        "Data shared": 0.17682461196865956,
+        "Data collected": 0.04543516891302443,
+        "Security practices": 0.20595193572332393
+    },
+    "Gardyn": {
+        "Data shared": 0.0,
+        "Data collected": 0.17817735485094932,
+        "Security practices": 0.27002565930891503
+    },
+    "PictureThis - Plant Identifier": {
+        "Data shared": 0.0,
+        "Data collected": 0.07069371095527152,
+        "Security practices": 0.21784672853879133
+    },
+    "Kinder World: Cozy Plant Game": {
+        "Data shared": 0.04460805503137929,
+        "Data collected": 0.09528482581879663,
+        "Security practices": 0.18891679322227267
+    },
+    "Gardens Illustrated Magazine": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.34337333567578765
+    },
+    "Window Garden - Lofi Idle Game": {
+        "Data shared": 0.09339537641256736,
+        "Data collected": 0.03950998289027158,
+        "Security practices": 0.08626218166470385
+    },
+    "Adorable Garden": {
+        "Data shared": 0.0,
+        "Data collected": 0.06508075257963179,
+        "Security practices": 0.2631920603043489
+    },
+    "Great Garden Plants": {
+        "Data shared": 0.011755261551997662,
+        "Data collected": 0.014093907311987498,
+        "Security practices": 0.273473043855754
+    },
+    "Plant Identifier & Care - Greg": {
+        "Data shared": 0.0,
+        "Data collected": 0.09520512727488759,
+        "Security practices": 0.3463700715808755
+    },
+    "Garden Design Makeover": {
+        "Data shared": 0.0302853736769575,
+        "Data collected": 0.14970921273800275,
+        "Security practices": 0.11570360081658759
+    },
+    "Cheelee: Short Videos for You": {
+        "Data shared": 0.0,
+        "Data collected": 0.0439973262678318,
+        "Security practices": 0.1493578208175544
+    },
+    "Ling: Easy Language Learning": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1854224585000668
+    },
+    "tool4seller: Amazon Seller App": {
+        "Data shared": 0.020668377674075016,
+        "Data collected": 0.07967362921475998,
+        "Security practices": 0.18098881146669676
+    },
+    "C-Prot Antivirus Security": {
+        "Data shared": 0.0,
+        "Data collected": 0.07725777630952747,
+        "Security practices": 0.13353704414235906
+    },
+    "Tzedakah Pushka - Charity Box": {
+        "Data shared": 0.12065787252434353,
+        "Data collected": 0.06655924660794857,
+        "Security practices": 0.2526040051999897
+    },
+    "Cheddar Up": {
+        "Data shared": 0.0,
+        "Data collected": 0.012074732214156357,
+        "Security practices": 0.11364825000153597
+    },
+    "SHAREit Lite - Fast File Share": {
+        "Data shared": 0.0,
+        "Data collected": 0.0897046909819621,
+        "Security practices": 0.24937786909187282
+    },
+    "MoneyDolly - Fundraising": {
+        "Data shared": 0.0,
+        "Data collected": 0.038951942447923486,
+        "Security practices": 0.15134664827535851
+    },
+    "Milaap : Donation Crowdfunding": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.356822328553672
+    },
+    "Charity": {
+        "Data shared": 0.0,
+        "Data collected": 0.18716525844265336,
+        "Security practices": 0.23885542183792252
+    },
+    "ShareChat Trends Videos & Live": {
+        "Data shared": 0.13834334175440274,
+        "Data collected": 0.1298529265260013,
+        "Security practices": 0.27418893681934375
+    },
+    "Kitchen Stories: Recipes": {
+        "Data shared": 0.11450849747564446,
+        "Data collected": 0.05471211853928361,
+        "Security practices": 0.20622994343159684
+    },
+    "FYTA": {
+        "Data shared": 0.0,
+        "Data collected": 0.0382503639305202,
+        "Security practices": 0.25468455887606495
+    },
+    "Palmstreet: Shop & Sell LIVE": {
+        "Data shared": 0.013444301896405768,
+        "Data collected": 0.04479716318720601,
+        "Security practices": 0.0
+    },
+    "Notepad, Notes, Easy Notebook": {
+        "Data shared": 0.0,
+        "Data collected": 0.0674185232844303,
+        "Security practices": 0.23203118368729955
+    },
+    "Notepad - simple notes": {
+        "Data shared": 0.13440002875235568,
+        "Data collected": 0.10306360269132046,
+        "Security practices": 0.0886040518417963
+    },
+    "Notes: Simple iOS Notepad": {
+        "Data shared": 0.0,
+        "Data collected": 0.03760001462185447,
+        "Security practices": 0.2615694087124875
+    },
+    "Easy Notes - Note Taking Apps": {
+        "Data shared": 0.0,
+        "Data collected": 0.04192266943201175,
+        "Security practices": 0.2542285024891058
+    },
+    "Notebook\u2013Notes, Lists, Planner": {
+        "Data shared": 0.0,
+        "Data collected": 0.06037292968051985,
+        "Security practices": 0.1876205069176778
+    },
+    "Kilonotes-Notes & PDF reading": {
+        "Data shared": 0.0,
+        "Data collected": 0.0845570408783698,
+        "Security practices": 0.19843918748924705
+    },
+    "Notewise - Note-Taking & PDF": {
+        "Data shared": 0.0,
+        "Data collected": 0.029946312852793755,
+        "Security practices": 0.31682983463186676
+    },
+    "Notein: Handwriting,Notes,PDFs": {
+        "Data shared": 0.0,
+        "Data collected": 0.07887642074866293,
+        "Security practices": 0.25838695410345847
+    },
+    "Squid: Take Notes, Markup PDFs": {
+        "Data shared": 0.0,
+        "Data collected": 0.11298803279573306,
+        "Security practices": 0.07791961167346438
+    },
+    "Jnotes\uff1aNote-Taking&Editor PDF": {
+        "Data shared": 0.0,
+        "Data collected": 0.11599561369041281,
+        "Security practices": 0.16879265486624503
+    },
+    "Post-it\u00ae": {
+        "Data shared": 0.0,
+        "Data collected": 0.14536264825978706,
+        "Security practices": 0.23828196248496447
+    },
+    "Flexcil Notes & PDF Reader": {
+        "Data shared": 0.0,
+        "Data collected": 0.1077862696149231,
+        "Security practices": 0.0324126156752069
+    },
+    "Noteshelf - Notes, Annotations": {
+        "Data shared": 0.0,
+        "Data collected": 0.04190424716879126,
+        "Security practices": 0.19593956830236356
+    },
+    "OtterAI Transcribe Voice Notes": {
+        "Data shared": 0.11437635563999377,
+        "Data collected": 0.0,
+        "Security practices": 0.10835920504224236
+    },
+    "Mind Notes: Note-Taking Apps": {
+        "Data shared": 0.0,
+        "Data collected": 0.04192266943201175,
+        "Security practices": 0.2542285024891058
+    },
+    "Hometalk - DIY Ideas & Crafts": {
+        "Data shared": 0.0,
+        "Data collected": 0.19709713456477734,
+        "Security practices": 0.19426456669452377
+    },
+    "Learn Crafts and DIY Arts": {
+        "Data shared": 0.04354411026725537,
+        "Data collected": 0.06615904156676286,
+        "Security practices": 0.13410518715422692
+    },
+    "Learn Paper Crafts & DIY Arts": {
+        "Data shared": 0.04301007925004476,
+        "Data collected": 0.0,
+        "Security practices": 0.013617676287317684
+    },
+    "DIY Easy Crafts ideas": {
+        "Data shared": 0.06408681020922778,
+        "Data collected": 0.09466705511202811,
+        "Security practices": 0.09287521464897329
+    },
+    "DIY School Crafts Ideas": {
+        "Data shared": 0.059611666917138977,
+        "Data collected": 0.07147545923550488,
+        "Security practices": 0.06717978778119262
+    },
+    "DIY Art and Craft Course": {
+        "Data shared": 0.04354411026725537,
+        "Data collected": 0.06091672806552262,
+        "Security practices": 0.13410518715422692
+    },
+    "Ice Cream DIY: Creamy ASMR": {
+        "Data shared": 0.0,
+        "Data collected": 0.03421369084214042,
+        "Security practices": 0.15833603963965276
+    },
+    "DIY Hair Band 3D": {
+        "Data shared": 0.0,
+        "Data collected": 0.04707148891564904,
+        "Security practices": 0.05270351538554667
+    },
+    "DIY Craft Warehouse": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2115665777681726
+    },
+    "Design Space: DIY with Cricut": {
+        "Data shared": 0.0,
+        "Data collected": 0.016822256170807237,
+        "Security practices": 0.29744516940856186
+    },
+    "Unscripted Photography Posing": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.15332216601266202
+    },
+    "GuruShots: Photo Game": {
+        "Data shared": 0.0,
+        "Data collected": 0.03888661051143255,
+        "Security practices": 0.05642357427975241
+    },
+    "Cooking Mama: Let's cook!": {
+        "Data shared": 0.0,
+        "Data collected": 0.017256762762312153,
+        "Security practices": 0.06254343631323941
+    },
+    "Cooking Dash": {
+        "Data shared": 0.0,
+        "Data collected": 0.09184324136515225,
+        "Security practices": 0.20783174716914582
+    },
+    "Cooking Madness: A Chef's Game": {
+        "Data shared": 0.0,
+        "Data collected": 0.1472889870034886,
+        "Security practices": 0.1557266665986289
+    },
+    "Chef & Friends: Cooking Game": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.25120686989811547
+    },
+    "Toca Boca Jr": {
+        "Data shared": 0.3059509962959533,
+        "Data collected": 0.08965099689660984,
+        "Security practices": 0.19218350698577558
+    },
+    "Cooking Diary\u00ae Restaurant Game": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.242884583062875
+    },
+    "My Cooking: Restaurant Game": {
+        "Data shared": 0.19757495120750135,
+        "Data collected": 0.19353022842051332,
+        "Security practices": 0.1808600492263744
+    },
+    "Royal Cooking - Cooking Game": {
+        "Data shared": 0.08558812803125505,
+        "Data collected": 0.05903789958895364,
+        "Security practices": 0.16583689116897038
+    },
+    "SpongeBob: Krusty Cook-Off": {
+        "Data shared": 0.0,
+        "Data collected": 0.12370803644217412,
+        "Security practices": 0.22692936347377715
+    },
+    "Cooking Craze: Restaurant Game": {
+        "Data shared": 0.04080425616645348,
+        "Data collected": 0.0,
+        "Security practices": 0.23666293191045185
+    },
+    "Good Pizza, Great Pizza": {
+        "Data shared": 0.04973031618718353,
+        "Data collected": 0.0,
+        "Security practices": 0.26813379082487354
+    },
+    "Cooking Crush - Cooking Game": {
+        "Data shared": 0.0,
+        "Data collected": 0.10419041359075798,
+        "Security practices": 0.2027147624826319
+    },
+    "Cafeland - Restaurant Cooking": {
+        "Data shared": 0.09801879967786252,
+        "Data collected": 0.04743830558576946,
+        "Security practices": 0.23159662981357063
+    },
+    "World Chef": {
+        "Data shared": 0.05922613323310438,
+        "Data collected": 0.02306910979196152,
+        "Security practices": 0.03499360745779131
+    },
+    "Merge Cooking\u00ae": {
+        "Data shared": 0.020715107304448806,
+        "Data collected": 0.16533368705317839,
+        "Security practices": 0.21422645482117175
+    },
+    "Star Chef 2: Restaurant Game": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2522147884361982
+    },
+    "Super Auto Pets": {
+        "Data shared": 0.04183711217318288,
+        "Data collected": 0.08641257651773837,
+        "Security practices": 0.162845008356306
+    },
+    "Crayola Scribble Scrubbie Pets": {
+        "Data shared": 0.0,
+        "Data collected": 0.09310255334447093,
+        "Security practices": 0.13695405913348177
+    },
+    "Pets & Puzzles - Animal Game": {
+        "Data shared": 0.034161778849188945,
+        "Data collected": 0.02195692020314563,
+        "Security practices": 0.27979248238813575
+    },
+    "Pet Shelter Mania": {
+        "Data shared": 0.0,
+        "Data collected": 0.08064109687621032,
+        "Security practices": 0.038412132311720346
+    },
+    "Princess Palace Pets World": {
+        "Data shared": 0.0,
+        "Data collected": 0.050269087480150236,
+        "Security practices": 0.22285112269439283
+    },
+    "Pet City 2 - Home Design": {
+        "Data shared": 0.0,
+        "Data collected": 0.11383066355639937,
+        "Security practices": 0.04331367792912989
+    },
+    "My Tamagotchi Forever": {
+        "Data shared": 0.0,
+        "Data collected": 0.016460014697741988,
+        "Security practices": 0.23381180890366465
+    },
+    "Animal Jam": {
+        "Data shared": 0.0347988098143739,
+        "Data collected": 0.0,
+        "Security practices": 0.11769127189682228
+    },
+    "PetsApp": {
+        "Data shared": 0.0,
+        "Data collected": 0.0644934060912638,
+        "Security practices": 0.1796941934163856
+    },
+    "Amaru: The Self-Care Pet": {
+        "Data shared": 0.0,
+        "Data collected": 0.05315317843945684,
+        "Security practices": 0.11532651007767478
+    },
+    "Peridot": {
+        "Data shared": 0.0,
+        "Data collected": 0.11958937333841613,
+        "Security practices": 0.17194881213124322
+    },
+    "PetSmart": {
+        "Data shared": 0.1702397896114283,
+        "Data collected": 0.0,
+        "Security practices": 0.21546877512248408
+    },
+    "Hellopet": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.09791404340579513
+    },
+    "Axolochi": {
+        "Data shared": 0.0,
+        "Data collected": 0.034600084982777474,
+        "Security practices": 0.15181646522977557
+    },
+    "My Virtual Pet Shop: Animals": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.18408768223193733
+    },
+    "SuperCook - Recipe Generator": {
+        "Data shared": 0.0,
+        "Data collected": 0.07126057616750975,
+        "Security practices": 0.07149331098390004
+    },
+    "Cookpad recipes, homemade food": {
+        "Data shared": 0.0,
+        "Data collected": 0.033612753489062126,
+        "Security practices": 0.11907588847217716
+    },
+    "Recipe Keeper": {
+        "Data shared": 0.0,
+        "Data collected": 0.21993091082932287,
+        "Security practices": 0.11987927393600252
+    },
+    "My Recipe Box: My Cookbook": {
+        "Data shared": 0.0,
+        "Data collected": 0.08802999024688224,
+        "Security practices": 0.0499838279512074
+    },
+    "America's Test Kitchen": {
+        "Data shared": 0.022190839276559193,
+        "Data collected": 0.11984836764909709,
+        "Security practices": 0.10562140732723307
+    },
+    "SideChef: Recipes & Meal Plans": {
+        "Data shared": 0.013369660462766584,
+        "Data collected": 0.0785804474103901,
+        "Security practices": 0.36713680617155664
+    },
+    "Cooklist: Pantry & Cooking App": {
+        "Data shared": 0.1282079126297987,
+        "Data collected": 0.025817148878043306,
+        "Security practices": 0.2683564448715246
+    },
+    "Meal Planner & Recipe Keeper": {
+        "Data shared": 0.0,
+        "Data collected": 0.2008399919039699,
+        "Security practices": 0.22040995495132454
+    },
+    "EveryPlate: Cooking Simplified": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.21312927773387436
+    },
+    "Cookd: Recipes & Meal Planner": {
+        "Data shared": 0.012636397599145133,
+        "Data collected": 0.0,
+        "Security practices": 0.25311400860629346
+    },
+    "Pepper - Recipes with Friends": {
+        "Data shared": 0.053209116793761946,
+        "Data collected": 0.12602789060215172,
+        "Security practices": 0.2233476346674346
+    },
+    "Green Chef: Healthy Recipes": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.16659630119937796
+    },
+    "ekilu - healthy recipes & plan": {
+        "Data shared": 0.0,
+        "Data collected": 0.06226278693900619,
+        "Security practices": 0.26808879718138545
+    },
+    "Paprika Recipe Manager 3": {
+        "Data shared": 0.0,
+        "Data collected": 0.12541748780173315,
+        "Security practices": 0.09885752560287794
+    },
+    "Mixel, Cocktail Recipes": {
+        "Data shared": 0.0,
+        "Data collected": 0.0472203561286063,
+        "Security practices": 0.0
+    },
+    "Kids Meals: Recipes & Guides": {
+        "Data shared": 0.0,
+        "Data collected": 0.04007774724708053,
+        "Security practices": 0.2231060752372265
+    },
+    "iBrewCoffee - Coffee Journal": {
+        "Data shared": 0.0,
+        "Data collected": 0.049492092696949944,
+        "Security practices": 0.23647670367581552
+    },
+    "Lords Mobile: Kingdom Wars": {
+        "Data shared": 0.0,
+        "Data collected": 0.13732141366364684,
+        "Security practices": 0.1713721589852899
+    },
+    "Modern Combat 5: mobile FPS": {
+        "Data shared": 0.06541556709678872,
+        "Data collected": 0.04336272369021373,
+        "Security practices": 0.09486244090627513
+    },
+    "Duo Mobile": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.24922792059742815
+    },
+    "Call of Duty\u00ae: Warzone\u2122 Mobile": {
+        "Data shared": 0.04737193970795898,
+        "Data collected": 0.026760159384641175,
+        "Security practices": 0.18528994539568364
+    },
+    "Grand Mobile:RP Life Simulator": {
+        "Data shared": 0.1555943827806035,
+        "Data collected": 0.13350540994498367,
+        "Security practices": 0.050090009509289164
+    },
+    "Samsung Smart Switch Mobile": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.16885796490390895
+    },
+    "Rainbow Six Mobile": {
+        "Data shared": 0.031612100576770205,
+        "Data collected": 0.1039661741999529,
+        "Security practices": 0.27995089526165284
+    },
+    "AN Mobile": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.1501756609013466
+    },
+    "Mobile Royale - War & Strategy": {
+        "Data shared": 0.0,
+        "Data collected": 0.14961891069773064,
+        "Security practices": 0.1713721589852899
+    },
+    "JOB TODAY: Hire & Find Jobs": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.27546862462091504
+    },
+    "Monster Job Search": {
+        "Data shared": 0.09073372486420603,
+        "Data collected": 0.0,
+        "Security practices": 0.11922592548749136
+    },
+    "Shiftsmart - Find Work": {
+        "Data shared": 0.0,
+        "Data collected": 0.05997984905736646,
+        "Security practices": 0.16881657326344077
+    },
+    "Jobstreet: Job Search & Career": {
+        "Data shared": 0.047646861518585826,
+        "Data collected": 0.11721037300321654,
+        "Security practices": 0.09956709402183223
+    },
+    "craigslist": {
+        "Data shared": 0.0,
+        "Data collected": 0.068074713869436,
+        "Security practices": 0.1936614921144142
+    },
+    "Naukri - Job Search App": {
+        "Data shared": 0.0,
+        "Data collected": 0.018733728088317365,
+        "Security practices": 0.2111349420666449
+    },
+    "JobStack for Work | Job Search": {
+        "Data shared": 0.0,
+        "Data collected": 0.04009187011878087,
+        "Security practices": 0.11772784158216475
+    },
+    "GulfTalent - Job Search App": {
+        "Data shared": 0.0,
+        "Data collected": 0.10527891929215798,
+        "Security practices": 0.0950245037944685
+    },
+    "JobGet: Search and Apply Fast": {
+        "Data shared": 0.018882681535398044,
+        "Data collected": 0.11343231942854028,
+        "Security practices": 0.0733499869537652
+    },
+    "Job&Talent: Get work today": {
+        "Data shared": 0.10731318333924764,
+        "Data collected": 0.052236308424217386,
+        "Security practices": 0.0949700156010655
+    },
+    "WorkWhile": {
+        "Data shared": 0.0,
+        "Data collected": 0.08623742240425274,
+        "Security practices": 0.167985631256317
+    },
+    "Traba": {
+        "Data shared": 0.040019618641319726,
+        "Data collected": 0.15396532387132356,
+        "Security practices": 0.2514424320618594
+    },
+    "swipejobs": {
+        "Data shared": 0.0,
+        "Data collected": 0.0492418128718895,
+        "Security practices": 0.21807004582115253
+    },
+    "Robert Half: Job Search & More": {
+        "Data shared": 0.0,
+        "Data collected": 0.08718069222014879,
+        "Security practices": 0.2271240313445585
+    },
+    "Juvo Jobs: Steady Job Search": {
+        "Data shared": 0.0,
+        "Data collected": 0.11450134518134758,
+        "Security practices": 0.0
+    },
+    "Smartsheet: Projects & Teams": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.2503496942299487
+    },
+    "Zoho Projects": {
+        "Data shared": 0.0,
+        "Data collected": 0.04398744376374091,
+        "Security practices": 0.1876205069176778
+    },
+    "Xero Projects": {
+        "Data shared": 0.0,
+        "Data collected": 0.058157441346485664,
+        "Security practices": 0.10237805271782294
+    },
+    "Asana: Where work connects": {
+        "Data shared": 0.0,
+        "Data collected": 0.03172519445631527,
+        "Security practices": 0.19668408038937682
+    },
+    "monday.com - Work Management": {
+        "Data shared": 0.17560034980352393,
+        "Data collected": 0.09219422779808945,
+        "Security practices": 0.2915552641996239
+    },
+    "Basecamp - Project Management": {
+        "Data shared": 0.0,
+        "Data collected": 0.08746400284561624,
+        "Security practices": 0.20483012220834215
+    },
+    "Procore": {
+        "Data shared": 0.11266160720143016,
+        "Data collected": 0.02626144002030001,
+        "Security practices": 0.1369690717474781
+    },
+    "Plaky \u2014 Project Management": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.21228494842295087
+    },
+    "Nozbe: Tasks & Projects": {
+        "Data shared": 0.0,
+        "Data collected": 0.023539394920514385,
+        "Security practices": 0.2054740100443979
+    },
+    "TaskTag: How to project.": {
+        "Data shared": 0.15048146253878517,
+        "Data collected": 0.03789724329545715,
+        "Security practices": 0.26771941169814073
+    },
+    "Ora - Agile Project Management": {
+        "Data shared": 0.0,
+        "Data collected": 0.017627228033069715,
+        "Security practices": 0.19860795215008273
+    },
+    "Miro: your visual workspace": {
+        "Data shared": 0.020588281246638057,
+        "Data collected": 0.0940547371820064,
+        "Security practices": 0.17099220363579523
+    },
+    "Raken Construction Management": {
+        "Data shared": 0.013227039594202945,
+        "Data collected": 0.044932321365182194,
+        "Security practices": 0.2771430086741783
+    },
+    "Quire": {
+        "Data shared": 0.0,
+        "Data collected": 0.07184333411872529,
+        "Security practices": 0.27354177436260796
+    },
+    "WinGo Plan: goals & projects": {
+        "Data shared": 0.06255108180518568,
+        "Data collected": 0.1188697390990344,
+        "Security practices": 0.14160548534856857
+    },
+    "Bitrix24 CRM And Projects": {
+        "Data shared": 0.1507538376221602,
+        "Data collected": 0.0,
+        "Security practices": 0.23042011087167819
+    },
+    "Project Management": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.06418573998347259
+    },
+    "ClickUp - Manage Teams & Tasks": {
+        "Data shared": 0.0,
+        "Data collected": 0.0840203837268129,
+        "Security practices": 0.24575817525651555
+    },
+    "Offline Map Navigation": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.015601548643866925
+    },
+    "MapQuest: Get Directions": {
+        "Data shared": 0.03263931816471272,
+        "Data collected": 0.08273959641493613,
+        "Security practices": 0.1444632127158295
+    },
+    "Super Teacher": {
+        "Data shared": 0.1127170484853193,
+        "Data collected": 0.25892517846119617,
+        "Security practices": 0.15229281638300546
+    },
+    "Boddle": {
+        "Data shared": 0.0,
+        "Data collected": 0.011170339382209408,
+        "Security practices": 0.18199673027782998
+    },
+    "Adventure Academy": {
+        "Data shared": 0.02834478455382774,
+        "Data collected": 0.009571536379133695,
+        "Security practices": 0.06890357484094345
+    },
+    "DealNews: Deals & Discounts": {
+        "Data shared": 0.0,
+        "Data collected": 0.09367184348082498,
+        "Security practices": 0.17839815246332125
+    },
+    "Find my Phone - Family Locator": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.20106531649823864
+    },
+    "X-GPS Tracker": {
+        "Data shared": 0.05302883737365139,
+        "Data collected": 0.08137569559778601,
+        "Security practices": 0.16700809027778118
+    },
+    "Mood Tracker: Self-Care Habits": {
+        "Data shared": 0.0,
+        "Data collected": 0.03328704269421901,
+        "Security practices": 0.1605921487304786
+    },
+    "17TRACK Package Tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.15905426919094223,
+        "Security practices": 0.11641960728013383
+    },
+    "adidas Running: Run Tracker": {
+        "Data shared": 0.0,
+        "Data collected": 0.06945104662505434,
+        "Security practices": 0.23005442442377902
+    },
+    "Me: Reflect for Self Awareness": {
+        "Data shared": 0.0,
+        "Data collected": 0.09451234374522759,
+        "Security practices": 0.23306931742150805
+    },
+    "Self - Credit Builder": {
+        "Data shared": 0.1185762987381826,
+        "Data collected": 0.08076864219479281,
+        "Security practices": 0.16765059495050905
+    },
+    "Hobby Farm Show 2": {
+        "Data shared": 0.0,
+        "Data collected": 0.09418265158274007,
+        "Security practices": 0.1935730286735493
+    },
+    "Hobby Farm Show 2 (Full)": {
+        "Data shared": 0.0,
+        "Data collected": 0.09418265158274007,
+        "Security practices": 0.1935730286735493
+    },
+    "UBA Mobile Banking": {
+        "Data shared": 0.0,
+        "Data collected": 0.020884148501401974,
+        "Security practices": 0.22195049902244426
+    },
+    "LUDEX Sports Card Scanner +TCG": {
+        "Data shared": 0.0,
+        "Data collected": 0.09428530333741053,
+        "Security practices": 0.2191098043820152
+    },
+    "Idle Pet Shelter - Cat Rescue": {
+        "Data shared": 0.0,
+        "Data collected": 0.056954168726841926,
+        "Security practices": 0.23430302009745468
+    },
+    "Combat Master Mobile FPS": {
+        "Data shared": 0.1083015604191158,
+        "Data collected": 0.06735353829406697,
+        "Security practices": 0.1581565838944089
+    },
+    "A+ Mobile": {
+        "Data shared": 0.01371874011846183,
+        "Data collected": 0.021060337288832325,
+        "Security practices": 0.06871519534949712
+    },
+    "Visible mobile": {
+        "Data shared": 0.0,
+        "Data collected": 0.01385154952158963,
+        "Security practices": 0.21544889639478051
+    },
+    "Connect IQ\u2122 Store": {
+        "Data shared": 0.0,
+        "Data collected": 0.0795900695513906,
+        "Security practices": 0.2107814381661994
+    },
+    "Sony | Sound Connect": {
+        "Data shared": 0.048646810757616746,
+        "Data collected": 0.026763621763053864,
+        "Security practices": 0.1895781870935701
+    },
+    "Connecteam Team Management App": {
+        "Data shared": 0.0,
+        "Data collected": 0.16500591636777237,
+        "Security practices": 0.20034669146316852
+    },
+    "Dot Link - Connect the Dots": {
+        "Data shared": 0.1370266302262147,
+        "Data collected": 0.0,
+        "Security practices": 0.1681328675675282
+    },
+    "NYP Connect": {
+        "Data shared": 0.0,
+        "Data collected": 0.061835126001282645,
+        "Security practices": 0.042854048317294446
+    },
+    "Hik-Connect - for End User": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.10670922978141369
+    },
+    "Connect+": {
+        "Data shared": 0.0,
+        "Data collected": 0.04616444231787231,
+        "Security practices": 0.24913478732507352
+    },
+    "Tile Connect - Matching Games": {
+        "Data shared": 0.0,
+        "Data collected": 0.0790534237807579,
+        "Security practices": 0.17432342547056207
+    },
+    "WASH-Connect": {
+        "Data shared": 0.0,
+        "Data collected": 0.1018219831585858,
+        "Security practices": 0.15476911315457795
+    },
+    "Onet - Connect & Match Puzzle": {
+        "Data shared": 0.0,
+        "Data collected": 0.01815513123954486,
+        "Security practices": 0.18610897558729542
+    },
+    "FeelConnect 3.0": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.25258834735825575
+    },
+    "Word Connect": {
+        "Data shared": 0.0,
+        "Data collected": 0.1472889870034886,
+        "Security practices": 0.1557266665986289
+    },
+    "Connect Animal Classic Travel": {
+        "Data shared": 0.07725777630952749,
+        "Data collected": 0.07372792578434956,
+        "Security practices": 0.10509790468054228
+    },
+    "OMRON connect": {
+        "Data shared": 0.0,
+        "Data collected": 0.05841103887938217,
+        "Security practices": 0.22879650021840386
+    },
+    "Bose Connect": {
+        "Data shared": 0.0,
+        "Data collected": 0.08329401430932781,
+        "Security practices": 0.10654616243847408
+    },
+    "OpenVPN Connect \u2013 OpenVPN App": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.016366204537943265
+    },
+    "Valkyrie Connect": {
+        "Data shared": 0.07244081925041986,
+        "Data collected": 0.3032160644503864,
+        "Security practices": 0.11772784158216475
+    },
+    "Connect Puzzle-Tile Match Game": {
+        "Data shared": 0.0,
+        "Data collected": 0.0790534237807579,
+        "Security practices": 0.1577409276757085
+    },
+    "BandLab \u2013 Music Making Studio": {
+        "Data shared": 0.0,
+        "Data collected": 0.13377236967458117,
+        "Security practices": 0.2079101988103672
+    },
+    "History of Art": {
+        "Data shared": 0.0,
+        "Data collected": 0.19993965835322458,
+        "Security practices": 0.10647953900239783
+    },
+    "History Timeline": {
+        "Data shared": 0.0,
+        "Data collected": 0.30520621747310006,
+        "Security practices": 0.2494268129163026
+    },
+    "Academia.edu": {
+        "Data shared": 0.0,
+        "Data collected": 0.10570548416308191,
+        "Security practices": 0.0702673378558124
+    },
+    "TED": {
+        "Data shared": 0.0,
+        "Data collected": 0.0,
+        "Security practices": 0.11312173232119463
+    },
+    "Readwise Reader": {
+        "Data shared": 0.0,
+        "Data collected": 0.05976055807265003,
+        "Security practices": 0.13392642229310647
     }
 }

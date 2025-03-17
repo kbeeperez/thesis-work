@@ -39,7 +39,7 @@ def merge_sections(data): # specifically for the googleplay apps, data safety pa
 
 
 def compare_apps(ppaf, gplay):
-    with open(ppaf, 'r') as f1, open(gplay, 'r') as f2:
+    with open(ppaf, 'r',  encoding='utf-8') as f1, open(gplay, 'r',  encoding='utf-8') as f2:
         ppaf_data = json.load(f1)
         gp_data = json.load(f2)
     # load both json files, data safety scraped and ppaf scarped
@@ -81,7 +81,7 @@ def heatmap(simfile):
     cosine_data = {}
 
     for app_id, sections in data.items():
-        print(f"getting data for {app_id}")
+        # print(f"getting data for {app_id}")
         cosine_data[app_id] = [
             sections.get("Data shared", 0.0),
             sections.get("Data collected", 0.0),
@@ -99,10 +99,10 @@ def heatmap(simfile):
 
 def main():
     # create polciy_similarities to populate heat map
-    # compare_apps('ppaf_data.json', 'google_dss.json')
+    # compare_apps('data/ppaf_data.json', 'data/google_dss.json')
 
     # create heatmap
-    heatmap('policy_cosine_similarities.json')
+    heatmap('data/policy_cosine_similarities.json')
 
 
 if __name__ == '__main__':
