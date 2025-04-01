@@ -87,7 +87,7 @@ def collect_urls():
                "dating", "love", "community", "security", "healthcare", "therapy", "self-help", "outdoors", "bills", "Streaming",
                "reading", "crypto", "workout", "events", "health", "charity", "parenting", "freelance", "fashion", "baking",
                "hobbies", "wellness", "adventure", "gift", "web", "gardening", "notes", "DIY", "photography", "cooking", "pets",
-               "recipes", "mobile", "jobs", "projects"]
+               "recipes", "mobile", "jobs", "projects", "connect"]
 
     # collect app page urls
     for term in queries:
@@ -112,7 +112,7 @@ def collect_urls():
     with open("data/googleplay_urls.txt", 'r') as file:
         contents = file.read().splitlines()  # Read all lines into a list of links
 
-    with open("data/take3_urls.txt", 'a') as f2:
+    with open("data/take4_urls.txt", 'a') as f2:
         for link in pages:
             response2 = requests.get(link)
 

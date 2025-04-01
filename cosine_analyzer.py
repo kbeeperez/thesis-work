@@ -151,7 +151,8 @@ def main():
     #plot_histogram('data/policy_cosine_similarities.json')
     #plot_histogram('policy_llm_similarities.json')
 
-    plot_correlation_matrix('data/policy_cosine_similarities.json')
+    #plot_correlation_matrix('data/policy_cosine_similarities.json')
+    plot_correlation_matrix('policy_llm_similarities.json')
 
 
 
