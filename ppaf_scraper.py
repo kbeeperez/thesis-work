@@ -39,8 +39,8 @@ def get_link(url):
 
 def main():
     ########### List of Google Play Store app URLs to scrape, populates privacy policy txt file.
-    # with open('privacy_policy_links.txt', 'a') as policy:
-    #     with open('googleplay_urls.txt', 'r') as file:
+    # with open('data/privacy_policy_links_take3.txt', 'a', encoding='utf-8') as policy:
+    #     with open('data/take4_urls.txt', 'r') as file:
     #         for line in file:
     #             line = line.strip()
     #             # print(line)
@@ -51,7 +51,7 @@ def main():
     #             print(f"stored: {link}")
     ############################LOGIN TO PPAF########################################
     ppafurl_auth = "http://localhost:5173/auth"  # url for documents page for PPAF
-    driver_path = "/Users/katperez/Downloads/chromedriver-mac-arm64/chromedriver"
+    driver_path = r"C:\Users\Katherine Perez\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe"
 
     service = Service(driver_path)
     driver = webdriver.Chrome(service=service)
@@ -61,7 +61,7 @@ def main():
     user = driver.find_element(By.XPATH, '//input[@placeholder="a.user@privacy.matters"]')
     password = driver.find_element(By.XPATH, '//input[@placeholder="Password"]')
     #
-    user.send_keys('k@l.com')  # Replace with the name you want to input
+    user.send_keys('k@3.com')  # Replace with the name you want to input
     password.send_keys("testtest")
     #
     submit_button = driver.find_element(By.XPATH, '//button[@type="submit"]')  # Or use By.ID, By.CLASS_NAME, etc.
@@ -72,33 +72,33 @@ def main():
 
     new_url = "http://localhost:5173/documents"  # The URL you want to navigate to after login
     driver.get(new_url)  # This will redirect you to the new URL
-    time.sleep(5)
+    time.sleep(20)
+    print(driver.current_url)  # check that we are at URL
 
-    # ################################scarpe document cards, block later############################
+    # # ################################scarpe document cards, block later############################
     all_apps_data = {}
+    count = 0
 
+    # get document ids from http://127.0.0.1:8000/docs, the Privacify API
 
-    page_html = driver.page_source
-    soup = BeautifulSoup(page_html, 'html.parser')
+    f = open('data/ids_4.json', encoding='utf-8')
+    data = json.load(f)
 
-    ppaf_links = soup.find_all('a', class_='_link_nazau_1')  # find all card urls in Documents page
-    #ppaf_links = ppaf_links[:3]  # testing the first 5 apps
-    for x in ppaf_links:
-        print(x.get("href"))  # see url grabbed
-        time.sleep(2)
-        driver.get(f"http://localhost:5173{x.get('href')}")  # go to url
+    for x in data:
+        count += 1;
+        # print(x['id']) #url ID
+        driver.get(f"http://localhost:5173/documents/{x['id']}")  # go to url
         print(driver.current_url)  # check that we are at URL
+        time.sleep(2)
 
         page_html2 = driver.page_source  # collect HTML from page
         soup2 = BeautifulSoup(page_html2, 'html.parser')  # parse page
 
         appid = soup2.find('h1', class_="m-8a5d1357 mantine-Title-root")  # find title
         app_id = appid.get_text(strip=True)  # e.g., "SnapChat"
-
         print(app_id)  # check card title
 
-        priv_data = {} # current section data
-
+        priv_data = {}  # current section data
         sections = soup2.find_all('div', class_='m-1b7284a3 mantine-Paper-root')  # find sections "Data shared, etc."
         sections = sections[:3]  # only use the first 3 sections of the card (data shared/ collected / security)
         for i in sections:
@@ -107,16 +107,18 @@ def main():
                 title = header.get_text(strip=True)  # e.g., "Data shared"
                 print(title)
                 info = i.find('ul', class_="m-abbac491 mantine-List-root").get_text(strip=True)
-                #print(info)
+                print(info)
 
                 priv_data[title] = info
 
-        all_apps_data[app_id] = priv_data
-    functions.save_as_json(all_apps_data, 'ppaf_data.json')
+            all_apps_data[app_id] = priv_data
+        functions.save_as_json(all_apps_data, 'data/LAST.json')
+        print(count)
     #####################################scapre document cards#######################################
 
+
     # ################# feed into PPAF ##################################
-    # with open("privacy_policy_links.txt", 'r') as file:
+    # with open("data/privacy_policy_links_take3.txt", 'r', encoding='utf-8') as file:
     #     lines = file.readlines()
     #
     #     for i in range(0, len(lines), 2):  # Increment by 2 to grab pairs
@@ -138,7 +140,7 @@ def main():
     #
     #         submit_button = driver.find_element(By.XPATH, '//button[@type="submit"]')  # Or use By.ID, By.CLASS_NAME
     #         submit_button.click()
-    #         time.sleep(100)
+    #         time.sleep(50)
     #
     #         driver.refresh()
     #         time.sleep(7)
